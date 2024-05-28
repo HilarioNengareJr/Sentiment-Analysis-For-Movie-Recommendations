@@ -1,0 +1,2135 @@
+Stemmed User Reviews,Labels
+"[('excruciatingli', 'NN'), ('aw', 'NN')]",-1
+"[('happen', 'VB')]",0
+"[('worst', 'JJS'), ('one', 'CD'), ('yet', 'RB')]",-1
+"[('fast', 'RB'), ('x', 'NN')]",0
+"[('liter', 'NN'), ('thought', 'VBD'), ('parodi', 'RB'), ('skit', 'JJ'), ('snl', 'NN')]",-1
+"[('need', 'NN'), ('stop', 'VB')]",-1
+"[('comic', 'JJ'), ('bad', 'JJ')]",-1
+"[('aveng', 'JJ'), ('meet', 'NN'), ('fast', 'JJ'), ('furiou', 'NN'), ('everyth', 'NN'), ('goe', 'NN'), ('wrong', 'JJ')]",-1
+"[('toretto', 'JJ'), ('start', 'NN'), ('play', 'NN'), ('rocket', 'NN'), ('leagu', 'NN'), ('middl', 'NN'), ('itali', 'NN')]",0
+"[('jason', 'NN'), ('momoa', 'RBS'), ('give', 'VB'), ('one', 'CD'), ('embarrass', 'NN'), ('perform', 'NN'), ('film', 'NN'), ('histori', 'NN')]",-1
+"[('void', 'NN'), ('car', 'NN'), ('action', 'NN')]",-1
+"[('ca', 'MD'), ('nt', 'VB'), ('wait', 'NN'), ('franchis', 'NN')]",-1
+"[('famili', 'NN')]",0
+"[('could', 'MD'), ('nt', 'VB'), ('even', 'RB'), ('put', 'VB'), ('effort', 'NN'), ('better', 'JJR'), ('titl', 'NN')]",-1
+"[('total', 'JJ'), ('disrespect', 'NN'), ('fan', 'NN')]",-1
+"[('absolut', 'NN'), ('piec', 'NN'), ('crap', 'NN'), ('even', 'RB'), ('end', 'VB')]",-1
+"[('weak', 'JJ'), ('fantasi', 'NN'), ('car', 'NN')]",-1
+"[('entertain', 'VB'), ('part', 'NN'), ('movi', 'NN'), ('chatgpt', 'NN'), ('1010', 'CD'), ('review', 'NN')]",-1
+"[('heck', 'NN')]",-1
+"[('bad', 'JJ')]",-1
+"[('end', 'NN'), ('road', 'NN'), ('begin', 'NN'), ('badli', 'NN')]",-1
+"[('left', 'VBN'), ('furiou', 'NN')]",-1
+"[('miss', 'JJ'), ('old', 'JJ'), ('fast', 'NN'), ('furiou', 'NN')]",-1
+"[('even', 'RB'), ('f', 'JJ'), ('f', 'NN'), ('s', 'NN'), ('mess', 'NN')]",-1
+"[('keep', 'VB'), ('get', 'NN'), ('worst', 'JJS'), ('worst', 'NN')]",-1
+"[('refresh', 'JJ'), ('take', 'VB'), ('action', 'NN'), ('thriller', 'NN')]",1
+"[('pulsat', 'NN'), ('romanc', 'NN'), ('thriller', 'NN')]",1
+"[('definit', 'NN'), ('interest', 'NN'), ('suspens', 'VBZ'), ('movi', 'JJ'), ('lack', 'NN'), ('brillianc', 'NN'), ('hope', 'NN')]",1
+"[('great', 'JJ'), ('look', 'NN'), ('dull', 'JJ'), ('dishwat', 'NN')]",0
+"[('plotlov', 'NNS'), ('need', 'VBP'), ('look', 'VBP'), ('elsewher', 'RB')]",-1
+"[('averag', 'NN')]",0
+"[('unabl', 'JJ'), ('endur', 'NN'), ('boredom', 'NN'), ('work', 'NN')]",-1
+"[('bore', 'RB'), ('movi', 'JJ'), ('s', 'JJ'), ('style', 'NN'), ('substanc', 'NN')]",-1
+"[('incred', 'VBN'), ('slow', 'JJ'), ('predict', 'NN'), ('noth', 'DT'), ('ordinari', 'NN')]",-1
+"[('s', 'NNS'), ('fine', 'VBP')]",0
+"[('yeah', 'NN'), ('nah', 'NN')]",-1
+"[('empathi', 'NN'), ('weak', 'JJ')]",0
+"[('vacuou', 'NN'), ('unnecessari', 'NN')]",-1
+"[('portrait', 'NN'), ('psychopath', 'NN')]",0
+"[('bore', 'RB'), ('death', 'NN')]",-1
+"[('dreari', 'NN')]",-1
+"[('someth', 'NNS'), ('s', 'VBP'), ('miss', 'NN')]",-1
+"[('assassin', 'NN'), ('ve', 'NN'), ('seen', 'VBN'), ('great', 'JJ'), ('director', 'NN')]",0
+"[('overr', 'NN')]",-1
+"[('anoth', 'DT'), ('winner', 'NN'), ('fincher', 'NN')]",1
+"[('fun', 'NN'), ('ride', 'VB'), ('escal', 'JJ')]",-1
+"[('slick', 'JJ'), ('smart', 'NN'), ('slim', 'NN')]",1
+"[('empti', 'NN')]",-1
+"[('cowbel', 'NN'), ('less', 'JJR'), ('narrat', 'JJ')]",0
+"[('yawn', 'NN'), ('blood', 'NN'), ('yawn', 'NN'), ('gore', 'NN'), ('yawn', 'NN')]",-1
+"[('complet', 'NN'), ('underwhelm', 'JJ'), ('slick', 'JJ'), ('product', 'NN'), ('foil', 'NN'), ('weak', 'JJ'), ('stori', 'NN')]",-1
+"[('uniqu', 'JJ'), ('thriller', 'NNS'), ('say', 'VBP'), ('least', 'JJS')]",1
+"[('re', 'NN'), ('mission', 'NN')]",0
+"[('s', 'NN'), ('blue', 'NN')]",0
+"[('one', 'CD'), ('favourit', 'NN'), ('movi', 'NN')]",1
+"[('plot', 'NN'), ('plot', 'NN'), ('nt', 'NNS'), ('care', 'NN')]",0
+"[('nt', 'JJ'), ('miss', 'JJ'), ('comedi', 'NN'), ('like', 'IN')]",1
+"[('utterli', 'JJ'), ('ridicul', 'NN'), ('s', 'JJ'), ('whole', 'JJ'), ('point', 'NN')]",0
+"[('someon', 'NN'), ('found', 'VBD'), ('fountain', 'RB'), ('youth', 'RB'), ('dous', 'JJ'), ('babi', 'NN'), ('caus', 'NN'), ('sure', 'JJ'), ('ai', 'VBP'), ('nt', 'JJ'), ('get', 'NN'), ('old', 'JJ')]",0
+"[('quit', 'NN'), ('possibl', 'NN'), ('john', 'NN'), ('landi', 'NN'), ('s', 'NN'), ('best', 'RBS'), ('film', 'NN')]",1
+"[('take', 'VB'), ('long', 'JJ'), ('watch', 'NN')]",1
+"[('classic', 'JJ')]",1
+"[('nitro', 'RB'), ('glycerin', 'NN')]",0
+"[('true', 'JJ'), ('classic', 'JJ'), ('comedi', 'NN'), ('way', 'NN'), ('funni', 'NN')]",1
+"[('s', 'NNS'), ('real', 'JJ')]",0
+"[('movi', 'NN'), ('like', 'IN'), ('ever', 'RB'), ('made', 'VBN'), ('perman', 'NN'), ('classic', 'JJ')]",1
+"[('blue', 'JJ'), ('brother', 'NN'), ('god', 'NN'), ('s', 'VBZ'), ('servic', 'JJ'), ('cop', 'NN'), ('neonazi', 'NN')]",1
+"[('hell', 'NN'), ('blue', 'VBZ'), ('brother', 'IN'), ('the', 'DT'), ('top', 'JJ'), ('250', 'CD')]",1
+"[('smile', 'NN'), ('almost', 'RB'), ('time', 'NN')]",1
+"[('one', 'CD'), ('blue', 'NN'), ('brother', 'NN')]",1
+"[('great', 'JJ'), ('music', 'NN'), ('peopl', 'NN'), ('nt', 'IN'), ('like', 'IN'), ('music', 'NN')]",0
+"[('wild', 'JJ'), ('music', 'NN'), ('comedi', 'NN'), ('offer', 'NN'), ('longlast', 'NN'), ('fun', 'NN'), ('excit', 'NN')]",1
+"[('re', 'JJ'), ('mission', 'NN'), ('god', 'NN')]",0
+"[('critiqu', 'NN'), ('critic', 'NN')]",1
+"[('wild', 'JJ'), ('crazi', 'NNS'), ('ride', 'VBP')]",0
+"[('eccentr', 'NN'), ('cult', 'NN'), ('classic', 'JJ')]",1
+"[('blame', 'NN'), ('penguin', 'NN')]",0
+"[('run', 'VB'), ('blockbust', 'RB'), ('check', 'VB')]",1
+"[('face', 'NN'), ('noth', 'DT'), ('worri', 'NN')]",0
+"[('fun', 'NN'), ('entertain', 'NN'), ('comedi', 'NN'), ('noisi', 'JJ'), ('action', 'NN'), ('nostalg', 'NN'), ('team', 'NN')]",1
+"[('need', 'NN'), ('sequel', 'NN'), ('movi', 'VB'), ('surviv', 'JJ'), ('time', 'NN'), ('test', 'NN'), ('joy', 'NN'), ('watch', 'NN'), ('even', 'RB'), ('year', 'NN')]",1
+"[('best', 'JJS'), ('film', 'NN'), ('could', 'MD'), ('ask', 'VB'), ('ateam', 'RP'), ('adapt', 'NN')]",1
+"[('love', 'VB'), ('movi', 'NN'), ('come', 'VB'), ('togeth', 'NN')]",1
+"[('ateam', 'NN')]",1
+"[('overblown', 'JJ'), ('superexagger', 'NN'), ('trash', 'NN'), ('love', 'NN'), ('everi', 'NN'), ('minut', 'NN')]",1
+"[('solidli', 'NN'), ('entertain', 'NN'), ('action', 'NN'), ('movi', 'FW'), ('nt', 'JJ'), ('think', 'VBP'), ('hard', 'JJ'), ('plausibl', 'NN')]",1
+"[('piti', 'JJ'), ('fool', 'NN'), ('nt', 'NN'), ('enjoy', 'NN'), ('film', 'NN')]",1
+"[('cteam', 'NN')]",0
+"[('bang', 'NN')]",0
+"[('ridicul', 'NN'), ('action', 'NN'), ('get', 'VB'), ('tiresom', 'NN')]",-1
+"[('ateam', 'NN'), ('1000', 'CD'), ('word', 'NN'), ('overkil', 'NN'), ('underr', 'NN')]",1
+"[('definit', 'NN'), ('dumb', 'JJ'), ('summer', 'NN'), ('fun', 'NN')]",1
+"[('bad', 'JJ'), ('nt', 'JJ'), ('success', 'NN'), ('enough', 'JJ'), ('warrrant', 'NN'), ('sequel', 'NN')]",1
+"[('ateam', 'RB'), ('good', 'JJ'), ('bmovi', 'NN')]",1
+"[('miss', 'NN'), ('goofbal', 'NN'), ('charm', 'NN')]",0
+"[('film', 'NN'), ('well', 'RB'), ('worth', 'JJ'), ('watch', 'NN')]",1
+"[('enjoy', 'JJ'), ('reboot', 'NN'), ('classic', 'JJ'), ('80', 'CD'), ('tv', 'NN'), ('seri', 'NN')]",1
+"[('love', 'NN'), ('plan', 'NN'), ('come', 'VBP'), ('togeth', 'JJ'), ('simpl', 'NN'), ('short', 'JJ'), ('review', 'NN')]",1
+"[('ateam', 'NN')]",0
+"[('4', 'CD'), ('charasmat', 'JJ'), ('lead', 'NN'), ('good', 'JJ'), ('chemistri', 'NN'), ('servic', 'NN'), ('noisi', 'NN'), ('bloat', 'NN'), ('mess', 'NN'), ('movi', 'NN')]",0
+"[('like', 'IN'), ('dteam', 'NN')]",-1
+"[('fool', 'NN'), ('fli', 'NN'), ('fall', 'NN'), ('tank', 'NN')]",0
+"[('circl', 'NN'), ('quit', 'NN'), ('golden', 'JJ'), ('nt', 'NN'), ('collaps', 'NNS')]",0
+"[('long', 'RB'), ('bore', 'RB'), ('overr', 'NN')]",-1
+"[('silli', 'NN'), ('sequel', 'NN'), ('10', 'CD'), ('top', 'JJ'), ('reason', 'NN'), ('watch', 'NN'), ('crap', 'NN')]",-1
+"[('fun', 'NN'), ('feel', 'VBP'), ('like', 'IN'), ('fifth', 'NN'), ('film', 'NN'), ('franchis', 'NN'), ('struggl', 'NN'), ('maintain', 'VBP'), ('relev', 'NN'), ('followup', 'NN'), ('perhap', 'NN'), ('promis', 'VBP'), ('new', 'JJ'), ('properti', 'NN'), ('hollywood', 'NN')]",-1
+"[('matthew', 'NN'), ('maketh', 'NNS'), ('mess', 'NN')]",-1
+"[('great', 'JJ'), ('cast', 'NN'), ('pretti', 'NN'), ('aw', 'NN'), ('movi', 'NN')]",-1
+"[('satir', 'NN'), ('spi', 'JJ'), ('action', 'NN'), ('hijink', 'NN')]",-1
+"[('hyperbol', 'NN'), ('brandadvertis', 'NN'), ('inordin', 'NN'), ('smug', 'NN'), ('hotchpotch', 'NN'), ('halfbak', 'NN'), ('cash', 'NN'), ('cow', 'NN')]",-1
+"[('much', 'JJ'), ('cgi', 'NN'), ('annoy', 'NN'), ('joke', 'NN')]",-1
+"[('entertain', 'RB'), ('never', 'RB'), ('quit', 'VB'), ('reach', 'NN'), ('height', 'NN'), ('predecessor', 'NN')]",0
+"[('disappoint', 'NN')]",-1
+"[('good', 'JJ'), ('origin', 'NN'), ('still', 'RB'), ('entertain', 'VB')]",0
+"[('foul', 'JJ'), ('witless', 'NN'), ('trivial', 'JJ'), ('overblown', 'JJ'), ('dumb', 'NN'), ('bore', 'NN'), ('rot', 'NN'), ('piffal', 'NN')]",-1
+"[('take', 'VB'), ('low', 'JJ'), ('road', 'NN')]",-1
+"[('nt', 'JJ'), ('get', 'NN'), ('wors', 'NNS')]",-1
+"[('solid', 'JJ'), ('followup', 'NN'), ('2015', 'CD'), ('film', 'NN')]",0
+"[('lame', 'NN'), ('forc', 'NN'), ('comedi', 'NN'), ('fill', 'NN'), ('instantli', 'VBP'), ('forgett', 'NN'), ('sequel', 'NN')]",-1
+"[('bummer', 'NN')]",-1
+"[('kingsman', 'NN'), ('golden', 'JJ'), ('circl', 'NN'), ('stuff', 'NN'), ('good', 'JJ')]",-1
+"[('lesser', 'JJR'), ('sequel', 'NN')]",-1
+"[('feel', 'NN'), ('like', 'IN'), ('tornado', 'NN'), ('trailer', 'NN'), ('park', 'NN')]",-1
+"[('overlong', 'RB'), ('flashi', 'JJ'), ('cgi', 'NN'), ('driven', 'VBN'), ('nonsens', 'NNS')]",-1
+"[('rubbish', 'NN')]",-1
+"[('feel', 'VB'), ('good', 'JJ'), ('comedi', 'NN'), ('spi', 'NN'), ('film', 'NN'), ('lot', 'NN'), ('adventur', 'NN')]",1
+"[('kingsman', 'NN'), ('golden', 'JJ'), ('circl', 'NN')]",0
+"[('rather', 'RB'), ('enjoy', 'NN')]",1
+"[('surprisingli', 'NN'), ('s', 'NN'), ('bad', 'JJ'), ('guy', 'NN')]",0
+"[('one', 'CD'), ('best', 'JJS'), ('anim', 'NN'), ('experi', 'NN')]",1
+"[('fun', 'NN'), ('entir', 'NN'), ('fam', 'NN')]",1
+"[('anim', 'NN'), ('gem', 'NN')]",1
+"[('bad', 'JJ'), ('guy', 'NN'), ('taught', 'VBD'), ('us', 'PRP'), ('one', 'CD'), ('thing', 'NN'), ('never', 'RB'), ('judg', 'NN'), ('film', 'NN'), ('trailerpost', 'NN')]",1
+"[('deserv', 'NN'), ('dreamwork', 'NN'), ('next', 'JJ'), ('big', 'JJ'), ('franchis', 'NN')]",1
+"[('fun', 'NN'), ('charact', 'NN'), ('driven', 'VBN'), ('movi', 'JJ'), ('work', 'NN'), ('even', 'RB'), ('fault', 'VBD'), ('definit', 'NN')]",1
+"[('better', 'RBR'), ('cake', 'NN')]",1
+"[('surprisingli', 'RB'), ('good', 'JJ')]",1
+"[('bad', 'JJ'), ('guy', 'NN'), ('good', 'JJ')]",1
+"[('actual', 'JJ'), ('one', 'CD')]",0
+"[('overnight', 'JJ'), ('viral', 'JJ'), ('sensat', 'NN')]",1
+"[('return', 'NN'), ('form', 'NN'), ('dreamwork', 'NN')]",1
+"[('style', 'NN')]",1
+"[('fun', 'NN'), ('action', 'NN'), ('laugh', 'IN'), ('lot', 'NN'), ('crime', 'NN'), ('film', 'NN'), ('homag', 'NN')]",1
+"[('great', 'JJ'), ('anim', 'NN'), ('movi', 'NN')]",1
+"[('bad', 'JJ'), ('bad', 'JJ'), ('guy', 'NN')]",1
+"[('knew', 'RB'), ('good', 'JJ')]",1
+"[('fun', 'NN')]",1
+"[('listen', 'JJ'), ('m', 'NN'), ('51', 'CD'), ('year', 'NN'), ('old', 'JJ'), ('male', 'NN')]",0
+"[('predictableclich', 'JJ'), ('watchabl', 'NN')]",0
+"[('bad', 'JJ'), ('get', 'NN')]",1
+"[('bad', 'JJ'), ('guy', 'NN'), ('rob', 'NN'), ('box', 'NN'), ('offic', 'JJ'), ('best', 'RB'), ('bad', 'JJ'), ('guy', 'NN'), ('know', 'VBP'), ('m', 'NNS'), ('say', 'VBP')]",1
+"[('love', 'NN'), ('film', 'NN'), ('great', 'JJ'), ('famili', 'NN'), ('film', 'NN')]",1
+"[('mainstream', 'NN'), ('comedi', 'NN'), ('done', 'VBN'), ('right', 'NN')]",1
+"[('movi', 'RB'), ('review', 'NN'), ('game', 'NN'), ('night', 'NN')]",0
+"[('better', 'RBR'), ('funnier', 'NN'), ('thought', 'VBN'), ('would', 'MD'), ('let', 'VB'), ('s', 'JJ'), ('game', 'NN'), ('night', 'NN')]",1
+"[('win', 'NN'), ('comedi', 'NN')]",1
+"[('classic', 'JJ'), ('comedi', 'NN'), ('thriller', 'NN'), ('brilliant', 'JJ'), ('dialogu', 'NN'), ('memor', 'NN'), ('charact', 'NN')]",1
+"[('entertain', 'NN'), ('averag', 'RB'), ('board', 'NN'), ('game', 'NN')]",1
+"[('movi', 'NN'), ('play', 'VB'), ('card', 'RB'), ('right', 'JJ')]",1
+"[('funni', 'NN'), ('funni', 'NN'), ('movi', 'NN'), ('rachel', 'NN'), ('mcadam', 'NN'), ('great', 'JJ')]",1
+"[('small', 'JJ'), ('surpris', 'NN')]",1
+"[('legitim', 'NN'), ('hilari', 'NN'), ('comedi', 'NN'), ('surprisingli', 'NN'), ('strong', 'JJ'), ('peripher', 'RB'), ('plot', 'NN'), ('game', 'NN'), ('night', 'NN'), ('way', 'NN'), ('much', 'JJ'), ('fun', 'NN'), ('love', 'NN')]",1
+"[('vulgar', 'NN'), ('violent', 'NN'), ('solidli', 'NN'), ('rrate', 'NN'), ('comedi', 'NN'), ('nevertheless', 'RB'), ('sophist', 'JJ'), ('rather', 'RB'), ('gross', 'JJ')]",1
+"[('could', 'MD'), ('nt', 'VB'), ('stop', 'VB'), ('laugh', 'NN')]",1
+"[('surprisingli', 'NN'), ('funni', 'NN')]",1
+"[('game', 'NN'), ('set', 'VBN'), ('match', 'NN')]",1
+"[('fun', 'NN'), ('film', 'NN')]",1
+"[('amus', 'NN'), ('adultsonli', 'NN'), ('comedi', 'NN'), ('game', 'NN'), ('changer', 'NN')]",1
+"[('fun', 'NN'), ('time', 'NN'), ('genuin', 'JJ'), ('funni', 'JJ'), ('alway', 'NN'), ('entertain', 'NN')]",1
+"[('nt', 'RB'), ('listen', 'JJ'), ('bad', 'JJ'), ('review', 'NN'), ('pretti', 'NN'), ('good', 'JJ'), ('comedi', 'NN')]",1
+"[('game', 'NN'), ('night', 'NN'), ('winner', 'NN')]",1
+"[('hilari', 'NN'), ('stupid', 'JJ'), ('lot', 'NN'), ('fun', 'NN')]",1
+"[('jason', 'NN'), ('bateman', 'NN'), ('shine', 'NN')]",1
+"[('love', 'RB'), ('good', 'JJ'), ('game', 'NN'), ('night', 'NN')]",1
+"[('night', 'NN'), ('game', 'NN'), ('one', 'CD'), ('nt', 'NN'), ('want', 'VBP'), ('miss', 'NN')]",1
+"[('funni', 'JJ'), ('hint', 'NN'), ('unpredict', 'NN')]",1
+"[('hilari', 'NN'), ('watch', 'NN')]",1
+"[('fan', 'NN'), ('milli', 'NN'), ('bobbi', 'VBD'), ('brown', 'JJ')]",1
+"[('sherlock', 'NN'), ('holm', 'NN'), ('fan', 'NN'), ('bad', 'JJ'), ('either', 'CC')]",0
+"[('cute', 'NN'), ('littl', 'NN'), ('movi', 'NN')]",1
+"[('perfect', 'JJ'), ('15', 'CD'), ('yro', 'NN'), ('girl', 'NN')]",1
+"[('man', 'NN'), ('love', 'VB'), ('movi', 'NN')]",1
+"[('could', 'MD'), ('much', 'RB')]",0
+"[('fun', 'NN'), ('sweet', 'NN'), ('uplift', 'NN')]",1
+"[('oh', 'UH'), ('ironi', 'NN')]",0
+"[('target', 'NN'), ('audienc', 'NN')]",-1
+"[('charm', 'NN'), ('film', 'NN'), ('good', 'JJ'), ('whole', 'NN'), ('famili', 'NN')]",1
+"[('bit', 'NN'), ('lost', 'VBD')]",0
+"[('milli', 'NN'), ('bobbi', 'NN'), ('brown', 'IN'), ('solv', 'JJ'), ('dull', 'JJ'), ('mysteri', 'NN'), ('netflix', 'NN'), ('s', 'VBD'), ('disappoint', 'NN'), ('enola', 'NN'), ('holm', 'NN')]",1
+"[('famili', 'NN'), ('entertain', 'NN')]",1
+"[('s', 'RB'), ('good', 'JJ'), ('famili', 'NN'), ('fun', 'NN'), ('taken', 'VBN'), ('serious', 'JJ')]",1
+"[('teen', 'JJ'), ('version', 'NN'), ('guy', 'NN'), ('ritchi', 'NN'), ('genr', 'NN')]",1
+"[('pleas', 'NNS'), ('make', 'VBP'), ('sequel', 'NN')]",1
+"[('fastpac', 'JJ'), ('forgett', 'NN'), ('addit', 'NN'), ('sherlock', 'NN'), ('cannon', 'NN')]",-1
+"[('milli', 'NN'), ('enola', 'NN')]",0
+"[('m', 'NNS'), ('woman', 'NN')]",0
+"[('one', 'CD'), ('purist', 'NN')]",-1
+"[('bit', 'NN'), ('bore', 'NN')]",-1
+"[('enola', 'NN'), ('holm', 'NN')]",0
+"[('fun', 'NN'), ('famili', 'NN'), ('fandom', 'NN')]",1
+"[('break', 'NN'), ('fourth', 'JJ'), ('wall', 'NN'), ('femin', 'NN')]",1
+"[('rate', 'NN'), ('higher', 'JJR')]",1
+"[('sure', 'JJ'), ('fan', 'NN'), ('favorit', 'NN'), ('full', 'JJ'), ('classic', 'JJ'), ('crime', 'NN'), ('fight', 'NN'), ('battl', 'RB'), ('well', 'RB'), ('heartfelt', 'VB'), ('messag', 'NN')]",1
+"[('recent', 'JJ'), ('turn', 'NN'), ('30', 'CD'), ('day', 'NN'), ('ago', 'IN'), ('realli', 'NN'), ('enjoy', 'NN'), ('leagu', 'NN'), ('superpet', 'NN')]",1
+"[('think', 'VB'), ('adult', 'NN'), ('like', 'IN')]",1
+"[('keep', 'VB'), ('mind', 'NN'), ('s', 'JJ'), ('adult', 'NN'), ('great', 'JJ'), ('children', 'NNS'), ('s', 'VBP'), ('film', 'NN')]",1
+"[('surprisingli', 'NN'), ('compet', 'NN'), ('charm', 'NN')]",1
+"[('multipaw', 'NN')]",1
+"[('lot', 'NN'), ('fun', 'NN')]",1
+"[('superpet', 'NN'), ('review', 'NN'), ('surpris', 'NN')]",1
+"[('fun', 'NN'), ('movi', 'NNS'), ('watch', 'VBP')]",1
+"[('famili', 'NN'), ('s', 'NN'), ('best', 'JJS'), ('friend', 'NN'), ('fun', 'NN'), ('movi', 'NN'), ('go', 'VBP')]",1
+"[('would', 'MD'), ('expect', 'VB')]",1
+"[('dcu', 'NN')]",1
+"[('fun', 'NN'), ('cute', 'NN')]",1
+"[('one', 'CD'), ('best', 'JJS'), ('dc', 'NN'), ('film', 'NN'), ('ever', 'RB')]",1
+"[('secret', 'JJ'), ('live', 'VBP'), ('pet', 'JJ'), ('get', 'VB'), ('mix', 'JJ'), ('dc', 'NN'), ('univers', 'NNS')]",1
+"[('funni', 'NN'), ('hell', 'NN')]",1
+"[('pet', 'JJ'), ('take', 'VB'), ('hero', 'NN')]",1
+"[('fun', 'NN'), ('adult', 'NN'), ('well', 'RB'), ('kid', 'VB')]",1
+"[('m', 'JJ'), ('sure', 'JJ'), ('guinea', 'NN'), ('pig', 'NN'), ('could', 'MD'), ('make', 'VB'), ('anyon', 'NN')]",0
+"[('much', 'JJ'), ('love', 'NN'), ('superpet', 'NN')]",1
+"[('weak', 'JJ')]",-1
+"[('fun', 'NN'), ('film', 'NN'), ('great', 'JJ'), ('time', 'NN')]",1
+"[('dc', 'NN'), ('stirk', 'NN')]",1
+"[('krypto', 'NN'), ('movi', 'NNS'), ('need', 'VBP'), ('made', 'VBN')]",1
+"[('big', 'JJ'), ('laugh', 'NN'), ('big', 'JJ'), ('fun', 'NN'), ('lot', 'NN'), ('heart', 'NN'), ('poor', 'JJ'), ('man', 'NN'), ('s', 'NN'), ('secret', 'JJ'), ('life', 'NN'), ('pet', 'NN')]",1
+"[('ca', 'MD'), ('nt', 'VB'), ('find', 'VB'), ('wow', 'JJ'), ('factor', 'NN')]",-1
+"[('big', 'JJ'), ('giant', 'NN'), ('mess', 'NN')]",-1
+"[('mess', 'NN')]",-1
+"[('410', 'CD')]",-1
+"[('caricatur', 'NN'), ('movi', 'NN')]",-1
+"[('disappear', 'JJ'), ('mind', 'NN'), ('soon', 'RB'), ('s', 'VBD')]",-1
+"[('term', 'NN'), ('plot', 'NN'), ('complet', 'NN'), ('mess', 'NN')]",-1
+"[('unbeliev', 'RB'), ('good', 'JJ'), ('way', 'NN')]",-1
+"[('miss', 'NN'), ('magic', 'NN'), ('first', 'RB'), ('still', 'RB'), ('entertain', 'VB')]",0
+"[('good', 'JJ'), ('sequel', 'NN'), ('full', 'JJ'), ('twist', 'NN'), ('fun', 'NN')]",1
+"[('cheaper', 'JJR'), ('way', 'NN'), ('get', 'VB'), ('sleep', 'JJ')]",-1
+"[('disappoint', 'NN')]",-1
+"[('plastic', 'NN'), ('fantast', 'NN'), ('bore', 'NN'), ('unbeliev', 'NN')]",-1
+"[('love', 'NN')]",1
+"[('review', 'NN'), ('fake', 'VBP'), ('big', 'JJ'), ('name', 'NN'), ('nt', 'NN'), ('help', 'NN'), ('bad', 'JJ'), ('movi', 'NN')]",-1
+"[('go', 'VB'), ('show', 'NN'), ('peopl', 'RB'), ('never', 'RB'), ('forget', 'VB')]",1
+"[('throw', 'VB'), ('logic', 'JJ'), ('realism', 'NN')]",-1
+"[('autist', 'JJ'), ('review', 'NN'), ('opinion', 'NN'), ('movi', 'NN')]",-1
+"[('good', 'JJ'), ('first', 'RB'), ('one', 'CD'), ('good', 'JJ'), ('enough', 'RB')]",0
+"[('dull', 'NN'), ('cheap', 'NN'), ('near', 'IN'), ('prequel', 'NN')]",-1
+"[('spoilerfre', 'NN'), ('review', 'NN')]",0
+"[('inarticul', 'NN')]",-1
+"[('see', 'VB'), ('2', 'CD')]",0
+"[('see', 'VB'), ('2', 'CD'), ('review', 'NN'), ('cash', 'NN'), ('grab', 'NN')]",-1
+"[('nysm2', 'RB'), ('liter', 'JJ'), ('fatal', 'JJ'), ('misdirect', 'NN'), ('littl', 'JJ'), ('way', 'NN'), ('fresh', 'JJ'), ('excit', 'NN')]",-1
+"[('hardcor', 'NN'), ('comedi', 'NN'), ('adult', 'NN')]",0
+"[('sicken', 'JJ'), ('deprav', 'NN'), ('disgust', 'NN'), ('hilari', 'NN')]",0
+"[('mix', 'NN'), ('bag', 'NN'), ('outrag', 'NN'), ('humor', 'NN')]",0
+"[('pueril', 'NN'), ('comedi', 'NN'), ('slapstick', 'NN'), ('love', 'NN')]",1
+"[('man', 'NN'), ('know', 'VBP'), ('funni', 'NN')]",1
+"[('nonstop', 'JJ'), ('gag', 'NN')]",1
+"[('either', 'DT'), ('rais', 'NN'), ('lower', 'JJR'), ('bar', 'NN'), ('filth', 'NN')]",0
+"[('scene', 'NN'), ('movi', 'NN'), ('never', 'RB'), ('unse', 'NN'), ('said', 'VBD'), ('realli', 'JJ'), ('realli', 'NN'), ('enjoy', 'NN'), ('recommend', 'NN')]",1
+"[('liam', 'NN'), ('gallagh', 'NN'), ('s', 'NN'), ('best', 'JJS'), ('role', 'NN'), ('date', 'NN')]",1
+"[('grimsbi', 'NN'), ('funni', 'VBZ'), ('one', 'CD')]",1
+"[('incred', 'VBN'), ('raunchi', 'NNS'), ('silli', 'VBP'), ('yet', 'RB'), ('laugh', 'JJ'), ('time', 'NN')]",1
+"[('laugh', 'RB'), ('much', 'JJ'), ('cinema', 'NN'), ('sinc', 'NN'), ('parol', 'NN'), ('offic', 'NN')]",1
+"[('love', 'NN'), ('hate', 'NN')]",0
+"[('spi', 'NN'), ('satir', 'NN'), ('gamestyl', 'NN'), ('stori', 'NN')]",1
+"[('take', 'VB'), ('gross', 'JJ'), ('new', 'JJ'), ('depth', 'NN')]",-1
+"[('grim', 'JJ'), ('good', 'JJ')]",1
+"[('s', 'JJ'), ('noth', 'DT'), ('grim', 'JJ'), ('grimsbi', 'NN')]",0
+"[('funniest', 'JJS'), ('move', 'NN'), ('year', 'NN'), ('kill', 'RB'), ('bad', 'JJ'), ('market', 'NN'), ('poor', 'JJ'), ('studio', 'NN'), ('choic', 'NN')]",1
+"[('first', 'RB'), ('ll', 'JJ'), ('rub', 'NN'), ('eye', 'NN'), ('ll', 'VBP'), ('need', 'NN'), ('wash', 'NN')]",-1
+"[('happen', 'VB'), ('oncebrav', 'NN'), ('comedian', 'JJ'), ('conform', 'NN'), ('mainstream', 'NN'), ('standard', 'NN')]",-1
+"[('s', 'NN'), ('bonker', 'NN')]",-1
+"[('clumsi', 'NN'), ('rude', 'NN'), ('funni', 'NN')]",0
+"[('ye', 'NN'), ('stupid', 'JJ'), ('funni', 'NN')]",0
+"[('atroci', 'NNS'), ('everi', 'VBP'), ('way', 'NN')]",-1
+"[('excel', 'NN'), ('gut', 'NN'), ('bust', 'NN'), ('humor', 'NN'), ('sensit', 'NN'), ('folk', 'NN'), ('stick', 'NN'), ('pg', 'JJ'), ('pc', 'NN')]",1
+"[('fast', 'RB'), ('furiou', 'JJ'), ('6', 'CD'), ('best', 'JJS'), ('film', 'NN'), ('franchis', 'NN'), ('love', 'NN'), ('death', 'NN')]",1
+"[('build', 'VB'), ('upon', 'IN'), ('win', 'JJ'), ('blockbust', 'JJ'), ('formula', 'NN'), ('fast', 'RB'), ('five', 'CD')]",1
+"[('vehicular', 'NN'), ('warfar', 'NN')]",1
+"[('beastli', 'NN')]",1
+"[('hail', 'NN'), ('hail', 'NN'), ('gang', 'NN'), ('s', 'VBD'), ('minu', 'CD'), ('one', 'CD')]",1
+"[('fast', 'RB'), ('furiou', 'JJ'), ('6', 'CD')]",1
+"[('brainless', 'NN'), ('overr', 'NN'), ('longest', 'JJS'), ('takeoff', 'NN'), ('strip', 'NN'), ('world', 'NN')]",-1
+"[('pretti', 'NNS'), ('ace', 'VBP'), ('film', 'NN')]",1
+"[('big', 'JJ'), ('movi', 'NN'), ('fun', 'NN'), ('time', 'NN')]",1
+"[('movin', 'NN')]",1
+"[('inde', 'NN'), ('guy', 'NN'), ('s', 'NN'), ('movi', 'NN')]",0
+"[('bold', 'JJ'), ('imagin', 'NN'), ('beauti', 'NN'), ('execut', 'VBD'), ('exhilar', 'JJ'), ('car', 'NN'), ('chase', 'NN'), ('ever', 'RB'), ('done', 'VBN'), ('film', 'NN'), ('make', 'VBP'), ('unequivoc', 'JJ'), ('franchis', 'NN'), ('best', 'JJS'), ('thu', 'NN'), ('far', 'RB')]",1
+"[('nt', 'JJ'), ('get', 'VB'), ('previou', 'JJ'), ('instal', 'JJ'), ('well', 'RB'), ('receiv', 'JJ'), ('re', 'NN'), ('utterli', 'JJ'), ('stupid', 'JJ')]",-1
+"[('pure', 'NN'), ('entertain', 'NN')]",1
+"[('fast', 'RB'), ('car', 'NN'), ('tank', 'NN'), ('plane', 'NN'), ('oh', 'NN')]",1
+"[('incred', 'JJ'), ('thoroughli', 'NN'), ('enjoy', 'NN')]",1
+"[('whole', 'JJ'), ('new', 'JJ'), ('stratospher', 'JJR'), ('action', 'NN'), ('f', 'NN'), ('f6', 'JJ'), ('start', 'NN'), ('separ', 'NN'), ('junki', 'NN'), ('need', 'VBP'), ('substanc', 'NN')]",1
+"[('physic', 'JJ'), ('defi', 'NN'), ('entertain', 'NN')]",1
+"[('amazingli', 'NN'), ('faster', 'RBR'), ('furiou', 'NN'), ('ever', 'RB')]",1
+"[('thrill', 'VB'), ('ride', 'VB'), ('par', 'JJ'), ('excel', 'NN')]",1
+"[('action', 'NN'), ('franchis', 'NN'), ('nt', 'NN'), ('ga', 'NN'), ('yet', 'RB')]",1
+"[('idl', 'NN'), ('furiou', 'NNS'), ('need', 'VBP'), ('tuneup', 'NN')]",-1
+"[('number', 'NN'), ('6', 'CD'), ('winner', 'NN')]",1
+"[('life', 'NN'), ('speed', 'NN'), ('famili', 'VBP'), ('two', 'CD'), ('best', 'JJS'), ('thing', 'NN')]",1
+"[('ok', 'NN')]",0
+"[('ok', 'JJ'), ('ll', 'NN'), ('confess', 'NN'), ('movi', 'NN'), ('definit', 'VBP'), ('junk', 'NN'), ('food', 'NN'), ('mind', 'NN'), ('like', 'IN'), ('eat', 'NN'), ('twinki', 'JJ'), ('fun', 'NN'), ('watch', 'NN')]",0
+"[('small', 'JJ'), ('movi', 'NN'), ('big', 'JJ'), ('heart', 'NN'), ('highli', 'NN'), ('underr', 'NN')]",1
+"[('flaw', 'NN'), ('fun', 'NN')]",1
+"[('underr', 'NN')]",1
+"[('thought', 'VBN'), ('decent', 'NN')]",0
+"[('well', 'RB'), ('made', 'VBN'), ('action', 'NN'), ('movi', 'FW'), ('air', 'NN'), ('mystiqu', 'NN')]",1
+"[('loner', 'NN'), ('assassin', 'JJ'), ('face', 'NN'), ('supernatur', 'NN'), ('warrior', 'JJ'), ('impress', 'NN'), ('fight', 'NN'), ('breathtak', 'NN'), ('action', 'NN')]",1
+"[('star', 'NN'), ('jennif', 'NN'), ('garner', 'NN'), ('make', 'VBP'), ('worthwhil', 'NN')]",1
+"[('lusciou', 'NN'), ('ladi', 'NN'), ('red', 'VBD')]",0
+"[('noth', 'DT'), ('valu', 'FW'), ('pretti', 'RB'), ('much', 'JJ'), ('templat', 'NNS'), ('make', 'VBP'), ('bad', 'JJ'), ('actionsuperhero', 'NN'), ('movi', 'NN')]",0
+"[('insan', 'JJ'), ('fun', 'NN'), ('entic', 'JJ'), ('movi', 'NN')]",1
+"[('intens', 'NNS')]",1
+"[('superb', 'NN'), ('difficult', 'JJ'), ('comic', 'JJ'), ('book', 'NN'), ('film', 'NN')]",1
+"[('jennif', 'NN'), ('garner', 'NN'), ('spectacular', 'JJ'), ('elektra', 'JJ'), ('bob', 'NN'), ('sapp', 'NN'), ('rule', 'NN')]",1
+"[('better', 'RBR'), ('expect', 'VB')]",1
+"[('second', 'JJ'), ('life', 'NN'), ('second', 'JJ'), ('chanc', 'NN')]",1
+"[('great', 'JJ'), ('entertain', 'NN'), ('film', 'NN')]",1
+"[('mess', 'NN')]",-1
+"[('poor', 'JJ'), ('man', 'NN'), ('s', 'VBZ'), ('daredevil', 'JJ')]",1
+"[('boy', 'NN'), ('s', 'JJ'), ('ponder', 'NN'), ('take', 'VB'), ('girl', 'NN'), ('power', 'NN')]",0
+"[('weak', 'JJ'), ('vehicl', 'NN')]",-1
+"[('electra', 'NNS'), ('know', 'VBP')]",-1
+"[('specialeffect', 'JJ'), ('extravaganza', 'VBZ'), ('lack', 'NN'), ('stori', 'JJ'), ('charact', 'NN'), ('develop', 'VB'), ('visual', 'JJ'), ('stun', 'NN'), ('surreal', 'NN'), ('atmospher', 'RB'), ('terrif', 'JJ'), ('action', 'NN'), ('sequenc', 'NN'), ('thumb', 'NN')]",-1
+"[('everyon', 'JJ'), ('look', 'NN'), ('pain', 'NN')]",-1
+"[('ok', 'NN'), ('film', 'NN')]",0
+"[('eye', 'NN'), ('candi', 'NN'), ('nobrain', 'JJ'), ('fun', 'NN'), ('watch', 'NN')]",1
+"[('s', 'NN'), ('fun', 'NN')]",1
+"[('music', 'NN'), ('video', 'NN'), ('entertain', 'NN')]",-1
+"[('highspirit', 'NN'), ('infecti', 'NN'), ('ridicul', 'NN')]",1
+"[('golden', 'JJ'), ('turkey', 'NN'), ('award', 'NN'), ('nomin', 'NN')]",-1
+"[('silli', 'NN'), ('quit', 'NN'), ('enjoy', 'VBP'), ('re', 'NN'), ('mood', 'NN')]",0
+"[('charli', 'NN'), ('would', 'MD'), ('approv', 'VB')]",1
+"[('angel', 'NN'), ('conclud', 'NN'), ('broadcast', 'NN'), ('day', 'NN')]",1
+"[('solid', 'JJ'), ('fun', 'NN')]",1
+"[('simpli', 'NN'), ('brilliantli', 'NN'), ('silli', 'NN'), ('fun', 'NN'), ('make', 'VBP'), ('smile', 'JJ'), ('everi', 'JJ'), ('time', 'NN'), ('watch', 'NN')]",1
+"[('chad', 'NN')]",1
+"[('plain', 'NN'), ('fun', 'NN')]",1
+"[('enjoy', 'NN'), ('movi', 'NN'), ('also', 'RB'), ('littl', 'VBZ'), ('silli', 'NN')]",0
+"[('fun', 'NN'), ('movi', 'NN'), ('base', 'NN'), ('1970', 'CD'), ('show', 'NN')]",1
+"[('angel', 'NN'), ('fallen', 'VBN'), ('big', 'JJ'), ('time', 'NN')]",-1
+"[('entertain', 'NN'), ('fluff', 'NN')]",0
+"[('s', 'RB'), ('hard', 'JJ'), ('like', 'IN'), ('girl', 'NN')]",1
+"[('ravish', 'JJ'), ('lethal', 'NN'), ('detect', 'NN'), ('rescu', 'NN'), ('stolen', 'VBN'), ('softwar', 'NN')]",1
+"[('annoy', 'NN'), ('music', 'NN'), ('video', 'NN'), ('girl', 'NN'), ('power', 'NN'), ('nt', 'NNS'), ('make', 'VBP'), ('laugh', 'JJ'), ('cri', 'NN')]",-1
+"[('enjoy', 'NN'), ('piec', 'NN'), ('fluff', 'NN')]",0
+"[('charli', 'NN'), ('s', 'NN'), ('angel', 'NN')]",0
+"[('slick', 'JJ'), ('enjoy', 'NN'), ('fast', 'JJ'), ('pace', 'NN'), ('hilari', 'NN'), ('action', 'NN'), ('movi', 'NN')]",1
+"[('shame', 'NN'), ('mcg', 'NN')]",-1
+"[('good', 'JJ'), ('cheesi', 'NN'), ('fun', 'NN')]",1
+"[('continu', 'NN'), ('charact', 'NN'), ('s', 'JJ'), ('stori', 'JJ'), ('lightheart', 'NN'), ('manner', 'NN'), ('previou', 'NN'), ('film', 'NN')]",0
+"[('fun', 'NN'), ('fun', 'NN'), ('fun', 'NN')]",1
+"[('intrigu', 'NN'), ('adventur', 'NN'), ('still', 'RB'), ('miss', 'JJ'), ('littl', 'NN'), ('someth', 'NN')]",1
+"[('netflix', 'NN')]",1
+"[('ordinari', 'JJ'), ('noth', 'DT'), ('extra', 'JJ')]",0
+"[('great', 'JJ'), ('sequel', 'NN')]",1
+"[('enjoy', 'VB'), ('sequel', 'NN'), ('much', 'JJ'), ('fun', 'NN'), ('origin', 'NN')]",1
+"[('thoroughli', 'NN'), ('enjoy', 'NN'), ('caper', 'NN')]",1
+"[('strike', 'NN'), ('chord', 'NN')]",1
+"[('second', 'JJ'), ('vers', 'NNS'), ('first', 'RB')]",0
+"[('anoth', 'DT'), ('enjoy', 'VBP'), ('enola', 'JJ'), ('tale', 'NN')]",1
+"[('2', 'CD'), ('year', 'NN'), ('later', 'RB')]",0
+"[('par', 'NN'), ('origin', 'NN')]",1
+"[('love', 'NN'), ('enola', 'NN')]",1
+"[('new', 'JJ'), ('investig', 'NN'), ('elona', 'NN'), ('holm', 'NN')]",0
+"[('awkward', 'RB'), ('sociopolit', 'NN'), ('cring', 'VBG')]",-1
+"[('forgot', 'NN'), ('concept', 'NN'), ('stori', 'NN')]",-1
+"[('bore', 'NN'), ('mediocr', 'NN')]",-1
+"[('great', 'JJ'), ('film', 'NN')]",1
+"[('keep', 'VB'), ('come', 'NN')]",1
+"[('adventur', 'NN'), ('fun', 'NN')]",1
+"[('enola', 'NN'), ('holm', 'VBZ'), ('2', 'CD'), ('surpass', 'NN'), ('origin', 'NN')]",1
+"[('enola', 'NN'), ('back', 'RB')]",1
+"[('thrill', 'NN'), ('triumphant', 'NN'), ('sequel', 'NN')]",1
+"[('milli', 'RB'), ('usual', 'JJ'), ('good', 'JJ'), ('job', 'NN'), ('transfix', 'NNS'), ('viewer', 'VBP'), ('keep', 'VB'), ('entertain', 'NN')]",1
+"[('enjoy', 'JJ'), ('re', 'VB'), ('watch', 'NN'), ('much', 'RB'), ('make', 'VB'), ('sens', 'NNS')]",0
+"[('turn', 'NN'), ('bond', 'NN')]",0
+"[('still', 'RB'), ('good', 'JJ'), ('good', 'NN')]",0
+"[('bit', 'NN'), ('mess', 'NN')]",-1
+"[('hate', 'NN'), ('movi', 'NNS'), ('let', 'VBP'), ('count', 'VB'), ('way', 'NN')]",-1
+"[('monument', 'NN'), ('stupid', 'NN')]",-1
+"[('girl', 'NN'), ('bore', 'NN'), ('web', 'NN')]",-1
+"[('watchabl', 'NN'), ('shallow', 'VB'), ('spinoff', 'NN')]",0
+"[('lisbeth', 'JJ'), ('saland', 'NN'), ('righter', 'NN'), ('wrong', 'JJ'), ('girl', 'NN'), ('dragon', 'NN'), ('tattoo', 'NN')]",0
+"[('lisbeth', 'JJ'), ('saland', 'NN'), ('action', 'NN'), ('hero', 'NN')]",-1
+"[('tangl', 'NN'), ('spider', 'NN'), ('s', 'NN'), ('web', 'NN')]",-1
+"[('girl', 'NN'), ('meh', 'NN'), ('movi', 'NN')]",-1
+"[('clair', 'NN'), ('foy', 'NN'), ('lisbeth', 'CD'), ('saland', 'NN')]",0
+"[('quit', 'NN'), ('swedish', 'JJ'), ('qualiti', 'NN')]",-1
+"[('standard', 'JJ'), ('action', 'NN'), ('movi', 'NN')]",0
+"[('realli', 'NN'), ('aw', 'NN'), ('deriv', 'NN'), ('movi', 'NN'), ('sjw', 'NN'), ('superhero', 'NN')]",-1
+"[('visual', 'JJ'), ('entertain', 'NN'), ('direct', 'JJ'), ('lack', 'NN'), ('plot', 'NN'), ('darker', 'NN'), ('tone', 'NN'), ('dragon', 'NN'), ('tattoo', 'NN'), ('movi', 'NN')]",0
+"[('stori', 'NN'), ('oh', 'UH'), ('predict', 'NN')]",-1
+"[('insult', 'NN'), ('millennium', 'NN'), ('seri', 'NN')]",-1
+"[('anoth', 'JJ'), ('american', 'JJ'), ('miss', 'NN')]",-1
+"[('aw', 'NN'), ('movi', 'NN')]",-1
+"[('disappoint', 'NN')]",-1
+"[('get', 'VB'), ('stuck', 'JJ')]",-1
+"[('enough', 'RB'), ('alreadi', 'NN')]",0
+"[('bad', 'JJ')]",0
+"[('third', 'JJ'), ('worst', 'JJS'), ('langdonhanksbrownhoward', 'NN'), ('film', 'NN')]",-1
+"[('dazzl', 'NN'), ('confus', 'NN')]",-1
+"[('piti', 'NN'), ('anyon', 'NN'), ('paid', 'VBD'), ('cinema', 'JJ'), ('price', 'NN'), ('absurd', 'NNS'), ('turkey', 'NN')]",-1
+"[('nation', 'NN'), ('treasur', 'NN'), ('better', 'RBR'), ('movi', 'NN')]",-1
+"[('like', 'IN'), ('bad', 'JJ'), ('tv', 'NN'), ('version', 'NN'), ('da', 'NN'), ('vinci', 'NN'), ('code', 'NN')]",-1
+"[('product', 'NN'), ('interfer', 'NN'), ('ruin', 'JJ'), ('end', 'NN')]",-1
+[],0
+"[('empti', 'NN'), ('calori', 'NN'), ('mainli', 'NN'), ('due', 'JJ'), ('poor', 'JJ'), ('direct', 'JJ')]",-1
+"[('disappoint', 'NN'), ('predict', 'NN'), ('stori', 'NN')]",-1
+"[('messi', 'NN'), ('weak', 'JJ'), ('lack', 'NN'), ('seriou', 'JJ'), ('impact', 'NN'), ('seriou', 'NN'), ('crisi', 'NN')]",-1
+"[('wast', 'NN'), ('opportun', 'NN')]",-1
+"[('careerlow', 'NN'), ('involv', 'NN')]",-1
+"[('would', 'MD'), ('chang', 'VB'), ('end', 'NN'), ('best', 'JJS'), ('part', 'NN'), ('book', 'NN')]",-1
+"[('nt', 'JJ'), ('watch', 'NN'), ('read', 'VBD'), ('book', 'NN')]",-1
+"[('sadli', 'JJ'), ('disappoint', 'NN'), ('hollow', 'NN'), ('remnant', 'NN'), ('franchis', 'NN')]",-1
+"[('good', 'JJ'), ('exampl', 'NN'), ('bad', 'JJ'), ('product', 'NN')]",-1
+"[('good', 'JJ'), ('peopl', 'NN'), ('stori', 'VBD'), ('money', 'NN'), ('5', 'CD'), ('stori', 'NN'), ('adapt', 'NN')]",-1
+"[('turkey', 'JJ'), ('year', 'NN')]",-1
+"[('mysteri', 'NNS'), ('thriller', 'NN'), ('set', 'VBN'), ('florenc', 'JJ'), ('venic', 'JJ'), ('istanbul', 'NN'), ('plenti', 'NN'), ('suspens', 'NNS'), ('twist', 'VBP'), ('turn', 'NN')]",1
+"[('good', 'JJ'), ('forgett', 'NN'), ('read', 'VBP'), ('book', 'NN'), ('vs', 'NN')]",0
+"[('disappoint', 'NN'), ('chang', 'NNS'), ('end', 'VBP')]",-1
+"[('long', 'RB'), ('wast', 'JJ'), ('time', 'NN')]",-1
+"[('ron', 'NN'), ('howard', 'NN'), ('s', 'NN'), ('inferno', 'NN')]",-1
+"[('total', 'JJ'), ('disappoint', 'NN')]",-1
+"[('expect', 'VB')]",0
+"[('drown', 'JJ'), ('weight', 'VBD'), ('cryptic', 'JJ'), ('dialogu', 'NN'), ('abstract', 'JJ'), ('storytel', 'NN')]",-1
+"[('perhap', 'NN'), ('scott', 'NN'), ('s', 'NN'), ('underr', 'NN'), ('film', 'NN')]",1
+"[('one', 'CD'), ('counsel', 'NN')]",0
+"[('one', 'CD'), ('greatest', 'JJS'), ('moral', 'JJ'), ('play', 'NN'), ('time', 'NN')]",1
+"[('m', 'NN'), ('contrarian', 'NN')]",-1
+"[('counselor', 'NN'), ('love', 'VB'), ('give', 'JJ'), ('one', 'CD'), ('els', 'VBZ'), ('reason', 'NN'), ('love', 'VB'), ('let', 'NN'), ('alon', 'NN'), ('care', 'NN')]",-1
+"[('ca', 'MD'), ('nt', 'VB'), ('believ', 'NN'), ('crime', 'NN'), ('thriller', 'NN'), ('bore', 'NN')]",-1
+"[('judg', 'NN')]",0
+"[('wow', 'NN')]",1
+"[('stop', 'VB'), ('cormac', 'NN'), ('ridley', 'NN'), ('cameron', 'NN'), ('could', 'MD')]",-1
+"[('charact', 'NN'), ('compel', 'NN'), ('interest', 'NN')]",-1
+"[('poorlyscript', 'JJ'), ('drug', 'NN'), ('traffick', 'NN'), ('drama', 'NN')]",-1
+"[('convolut', 'JJ'), ('equal', 'JJ'), ('complex', 'NN')]",-1
+"[('counsel', 'NN'), ('counselor', 'NN')]",0
+"[('disappoint', 'NN'), ('neonoir', 'NN'), ('ridley', 'NN'), ('scott', 'NN'), ('cormac', 'NN'), ('mccarthi', 'NN')]",-1
+"[('counselor', 'NN'), ('shakespearean', 'JJ'), ('tragedi', 'NN'), ('greed', 'NN'), ('desper', 'NN')]",-1
+"[('disappoint', 'NN'), ('limit', 'NN'), ('word', 'NN')]",-1
+"[('new', 'JJ'), ('level', 'NN'), ('sinist', 'NN')]",-1
+"[('counselor', 'NN'), ('prove', 'VB'), ('talent', 'NN'), ('peopl', 'NN'), ('produc', 'NN'), ('horrend', 'NN'), ('mess', 'NN')]",-1
+"[('evil', 'JJ'), ('audaci', 'NN')]",-1
+"[('might', 'MD'), ('monologu', 'VB')]",1
+"[('dark', 'JJ'), ('bleak', 'NN'), ('masterpiec', 'NN'), ('predat', 'NN'), ('1010', 'CD')]",1
+"[('dead', 'JJ'), ('bore', 'NN'), ('first', 'RB'), ('hour', 'NN'), ('impress', 'JJ'), ('end', 'NN')]",0
+"[('absolut', 'NN'), ('brilliant', 'NN')]",1
+"[('whackedout', 'IN'), ('comedi', 'NN'), ('lot', 'NN'), ('laugh', 'IN')]",1
+"[('tight', 'NN'), ('like', 'IN'), ('tiger', 'NN')]",1
+"[('weakest', 'JJS'), ('seri', 'NN'), ('myer', 'NN'), ('still', 'RB'), ('mojo', 'VB')]",-1
+"[('austin', 'NN'), ('s', 'NN'), ('anatomi', 'NN')]",0
+"[('good', 'JJ'), ('second', 'NN')]",0
+"[('everyth', 'NNS'), ('love', 'VBP')]",1
+"[('gold', 'NN'), ('littl', 'NN'), ('tarnish', 'NN')]",-1
+"[('still', 'RB'), ('good', 'JJ'), ('time', 'NN'), ('waster', 'NN')]",0
+"[('love', 'NN'), ('gold', 'NN')]",0
+"[('austin', 'NN'), ('powersmik', 'NN'), ('meyer', 'NN'), ('back', 'RB'), ('along', 'RB'), ('hilari', 'JJ'), ('new', 'JJ'), ('charact', 'NN')]",1
+"[('wildli', 'NN'), ('hitormiss', 'NN')]",0
+"[('tarnish', 'JJ'), ('goldmemb', 'NN'), ('still', 'RB'), ('shine', 'VB')]",1
+"[('like', 'IN'), ('goooooooold', 'JJ'), ('member', 'NN')]",1
+"[('myer', 'NN'), ('excel', 'NN'), ('job', 'NN'), ('differ', 'VBP'), ('charact', 'NN')]",1
+"[('still', 'RB'), ('retain', 'VB'), ('humour', 'JJ'), ('somehow', 'NN'), ('contain', 'NN'), ('less', 'RBR'), ('content', 'JJ')]",0
+"[('third', 'JJ'), ('time', 'NN'), ('s', 'JJ'), ('golden', 'JJ'), ('babi', 'NN')]",0
+"[('goldmemb', 'NN'), ('pretti', 'NNS'), ('good', 'JJ')]",1
+"[('ok', 'NN'), ('worst', 'JJS'), ('three', 'CD')]",0
+"[('anoth', 'DT'), ('great', 'JJ'), ('spoof', 'NN'), ('movi', 'NN')]",1
+"[('buffooneri', 'NN'), ('goldfing', 'VBG')]",0
+"[('crazi', 'NN'), ('plot', 'NN')]",1
+"[('note', 'NN')]",0
+"[('goldmemb', 'NN')]",1
+"[('funni', 'NN')]",1
+"[('myer', 'NN'), ('geniu', 'NN')]",1
+"[('yeah', 'RB'), ('babi', 'VBZ'), ('one', 'CD'), ('funniest', 'NN'), ('friggin', 'NN'), ('movi', 'NN'), ('time', 'NN')]",1
+"[('mr', 'NN'), ('mojo', 'NNS'), ('rise', 'NN')]",1
+"[('slightli', 'NN'), ('better', 'RBR'), ('first', 'RB')]",1
+"[('wonder', 'NN'), ('sequel', 'NN')]",1
+"[('recycl', 'NN'), ('old', 'JJ'), ('humor', 'NN'), ('still', 'RB'), ('fun', 'VB')]",1
+"[('better', 'JJR'), ('first', 'JJ'), ('one', 'NN')]",1
+"[('inevit', 'NN'), ('cheeki', 'NN'), ('myer', 'NN')]",1
+"[('austin', 'JJ'), ('power', 'NN'), ('spi', 'NN'), ('shag', 'NN')]",0
+"[('hilari', 'NN'), ('timewast', 'NN')]",0
+"[('film', 'NN'), ('buff', 'NN'), ('like', 'IN')]",1
+"[('scott', 'NN'), ('dr', 'NN'), ('evil', 'NN')]",1
+"[('man', 'NN'), ('golden', 'JJ'), ('pun', 'NN')]",0
+"[('one', 'CD'), ('funniest', 'JJS'), ('sequel', 'NN'), ('ever', 'RB'), ('made', 'VBD')]",1
+"[('superior', 'JJ'), ('sequel', 'NN')]",1
+"[('mostli', 'RB'), ('good', 'JJ'), ('one', 'CD'), ('scene', 'NN'), ('unnecessari', 'NN')]",0
+"[('funni', 'NN'), ('nasti', 'JJ'), ('rrate', 'NN'), ('look', 'NN'), ('stupid', 'JJ'), ('60', 'CD')]",0
+"[('inferior', 'JJ'), ('sequel', 'NN'), ('success', 'NN'), ('lack', 'NN'), ('dri', 'NN'), ('wit', 'NN'), ('predecessor', 'NN')]",1
+"[('still', 'RB'), ('funni', 'JJ'), ('lot', 'NN'), ('recycl', 'NN'), ('gag', 'NN'), ('first', 'RB'), ('film', 'NN')]",1
+"[('smoke', 'NN'), ('sex', 'NN'), ('nt', 'NN'), ('know', 'VBP'), ('ve', 'NN'), ('never', 'RB'), ('look', 'VBP')]",0
+"[('s', 'JJ'), ('shagadel', 'NN'), ('babi', 'NN')]",1
+"[('austin', 'JJ'), ('power', 'NN'), ('spi', 'NN'), ('shag', 'JJ'), ('lightheart', 'NN'), ('entertain', 'NN'), ('suppli', 'JJ'), ('ton', 'NN'), ('laugh', 'NN')]",1
+"[('uggghhhh', 'JJ'), ('funni', 'NN'), ('s', 'NN'), ('depress', 'NN')]",-1
+"[('funniest', 'JJS'), ('joke', 'NN'), ('1990', 'CD')]",1
+"[('anoth', 'DT'), ('funni', 'JJ'), ('entri', 'NN'), ('seri', 'NN'), ('actual', 'JJ'), ('favorit', 'NN')]",1
+"[('hilari', 'NN')]",1
+"[('impress', 'JJ'), ('action', 'NN'), ('sequenc', 'NN'), ('let', 'VBD'), ('almost', 'RB'), ('everyth', 'JJ'), ('els', 'NNS')]",-1
+"[('dead', 'JJ'), ('presid', 'NN')]",0
+"[('excel', 'NN'), ('cinematographyfun', 'NN'), ('remak', 'NN')]",1
+"[('extrem', 'NN'), ('sportsextrem', 'NN'), ('dud', 'NN')]",0
+"[('gopro', 'NNS'), ('red', 'JJ'), ('bull', 'NN'), ('decid', 'NNS'), ('make', 'VBP'), ('film', 'NN')]",0
+"[('watch', 'NN'), ('origin', 'VBP'), ('one', 'CD'), ('instead', 'RB')]",-1
+"[('nonsens', 'NNS'), ('plot', 'NN'), ('accompani', 'VBP'), ('visual', 'JJ'), ('splendor', 'NN'), ('world', 'NN'), ('s', 'NN'), ('extrem', 'NN'), ('corner', 'NN')]",-1
+"[('point', 'NN'), ('broken', 'NNS')]",0
+"[('worst', 'JJS'), ('remak', 'NN'), ('ever', 'RB')]",-1
+"[('s', 'NN'), ('almost', 'RB'), ('though', 'IN'), ('made', 'VBN'), ('terribl', 'NN'), ('movi', 'NN'), ('purpos', 'NN')]",-1
+"[('pointless', 'NN'), ('break', 'NN')]",-1
+"[('pointless', 'NN'), ('retread', 'NN')]",-1
+"[('terribl', 'NN'), ('film', 'NN')]",-1
+"[('disappoint', 'NN')]",-1
+"[('craptacular', 'NN')]",-1
+"[('dire', 'NN'), ('far', 'RB'), ('seriou', 'JJ'), ('remak', 'NN')]",0
+"[('110', 'CD'), ('bewar', 'JJ'), ('garbag', 'NN')]",-1
+"[('s', 'JJ'), ('black', 'JJ'), ('eye', 'NN'), ('fan', 'NN'), ('origin', 'NN'), ('might', 'MD'), ('given', 'VBN'), ('disast', 'VB'), ('chanc', 'NN')]",-1
+"[('pointless', 'RB'), ('hollow', 'JJ'), ('budget', 'NN'), ('s', 'NN'), ('expand', 'VBP'), ('person', 'NN'), ('energi', 'NN'), ('gone', 'VBN')]",-1
+"[('probabl', 'NN'), ('worst', 'JJS'), ('remak', 'NN'), ('ever', 'RB')]",-1
+"[('aw', 'NN'), ('movi', 'NNS'), ('disgrac', 'VBP'), ('origin', 'NN')]",-1
+"[('terribl', 'NN'), ('crappi', 'NN'), ('remak', 'NN'), ('awesom', 'NN'), ('classic', 'JJ'), ('film', 'NN')]",-1
+"[('storywis', 'NN'), ('mediocr', 'NN'), ('movi', 'NN'), ('stunt', 'NN'), ('sceneri', 'VBD'), ('make', 'VBP'), ('1', 'CD'), ('hour', 'NN'), ('45', 'CD'), ('minut', 'NN'), ('worth', 'NN'), ('watch', 'VBP'), ('us', 'PRP'), ('enjoy', 'VB'), ('sort', 'JJ'), ('thing', 'NN')]",0
+"[('horribl', 'NN'), ('movi', 'NN')]",-1
+"[('empti', 'NN')]",-1
+"[('awesom', 'NN')]",1
+"[('intellig', 'NN'), ('matur', 'NN'), ('batman', 'NN'), ('cartoon', 'NN')]",1
+"[('batman', 'NN'), ('mask', 'NN'), ('underr', 'JJ'), ('classic', 'JJ')]",1
+"[('greatest', 'JJS'), ('anim', 'NN'), ('batman', 'NN'), ('film', 'NN')]",1
+"[('along', 'IN'), ('tim', 'JJ'), ('burton', 'NN'), ('s', 'NN'), ('batman', 'JJ'), ('return', 'NN'), ('best', 'JJS'), ('batman', 'NN'), ('movi', 'NN'), ('date', 'NN')]",1
+"[('like', 'IN'), ('brilliant', 'JJ'), ('fourpart', 'NN'), ('episod', 'VBZ'), ('seri', 'JJ'), ('lot', 'NN'), ('person', 'NN'), ('wound', 'IN'), ('reveal', 'NN'), ('joker', 'NN'), ('boot', 'NN')]",1
+"[('like', 'IN'), ('first', 'JJ'), ('two', 'CD'), ('batman', 'NN'), ('movi', 'NN'), ('definit', 'NN'), ('must', 'MD'), ('see', 'VB')]",1
+"[('first', 'RB'), ('great', 'JJ'), ('anim', 'JJ'), ('batman', 'NN'), ('movi', 'NN')]",1
+"[('walk', 'NN'), ('edg', 'NN'), ('abyss', 'NN'), ('everi', 'NN'), ('night', 'NN')]",1
+"[('blackest', 'JJS'), ('night', 'NN')]",0
+"[('favorit', 'NN'), ('batman', 'NN'), ('movi', 'NN')]",1
+"[('way', 'NN'), ('batman', 'NN'), ('s', 'VBD'), ('origin', 'NN'), ('meant', 'NN'), ('told', 'VBD')]",1
+"[('measur', 'NN')]",1
+"[('absolut', 'JJ'), ('classic', 'JJ'), ('best', 'JJS'), ('batman', 'NN'), ('movi', 'NN'), ('far', 'RB')]",1
+"[('aww', 'RB'), ('yeah', 'PRP'), ('one', 'CD'), ('best', 'JJS')]",1
+"[('amaz', 'JJ'), ('batman', 'NN'), ('movi', 'NN')]",1
+"[('best', 'RBS'), ('romant', 'NN'), ('film', 'NN'), ('ve', 'NN'), ('ever', 'RB'), ('seen', 'VBN')]",1
+"[('absolut', 'JJ'), ('batman', 'NN'), ('anim', 'IN'), ('movi', 'JJ'), ('time', 'NN')]",1
+"[('still', 'RB'), ('classic', 'JJ')]",1
+"[('certain', 'JJ'), ('advantag', 'NN'), ('sturdi', 'NN'), ('cranium', 'NN'), ('master', 'NN'), ('bruce', 'NN')]",0
+"[('best', 'JJS'), ('portray', 'NN'), ('dark', 'NN'), ('knight', 'VBD')]",1
+"[('well', 'RB'), ('made', 'VBN'), ('matur', 'NN'), ('entertain', 'NN')]",1
+"[('batman', 'NN'), ('mask', 'NN'), ('phantasm', 'NN'), ('nt', 'JJ'), ('see', 'NN'), ('appeal', 'NN')]",-1
+"[('best', 'JJS'), ('batman', 'NN'), ('movi', 'NN'), ('time', 'NN')]",1
+"[('great', 'JJ'), ('anim', 'NN'), ('seri', 'NN')]",1
+"[('king', 'VBG'), ('hundr', 'NN'), ('jester', 'NN')]",1
+"[('greatest', 'JJS'), ('comedi', 'NN'), ('time', 'NN'), ('period', 'NN')]",1
+"[('sum', 'JJ'), ('part', 'NN')]",1
+"[('ye', 'NN'), ('s', 'NN'), ('loud', 'JJ'), ('s', 'NN'), ('incred', 'VBD'), ('comedi', 'JJ'), ('classic', 'JJ')]",1
+"[('comedi', 'NN'), ('classic', 'NNS'), ('still', 'RB'), ('hold', 'VB')]",1
+"[('push', 'NN'), ('button', 'NN'), ('mark', 'NN'), ('booz', 'NN')]",1
+"[('come', 'JJ'), ('let', 'NN'), ('s', 'VB'), ('one', 'CD'), ('big', 'JJ'), ('adventur', 'NN')]",0
+"[('classic', 'JJ'), ('epic', 'NN'), ('comedi', 'NN'), ('much', 'JJ'), ('edit', 'NN')]",1
+"[('epic', 'NN'), ('comedi', 'NN')]",1
+"[('personifi', 'NN'), ('everyth', 'NN'), ('hate', 'NN'), ('movi', 'NN'), ('yet', 'RB'), ('oh', 'VBN'), ('laugh', 'NN')]",0
+"[('long', 'RB'), ('still', 'RB'), ('manag', 'VB'), ('one', 'CD'), ('funniest', 'JJS'), ('quotabl', 'NN'), ('comedi', 'NN'), ('ever', 'RB')]",1
+"[('everi', 'RB'), ('comic', 'JJ'), ('practic', 'JJ'), ('everi', 'NN'), ('part', 'NN'), ('world', 'NN'), ('get', 'VBP'), ('take', 'VB'), ('lump', 'NN')]",1
+"[('s', 'NN'), ('everi', 'NN'), ('man', 'NN'), ('old', 'JJ'), ('bag', 'NN')]",0
+"[('funniest', 'JJS'), ('movi', 'NN'), ('time', 'NN')]",1
+"[('everi', 'JJ'), ('man', 'NN'), ('merman', 'NN')]",0
+"[('re', 'NN'), ('go', 'VBP'), ('kill', 'VB'), ('arnold', 'RB'), ('stang', 'NN')]",0
+"[('classic', 'JJ'), ('ll', 'NN'), ('never', 'RB'), ('get', 'VB'), ('tire', 'NN'), ('watch', 'NN')]",1
+"[('mad', 'JJ'), ('x', '$'), ('4', 'CD'), ('world', 'NN'), ('big', 'JJ'), ('w', 'NN'), ('wonder', 'NN'), ('simpli', 'NN'), ('priceless', 'NN')]",1
+"[('comedian', 'JJ'), ('caus', 'NN'), ('damag', 'NN')]",0
+"[('s', 'NN'), ('funni', 'NN'), ('funni', 'NN'), ('funni', 'NN'), ('funni', 'NN'), ('movi', 'NN')]",1
+"[('funni', 'RB'), ('even', 'RB'), ('know', 'VBP'), ('heart', 'NN')]",1
+"[('great', 'JJ'), ('great', 'JJ'), ('great', 'JJ'), ('film', 'NN')]",1
+"[('movi', 'NN'), ('treasur', 'NN')]",1
+"[('greatest', 'JJS'), ('comedi', 'NN'), ('ever', 'RB'), ('made', 'VBD'), ('period', 'NN')]",1
+"[('s', 'JJ'), ('bad', 'JJ'), ('bad', 'JJ'), ('bad', 'JJ'), ('bad', 'JJ'), ('movi', 'NN')]",-1
+"[('underr', 'NN')]",1
+"[('good', 'JJ'), ('action', 'NN'), ('film', 'NN')]",1
+"[('averag', 'RB'), ('good', 'JJ'), ('action', 'NN'), ('film', 'NN')]",0
+"[('good', 'JJ'), ('aspect', 'NN'), ('realli', 'VBZ'), ('let', 'VBN'), ('fact', 'NN'), ('s', 'VB'), ('aim', 'NN'), ('twelv', 'IN'), ('year', 'NN'), ('old', 'JJ')]",0
+"[('averag', 'JJ'), ('action', 'NN'), ('movi', 'NN'), ('noth', 'DT'), ('noth', 'DT'), ('less', 'JJR')]",0
+"[('action', 'NN'), ('fan', 'NN')]",1
+"[('die', 'RB'), ('hard', 'JJ'), ('continu', 'NN'), ('influenc', 'NN'), ('day', 'NN')]",1
+"[('walk', 'NN'), ('clich', 'NN')]",-1
+"[('one', 'CD'), ('better', 'JJR'), ('tvseriestobigscreenadapt', 'NN')]",1
+"[('better', 'RBR'), ('titl', 'NN'), ('might', 'MD'), ('sowat', 'VB')]",-1
+"[('run', 'VB'), ('mil', 'JJ'), ('action', 'NN'), ('film', 'NN')]",1
+"[('good', 'JJ'), ('action', 'NN'), ('movi', 'NNS'), ('enough', 'RB'), ('michel', 'VBP'), ('rodriguez', 'NNS')]",0
+"[('anoth', 'DT'), ('film', 'NN'), ('good', 'JJ'), ('concept', 'NN'), ('never', 'RB'), ('deliv', 'NN')]",-1
+"[('averag', 'NNS'), ('unrealist', 'JJ')]",0
+"[('swat', 'NN'), ('load', 'NN'), ('rubbish', 'NN')]",-1
+"[('swagger', 'JJR'), ('action', 'NN'), ('film', 'NN'), ('violent', 'NN'), ('fun', 'NN')]",1
+"[('d', 'NN'), ('expect', 'VBP')]",0
+"[('perfect', 'JJ'), ('popcorn', 'NN'), ('movi', 'NN')]",1
+"[('good', 'JJ'), ('popcorn', 'NN'), ('fun', 'NN'), ('big', 'JJ'), ('screen', 'NN'), ('rendit', 'NN'), ('midseventi', 'NNP'), ('tv', 'NN'), ('seri', 'NN')]",1
+"[('seal', 'NN'), ('frisk', 'NN')]",1
+"[('run', 'VB'), ('mill', 'NN'), ('excit', 'NN')]",0
+"[('8', 'CD'), ('12', 'CD'), ('10', 'CD'), ('s', 'NNS'), ('good', 'JJ')]",1
+"[('watchabl', 'NN'), ('big', 'JJ'), ('budget', 'NN'), ('hollywood', 'NN'), ('action', 'NN'), ('pass', 'NN'), ('time', 'NN'), ('suppos', 'NN')]",0
+"[('utterli', 'JJ'), ('routin', 'NN')]",0
+"[('simpl', 'NN'), ('fun', 'NN')]",1
+"[('horribl', 'NN'), ('film', 'NN'), ('action', 'NN'), ('ruin', 'NN'), ('movi', 'NN')]",-1
+"[('fantast', 'NN'), ('cast', 'VBD'), ('complet', 'NN'), ('wast', 'NN'), ('stupid', 'JJ'), ('stori', 'NN')]",-1
+[],-1
+"[('suppos', 'JJ'), ('root', 'NN'), ('snake', 'NN'), ('eye', 'NN')]",-1
+"[('lost', 'VBN'), ('plot', 'NN')]",-1
+"[('atroci', 'NN'), ('edit', 'NN'), ('ruin', 'JJ'), ('action', 'NN'), ('sequenc', 'JJ'), ('locat', 'NN'), ('top', 'JJ'), ('notch', 'NN'), ('though', 'IN')]",-1
+"[('throw', 'VB'), ('thing', 'NN'), ('wall', 'NN'), ('bad', 'JJ')]",-1
+"[('s', 'JJ'), ('origin', 'NN'), ('film', 'NN'), ('origin', 'NN'), ('miss', 'NN')]",-1
+"[('shoddi', 'NN'), ('film', 'NN'), ('bad', 'JJ'), ('cast', 'NN'), ('disrespect', 'NN'), ('sourc', 'NN'), ('materi', 'NN')]",-1
+"[('none', 'NN'), ('make', 'NN'), ('sens', 'NNS')]",-1
+"[('complet', 'NN'), ('let', 'VB')]",-1
+"[('good', 'JJ'), ('origin', 'NN'), ('stori', 'NN')]",-1
+"[('plagu', 'NN'), ('shaki', 'NN'), ('cam', 'NN')]",-1
+"[('gi', 'NN')]",-1
+"[('except', 'IN'), ('pair', 'JJ'), ('dice', 'JJ'), ('random', 'NN'), ('gi', 'NN'), ('joe', 'NN'), ('label', 'NN'), ('assembl', 'NN'), ('everi', 'NN'), ('clich', 'JJ'), ('sloppili', 'NN'), ('present', 'NN')]",-1
+"[('one', 'CD'), ('record', 'NN')]",-1
+"[('slow', 'JJ'), ('depth', 'NN'), ('snake', 'NN'), ('eye', 'NN')]",-1
+"[('almost', 'RB'), ('ok', 'JJ')]",-1
+"[('obnoxi', 'RB'), ('bad', 'JJ'), ('shallow', 'NN')]",-1
+"[('nt', 'JJ'), ('enjoy', 'NN'), ('singl', 'JJ'), ('second', 'NN')]",-1
+"[('andrew', 'NN'), ('koji', 'VBZ'), ('steal', 'JJ'), ('show', 'NN')]",0
+"[('film', 'NN'), ('anyth', 'NN')]",-1
+[],0
+"[('gi', 'NN'), ('origin', 'NN')]",0
+"[('bore', 'IN'), ('action', 'NN'), ('film', 'NN'), ('person', 'NN')]",-1
+"[('visual', 'JJ'), ('stun', 'NN'), ('everi', 'NN'), ('respect', 'NN')]",1
+"[('suspens', 'NNS'), ('thrill', 'VBP'), ('wellpac', 'JJ'), ('underwat', 'JJ'), ('adventur', 'NN'), ('diver', 'NN'), ('locat', 'NN'), ('shipwreck', 'NN'), ('treasur', 'JJ'), ('drug', 'NN')]",1
+"[('s', 'NN'), ('call', 'NN'), ('marin', 'NN'), ('biolog', 'NN')]",1
+"[('wellpac', 'NN'), ('fun', 'NN')]",1
+"[('good', 'JJ')]",0
+"[('great', 'JJ'), ('visual', 'JJ'), ('weak', 'JJ'), ('script', 'NN')]",-1
+"[('call', 'NN'), ('crazi', 'NN')]",0
+"[('one', 'CD'), ('man', 'NN'), ('s', 'VBZ'), ('treasur', 'NN'), ('may', 'MD'), ('belong', 'VB'), ('someon', 'NN'), ('els', 'NNS')]",0
+"[('jessica', 'NN'), ('alba', 'NNS'), ('save', 'VBP'), ('movi', 'VBN'), ('disast', 'NN')]",-1
+"[('awesom', 'NN'), ('john', 'NN'), ('stockwel', 'NN'), ('film', 'NN'), ('focus', 'NN'), ('tension', 'NN'), ('around', 'IN'), ('interest', 'NN'), ('marin', 'NN'), ('biologist', 'NN')]",1
+"[('surprisingli', 'RB'), ('good', 'JJ')]",1
+"[('gutter', 'NN')]",-1
+"[('overal', 'JJ'), ('bad', 'JJ'), ('film', 'NN'), ('worth', 'NN'), ('watch', 'NN')]",0
+"[('big', 'JJ'), ('bounc', 'NN'), ('three', 'CD'), ('deep', 'JJ'), ('blue', 'NN'), ('crush', 'NN'), ('sunset', 'NN')]",0
+"[('predic', 'JJ'), ('entertain', 'NN'), ('adventur', 'NN')]",0
+"[('nt', 'NNS'), ('expect', 'VBP'), ('shakespear', 'JJ'), ('take', 'VBP'), ('sunglass', 'NN')]",0
+"[('pure', 'NN'), ('freag', 'NN'), ('paradis', 'NN'), ('freag', 'NN'), ('hot', 'JJ'), ('complet', 'NN'), ('beauti', 'NN'), ('jessica', 'NN'), ('alba', 'JJ'), ('freag', 'NN'), ('hot', 'JJ'), ('bikini', 'NN')]",1
+"[('into', 'IN'), ('blue', 'JJ'), ('manag', 'NN'), ('creat', 'NN'), ('excit', 'JJ'), ('caribbean', 'JJ'), ('vibe', 'NN'), ('stretch', 'NN'), ('popcorn', 'VBP'), ('thriller', 'NN'), ('work', 'NN')]",1
+"[('beauti', 'NN'), ('sceneri', 'NN'), ('moder', 'NN'), ('adventur', 'NN')]",1
+"[('m', 'NN'), ('fill', 'NN'), ('vision', 'NN'), ('ocean', 'NN')]",1
+"[('actual', 'JJ'), ('quit', 'NN'), ('enjoy', 'NN'), ('slick', 'NN'), ('nonsens', 'VBZ'), ('full', 'JJ'), ('beauti', 'NN'), ('peopl', 'NN')]",1
+"[('austin', 'NN'), ('movi', 'NN'), ('show', 'NN'), ('review', 'NN')]",0
+"[('good', 'JJ'), ('movi', 'NN')]",1
+"[('movi', 'NNS'), ('make', 'VBP'), ('pirat', 'JJ'), ('caribbean', 'NN')]",1
+"[('blue', 'JJ'), ('treasur', 'NN'), ('price', 'NN')]",0
+"[('hot', 'JJ'), ('chick', 'NN'), ('fast', 'NN'), ('car', 'NN'), ('violenc', 'NN')]",0
+"[('object', 'NN'), ('review', 'NN')]",0
+"[('nt', 'JJ'), ('fool', 'NN'), ('high', 'JJ'), ('score', 'NN'), ('film', 'NN'), ('suck', 'NN')]",-1
+"[('nice', 'JJ'), ('car', 'NN')]",1
+"[('fresh', 'JJ'), ('roadkil', 'NN')]",0
+"[('valiant', 'JJ'), ('effort', 'NN'), ('least', 'JJS')]",-1
+"[('seen', 'VBN'), ('interest', 'NN'), ('roadkil', 'NN')]",-1
+"[('good', 'JJ'), ('intens', 'NNS'), ('thriller', 'VBP'), ('independ', 'JJ'), ('low', 'JJ'), ('budget', 'NN'), ('sprinkl', 'NN'), ('better', 'RBR'), ('night', 'NN'), ('swim', 'NN'), ('sure', 'NN')]",1
+"[('31', 'CD'), ('ss', 'NN'), ('trip', 'NN')]",0
+"[('excel', 'JJ'), ('american', 'JJ'), ('low', 'JJ'), ('budget', 'NN'), ('thriller', 'NN')]",1
+"[('keanu', 'NN'), ('s', 'NN'), ('stunt', 'NN'), ('doubl', 'NN'), ('lol', 'NN')]",0
+"[('one', 'CD'), ('worst', 'JJS')]",-1
+"[('rivet', 'NN')]",1
+"[('awesom', 'JJ'), ('twist', 'NN'), ('turn', 'NN')]",1
+"[('unexpect', 'JJ'), ('plot', 'NN'), ('twist', 'JJ'), ('end', 'NN')]",1
+"[('suspens', 'NNS'), ('edg', 'VBP'), ('seat', 'NN'), ('ever', 'RB'), ('turn', 'VB')]",1
+"[('twist', 'NN'), ('turn', 'NN'), ('around', 'RP')]",1
+"[('taken', 'VBN')]",0
+"[('shockingli', 'NN'), ('disappoint', 'NN'), ('final', 'JJ'), ('taken', 'VBN'), ('3', 'CD'), ('disgrac', 'JJ'), ('star', 'NN'), ('liam', 'NN'), ('neeson', 'NN'), ('appal', 'JJ'), ('display', 'NN'), ('inept', 'JJ'), ('director', 'NN'), ('olivi', 'IN'), ('megaton', 'NN')]",-1
+"[('aw', 'NN'), ('camera', 'NN'), ('edit', 'NN'), ('direct', 'JJ'), ('senseless', 'NN'), ('plot', 'NN')]",-1
+"[('mistaken', 'NN')]",-1
+"[('nt', 'JJ'), ('pessimist', 'NN'), ('cool', 'NN'), ('dialog', 'NN')]",0
+"[('end', 'NN'), ('good', 'JJ'), ('advic', 'NN')]",0
+"[('good', 'JJ'), ('thing', 'NN'), ('seri', 'JJ'), ('end', 'NN')]",-1
+"[('thrill', 'NN'), ('violent', 'JJ'), ('pictur', 'NN'), ('sensat', 'VBD'), ('liam', 'JJ'), ('neeson', 'JJ'), ('relentless', 'NN'), ('aveng', 'NN'), ('father', 'NN')]",1
+"[('got', 'VBD'), ('dizzi', 'JJ'), ('watch', 'NN'), ('movi', 'NN')]",-1
+"[('taken', 'VBN'), ('3', 'CD'), ('parkinson', 'NN'), ('3', 'CD')]",-1
+"[('terribl', 'NN'), ('actual', 'JJ'), ('funni', 'NN')]",-1
+"[('love', 'NN'), ('first', 'RB'), ('one', 'CD'), ('may', 'MD'), ('think', 'VB'), ('much', 'RB'), ('one', 'CD')]",-1
+"[('disappoint', 'NN'), ('unrealist', 'NN'), ('sequel', 'NN')]",-1
+"[('excel', 'NN')]",1
+"[('bad', 'JJ'), ('end', 'NN'), ('fun', 'NN'), ('trilog', 'NN')]",1
+"[('slow', 'JJ'), ('part', 'NN'), ('entertain', 'VBP'), ('overal', 'JJ')]",0
+"[('nt', 'JJ'), ('expect', 'VBP'), ('trail', 'JJ'), ('bodi', 'NN'), ('previou', 'NN'), ('movi', 'NN')]",-1
+"[('neeson', 'JJ'), ('continu', 'NN'), ('dynam', 'NN'), ('stealthi', 'NN'), ('aveng', 'NN'), ('bryan', 'NN'), ('mill', 'NN')]",1
+"[('satisfi', 'JJ'), ('end', 'NN'), ('thrill', 'NN'), ('franchis', 'NN')]",0
+"[('last', 'JJ'), ('last', 'JJ'), ('chapter', 'NN')]",-1
+"[('actual', 'JJ'), ('wors', 'NNS'), ('taken', 'VBN'), ('2', 'CD')]",-1
+"[('even', 'RB'), ('liam', 'JJR'), ('neeson', 'NN'), ('could', 'MD'), ('save', 'VB'), ('one', 'CD')]",-1
+"[('third', 'JJ'), ('time', 'NN'), ('charm', 'NN')]",1
+"[('bondlik', 'JJ'), ('action', 'NN'), ('thriller', 'NN')]",1
+"[('good', 'JJ'), ('thriller', 'NN')]",1
+"[('hitman', 'NN'), ('movi', 'NN')]",1
+"[('unfortun', 'JJ'), ('action', 'NN'), ('movi', 'NN')]",-1
+"[('agent', 'NN'), ('47', 'CD')]",0
+"[('noth', 'DT'), ('agent', 'NN'), ('47', 'CD')]",-1
+"[('hit', 'NN'), ('mark', 'NN')]",1
+"[('like', 'IN')]",1
+"[('loud', 'JJ'), ('dumb', 'JJ'), ('execut', 'NN'), ('enough', 'JJ'), ('flair', 'NN'), ('momentum', 'NN'), ('bore', 'IN'), ('hitman', 'JJ'), ('reboot', 'NN'), ('passabl', 'NN'), ('divers', 'NNS')]",0
+"[('watch', 'VB'), ('one', 'CD'), ('serious', 'JJ')]",-1
+"[('explos', 'JJ'), ('action', 'NN'), ('movi', 'VBD'), ('start', 'JJ'), ('end', 'NN')]",1
+"[('panach', 'NN'), ('elan', 'NN')]",0
+"[('realli', 'NN'), ('worth', 'JJ'), ('rental', 'NN'), ('would', 'MD'), ('nt', 'VB'), ('aw', 'JJ'), ('rental', 'JJ')]",0
+"[('make', 'VB'), ('2007', 'CD'), ('hitman', 'NN'), ('film', 'NN'), ('look', 'VBP'), ('like', 'IN'), ('masterpiec', 'NN')]",-1
+"[('like', 'IN')]",1
+"[('fantast', 'NN'), ('fadein', 'NN'), ('fadeout', 'NN')]",1
+"[('ridicul', 'NN')]",-1
+"[('bad', 'JJ')]",0
+"[('play', 'NN'), ('game', 'NN'), ('still', 'RB'), ('nt', 'VBZ'), ('like', 'IN'), ('movi', 'NN')]",-1
+"[('underneath', 'JJ'), ('disguis', 'NN'), ('flashi', 'NN'), ('cinemat', 'NN'), ('nois', 'JJ'), ('effect', 'NN'), ('hitman', 'NN'), ('agent', 'NN'), ('47', 'CD'), ('sadli', 'NN'), ('still', 'RB'), ('misfir', 'VBZ'), ('corni', 'JJ'), ('script', 'NN'), ('abysm', 'NN'), ('plot', 'NN')]",-1
+"[('complet', 'NN'), ('garbag', 'NN')]",-1
+"[('style', 'NN'), ('substanc', 'NN')]",-1
+"[('mindless', 'JJ'), ('actionlittl', 'NN'), ('plot', 'NN')]",-1
+"[('better', 'RBR'), ('attempt', 'NN'), ('quit', 'NN')]",-1
+"[('made', 'VBN'), ('went', 'VBD'), ('along', 'IN')]",-1
+"[('tgchan', 'NNS'), ('say', 'VBP'), ('no', 'DT'), ('wwwtgchanpl', 'NN')]",-1
+"[('go', 'VB'), ('see', 'NN'), ('might', 'MD'), ('surpris', 'VB')]",0
+"[('go', 'VB'), ('flow', 'NN')]",0
+"[('seen', 'VBN')]",0
+"[('plenti', 'JJ'), ('action', 'NN'), ('good', 'JJ'), ('photographi', 'NN')]",1
+"[('nailbit', 'RB'), ('thriller', 'JJ'), ('unstop', 'JJ'), ('action', 'NN'), ('jason', 'NN'), ('statham', 'JJ'), ('hothead', 'NN'), ('top', 'NN'), ('hitman', 'NN')]",1
+"[('s', 'NN'), ('dumb', 'NN'), ('fun', 'NN')]",0
+"[('empti', 'NN'), ('entertain', 'NN'), ('fun', 'NN'), ('sun', 'JJ'), ('lack', 'NN'), ('creativ', 'NN'), ('breathtak', 'NN')]",-1
+"[('wors', 'NNS'), ('jason', 'NN'), ('film', 'NN'), ('ever', 'RB'), ('like', 'IN'), ('previou', 'NN'), ('film', 'NN')]",-1
+"[('suspend', 'NN'), ('disbelief', 'NN'), ('one', 'CD'), ('thing', 'NN'), ('insult', 'NN')]",-1
+"[('expect', 'VB')]",0
+"[('bore', 'NN'), ('non', 'NN'), ('logic', 'NN'), ('film', 'NN')]",-1
+"[('much', 'RB'), ('better', 'RBR'), ('expect', 'VBP')]",1
+"[('predict', 'NN')]",-1
+"[('bad', 'JJ'), ('action', 'NN'), ('stori', 'NN'), ('nt', 'RB'), ('make', 'VB'), ('sens', 'NNS')]",-1
+"[('comeon', 'NN'), ('peopl', 'NN'), ('s', 'NN'), ('statham', 'NN'), ('movi', 'NN')]",1
+"[('word', 'NN'), ('seem', 'VBP'), ('lose', 'JJ'), ('s', 'NN'), ('mean', 'NN'), ('ill', 'NNS'), ('say', 'VBP'), ('fun', 'NN')]",0
+"[('fun', 'NN'), ('action', 'NN'), ('sequel', 'NN'), ('jason', 'NN'), ('statham', 'NN')]",0
+"[('silli', 'NN'), ('bore', 'RBR'), ('chaotic', 'JJ')]",-1
+"[('mechan', 'NN'), ('resurrect', 'NN'), ('brainless', 'NN'), ('entertain', 'NN')]",-1
+"[('statham', 'NN'), ('shoot', 'NN'), ('beat', 'NN'), ('peopl', 'NN'), ('count', 'NN')]",1
+"[('statham', 'NN'), ('alba', 'NN'), ('michel', 'NN'), ('yeoh', 'NN')]",1
+"[('mechan', 'NN'), ('uninspir', 'NN')]",-1
+"[('great', 'JJ'), ('statham', 'NN'), ('movi', 'NN'), ('lover', 'NN')]",1
+"[('almost', 'RB'), ('good', 'JJ'), ('2011', 'CD'), ('movi', 'NN')]",-1
+"[('aw', 'NN'), ('movi', 'NNS'), ('terribl', 'VBP'), ('act', 'JJ'), ('lousi', 'JJ'), ('cgi', 'NN'), ('effect', 'NN')]",-1
+"[('noth', 'DT'), ('new', 'JJ'), ('spectacular', 'JJ'), ('explos', 'NN')]",0
+"[('stay', 'VB'), ('away', 'RB'), ('garbag', 'JJ'), ('cost', 'NN')]",-1
+"[('absolut', 'NN'), ('trash', 'NN')]",-1
+"[('worst', 'JJS'), ('movi', 'NN'), ('ever', 'RB')]",-1
+"[('unwatch', 'NN'), ('nonsens', 'NNS')]",-1
+"[('cryptic', 'JJ'), ('nothing', 'NN'), ('empti', 'NN'), ('personifi', 'NN'), ('empti', 'NN'), ('vacant', 'JJ'), ('room', 'NN'), ('lost', 'VBD'), ('littl', 'JJ'), ('repect', 'NN'), ('still', 'RB'), ('megan', 'VBZ'), ('fox', 'JJ')]",-1
+"[('rate', 'NN'), ('could', 'MD'), ('neg', 'VB'), ('number', 'NN')]",-1
+"[('happen', 'VB'), ('megan', 'NNS'), ('fox', 'VB')]",-1
+"[('save', 'NN'), ('time', 'NN')]",-1
+"[('could', 'MD'), ('nt', 'VB'), ('get', 'VB')]",-1
+"[('offens', 'NNS'), ('object', 'VBP'), ('aw', 'JJ'), ('omg', 'CD'), ('act', 'NN')]",1
+"[('bad', 'JJ'), ('copi', 'NN')]",-1
+"[('nt', 'NNS'), ('nt', 'NNS')]",-1
+"[('return', 'NN'), ('rhode', 'NN'), ('island', 'NN')]",-1
+"[('sorri', 'NN'), ('megan', 'NN')]",0
+"[('still', 'RB'), ('better', 'RBR'), ('la', 'NN'), ('la', 'FW'), ('land', 'NN')]",-1
+"[('movi', 'RB'), ('good', 'JJ'), ('kill', 'NN'), ('time', 'NN')]",0
+"[('maegan', 'JJ'), ('fox', 'NNS'), ('love', 'VBP')]",0
+"[('good', 'JJ'), ('see', 'NN'), ('megan', 'JJ'), ('fox', 'NN')]",1
+"[('felt', 'NNS'), ('like', 'IN'), ('nostalgia', 'NN')]",1
+"[('life', 'NN'), ('hand', 'NN'), ('boom', 'NN'), ('boom', 'NN'), ('lemon', 'NN')]",1
+"[('fun', 'NN'), ('movi', 'NN'), ('despit', 'NN'), ('predict', 'NN'), ('plot', 'NN')]",0
+"[('ve', 'NN'), ('seen', 'VBN'), ('combo', 'NN')]",0
+"[('everyth', 'RB'), ('new', 'JJ'), ('old', 'JJ')]",0
+"[('fool', 'NN'), ('number', 'NN'), ('1', 'CD'), ('netflix', 'NN')]",0
+"[('mari', 'NN'), ('elizabeth', 'VBZ'), ('winstead', 'JJ'), ('come', 'VB'), ('littl', 'JJ'), ('bit', 'NN'), ('closer', 'RBR'), ('favourit', 'NN')]",-1
+"[('put', 'NN'), ('doa', 'NN'), ('john', 'NN'), ('wick', 'NN'), ('nikita', 'JJ'), ('crank', 'NN'), ('blender', 'NN'), ('get', 'NN'), ('kate', 'VB')]",0
+"[('averag', 'NN'), ('best', 'JJS')]",1
+"[('want', 'JJ'), ('capabl', 'NN'), ('writer', 'NN')]",0
+"[('big', 'JJ'), ('dumb', 'NN'), ('fun', 'NN')]",-1
+"[('anoth', 'DT'), ('unorgin', 'JJ'), ('netflix', 'NN'), ('origin', 'NN')]",-1
+"[('familiar', 'JJ'), ('assassin', 'NN'), ('reveng', 'NN'), ('movi', 'NN'), ('work', 'NN')]",-1
+"[('killer', 'NN'), ('kate', 'NN')]",0
+"[('phenomen', 'NNS'), ('fight', 'VBD'), ('choreographi', 'NNS'), ('cinematographi', 'NN')]",0
+"[('s', 'NN'), ('lot', 'NN'), ('fun', 'NN'), ('watch', 'NN'), ('work', 'NN')]",1
+"[('predict', 'NN'), ('deriv', 'NN'), ('uninspir', 'NN')]",1
+"[('week', 'NN'), ('s', 'NN'), ('femal', 'JJ'), ('assassin', 'NN')]",-1
+"[('number', 'NN'), ('netflix', 'NN'), ('movi', 'NN')]",1
+"[('review', 'NN'), ('got', 'VBD'), ('delet', 'NN'), ('said', 'VBD'), ('bad', 'JJ')]",0
+"[('surprisingli', 'RB'), ('great', 'JJ'), ('action', 'NN'), ('adventur', 'NN')]",-1
+"[('rather', 'RB'), ('entertain', 'NN')]",1
+"[('blast', 'NN')]",1
+"[('anoth', 'DT'), ('gener', 'NN'), ('hitman', 'NN'), ('stori', 'VBD'), ('bad', 'JJ'), ('action', 'NN')]",1
+"[('4', 'CD'), ('star', 'NN'), ('goe', 'NN'), ('tokyo', 'NN')]",-1
+"[('good', 'JJ'), ('fast', 'RB'), ('pace', 'NN'), ('action', 'NN'), ('movi', 'NN')]",1
+"[('gritti', 'NNS'), ('wellmad', 'JJ'), ('action', 'NN'), ('thriller', 'NN'), ('solid', 'JJ'), ('lead', 'NN'), ('perform', 'NN'), ('allison', 'JJ'), ('janney', 'NN'), ('lead', 'NN')]",1
+"[('success', 'NN'), ('surviv', 'NN'), ('film', 'NN'), ('ident', 'NN')]",1
+"[('dark', 'JJ'), ('effect', 'NN'), ('taut', 'NN'), ('gritti', 'NN'), ('psycho', 'VBP'), ('thriller', 'NN'), ('crackin', 'NN'), ('entertain', 'NN')]",1
+"[('intrigu', 'JJ'), ('begin', 'NN'), ('quickli', 'RB'), ('drop', 'NN'), ('qualiti', 'NN')]",1
+"[('solid', 'JJ'), ('enough', 'RB'), ('chase', 'JJ'), ('wood', 'NN'), ('thriller', 'NN')]",0
+"[('solid', 'JJ'), ('entertain', 'NN')]",0
+"[('world', 'NN'), ('playground', 'NN')]",1
+"[('jason', 'NN'), ('bourn', 'NN'), ('older', 'JJR'), ('sister', 'NN')]",0
+"[('great', 'JJ'), ('perform', 'NN'), ('good', 'JJ'), ('charact', 'NN'), ('decent', 'JJ'), ('write', 'NN')]",0
+"[('janney', 'NN'), ('steal', 'NN'), ('show', 'NN')]",0
+"[('entertain', 'NN'), ('thriller', 'NN')]",1
+"[('decent', 'JJ'), ('action', 'NN'), ('flick', 'RB'), ('great', 'JJ'), ('lead', 'NN')]",1
+"[('wellact', 'JJ'), ('absurd', 'NN'), ('plot', 'NN')]",0
+"[('rain', 'NN'), ('nt', 'NN'), ('left', 'VBD'), ('africa', 'RP')]",0
+"[('love', 'NN')]",0
+"[('bad', 'JJ')]",1
+"[('amaz', 'NN'), ('heroin', 'NN')]",0
+"[('exactli', 'NN'), ('origin', 'NN'), ('still', 'RB'), ('solid', 'JJ'), ('watch', 'NN')]",1
+"[('problem', 'NN')]",0
+"[('lou', 'NN'), ('everi', 'NN'), ('grandma', 'NN')]",-1
+"[('edg', 'JJ'), ('seat', 'NN'), ('thriller', 'NN')]",1
+"[('worth', 'JJ'), ('watch', 'NN')]",1
+"[('pleasantli', 'NN'), ('surpris', 'NN')]",1
+"[('lost', 'VBN'), ('potenti', 'NNS'), ('midway', 'NN')]",1
+"[('well', 'RB'), ('made', 'VBN'), ('movi', 'NN'), ('decent', 'JJ'), ('act', 'NN'), ('perform', 'VB'), ('let', 'JJ'), ('implaus', 'VB'), ('charact', 'VB'), ('plot', 'NN'), ('turn', 'NN')]",-1
+"[('nearli', 'RB'), ('bad', 'JJ'), ('lot', 'NN'), ('peopl', 'IN'), ('like', 'IN'), ('say', 'NN')]",0
+"[('even', 'RB'), ('close', 'RB'), ('bad', 'JJ'), ('review', 'NN'), ('made', 'VBD'), ('seem', 'JJ'), ('watch', 'JJ'), ('make', 'NN'), ('mind', 'NN'), ('funni', 'NN'), ('entertain', 'VBP'), ('like', 'IN'), ('say', 'VBP'), ('b', 'NN')]",0
+"[('effect', 'NN'), ('spoof', 'NN'), ('meninblack', 'NN'), ('genr', 'NN')]",1
+"[('good', 'JJ'), ('summer', 'NN'), ('entertain', 'NN')]",1
+"[('way', 'NN'), ('underappreci', 'JJ'), ('popcorn', 'NN'), ('flick', 'NN')]",1
+"[('somewhat', 'RB'), ('gener', 'JJ'), ('predict', 'NN'), ('still', 'RB'), ('enjoy', 'VB')]",1
+"[('predict', 'NN'), ('ye', 'NN'), ('fun', 'NN'), ('ye', 'NN')]",0
+"[('exactli', 'NNS'), ('expect', 'VBP')]",1
+"[('start', 'RB'), ('well', 'RB'), ('get', 'VB'), ('bore', 'NN')]",1
+"[('ripd', 'NN'), ('review', 'NN')]",0
+"[('nop', 'NN')]",0
+"[('silli', 'NN'), ('entertain', 'NN'), ('mib', 'NN'), ('blade', 'VBD'), ('runner', 'JJR'), ('ripoff', 'NN')]",-1
+"[('far', 'RB'), ('better', 'RBR'), ('critic', 'JJ'), ('claim', 'NN')]",0
+"[('expect', 'VB')]",1
+"[('funni', 'NN'), ('excit', 'NN'), ('wonder', 'NN'), ('flop', 'NN')]",-1
+"[('good', 'JJ'), ('mix', 'NN'), ('previou', 'NN'), ('materi', 'NN'), ('along', 'IN'), ('origin', 'NN')]",-1
+"[('goofi', 'NN'), ('fun', 'NN')]",1
+"[('doa', 'NN'), ('woeful', 'JJ'), ('mashup', 'JJ'), ('men', 'NNS'), ('black', 'JJ'), ('meet', 'NN'), ('ghost', 'NN'), ('buster', 'NN'), ('attempt', 'VBP'), ('new', 'JJ'), ('scificomedi', 'NN'), ('franchis', 'NN'), ('truli', 'VBZ'), ('one', 'CD'), ('worst', 'NN'), ('film', 'NN'), ('year', 'NN')]",1
+"[('s', 'NN'), ('realli', 'NN'), ('stupid', 'JJ'), ('movi', 'NN'), ('forget', 'NN'), ('add', 'VB'), ('fun', 'NN'), ('thrill', 'NN')]",-1
+"[('fun', 'RB'), ('pour', 'JJ'), ('acid', 'NN')]",-1
+"[('ryan', 'NN'), ('reynold', 'NN'), ('jeff', 'NN'), ('bridg', 'NN'), ('definit', 'NN'), ('nt', 'JJ'), ('make', 'VBP'), ('team', 'NN'), ('smith', 'NN'), ('tommi', 'NN'), ('lee', 'NN'), ('jone', 'NN'), ('found', 'VBD'), ('movi', 'RB'), ('fun', 'JJ'), ('enjoy', 'NN')]",-1
+"[('lame', 'JJ'), ('men', 'NNS'), ('black', 'JJ'), ('ripoff', 'NN'), ('sloppiest', 'JJS'), ('script', 'NN'), ('ever', 'RB')]",-1
+"[('mib', 'NN'), ('never', 'RB'), ('ask', 'VB')]",-1
+"[('good', 'JJ'), ('idea', 'NN'), ('bad', 'JJ'), ('execut', 'NN')]",0
+"[('well', 'RB'), ('deserv', 'RB'), ('box', 'NN'), ('offic', 'JJ'), ('failur', 'NN')]",0
+"[('straight', 'RB'), ('forward', 'RB'), ('plot', 'NN'), ('still', 'RB'), ('enjoy', 'VB'), ('movi', 'NN')]",-1
+"[('lowbudget', 'NN'), ('butler', 'NN')]",0
+"[('unexcept', 'JJ'), ('taut', 'JJ'), ('engag', 'NN'), ('enough', 'JJ'), ('thriller', 'NN'), ('deliv', 'NN'), ('set', 'NN')]",-1
+"[('done', 'VBN'), ('done', 'VBN'), ('better', 'RBR')]",-1
+"[('basic', 'JJ'), ('effect', 'NN'), ('thriller', 'NN')]",-1
+"[('need', 'NN'), ('break', 'NN'), ('get', 'VB'), ('break', 'JJ')]",0
+"[('day', 'NN'), ('life', 'NN')]",0
+"[('nt', 'RB'), ('bad', 'JJ')]",0
+"[('last', 'JJ'), ('seen', 'VBN'), ('aliv', 'NN')]",0
+"[('good', 'JJ'), ('tension', 'NN'), ('build', 'VB'), ('toward', 'IN'), ('end', 'JJ'), ('worth', 'NN'), ('watch', 'NN')]",0
+"[('wow', 'JJ'), ('talk', 'NN'), ('low', 'JJ'), ('qualiti', 'NN'), ('write', 'NN')]",1
+"[('entertain', 'NN'), ('thriller', 'NN')]",-1
+"[('decent', 'JJ'), ('film', 'NN'), ('quiet', 'JJ'), ('night', 'NN')]",1
+"[('aw', 'NN')]",1
+"[('fastpac', 'JJ'), ('action', 'NN'), ('slick', 'NN'), ('screenplay', 'NN')]",-1
+"[('poor', 'JJ'), ('copi', 'NN'), ('kurt', 'NN'), ('russel', 'NN'), ('s', 'NN'), ('movi', 'NN'), ('breakdown', 'NN')]",1
+"[('entertain', 'NN'), ('mysteri', 'NN'), ('thriller', 'NN'), ('remain', 'VBP'), ('somewhat', 'RB'), ('predict', 'JJ'), ('thank', 'NN'), ('lesser', 'RBR'), ('write', 'NN')]",-1
+"[('great', 'JJ')]",0
+"[('ye', 'NN'), ('ve', 'NN'), ('seen', 'VBN'), ('still', 'RB'), ('edg', 'JJ'), ('seat', 'NN'), ('suspens', 'NNS'), ('anxieti', 'VBP')]",-1
+"[('meh', 'NN'), ('meh', 'NN'), ('meh', 'NN')]",-1
+"[('gerard', 'NN'), ('butler', 'NN'), ('must', 'MD'), ('owe', 'VB'), ('someon', 'NN'), ('favor', 'NN')]",-1
+"[('miss', 'NN'), ('last', 'JJ'), ('seen', 'VBN'), ('aliv', 'NN')]",-1
+"[('incoher', 'RB'), ('ridicul', 'NN')]",0
+"[('kind', 'NN'), ('movi', 'NN'), ('sleepili', 'NN'), ('lumber', 'VBP'), ('stock', 'NN'), ('premis', 'NN'), ('disguis', 'NN'), ('compet', 'NN'), ('lack', 'NN'), ('effort', 'NN'), ('reliabl', 'VBZ'), ('lead', 'JJ'), ('man', 'NN')]",-1
+"[('horribl', 'NN'), ('write', 'NN')]",-1
+"[('impress', 'RB'), ('even', 'RB'), ('exist', 'VBP')]",-1
+"[('terrif', 'NN'), ('hilari', 'NN'), ('spiritu', 'NN'), ('successor', 'NN'), ('roger', 'NN'), ('rabbit', 'NN'), ('shame', 'JJ'), ('disney', 'NN'), ('put', 'VBD'), ('one', 'CD'), ('theater', 'NN')]",-1
+"[('oh', 'JJ'), ('man', 'NN'), ('soooooo', 'NN'), ('hilari', 'NN')]",1
+"[('funni', 'NN'), ('nostalg', 'NN'), ('adventur', 'NN')]",1
+"[('chip', 'NN'), ('n', 'JJ'), ('dale', 'NN'), ('rescu', 'NN'), ('ranger', 'NN')]",1
+"[('multirefencialmetafanservic', 'NNS'), ('love', 'VBP')]",1
+"[('rescu', 'NN'), ('ranger', 'NN'), ('comeback', 'NN'), ('good', 'JJ'), ('exampl', 'NN'), ('meta', 'NN'), ('done', 'VBN')]",1
+"[('movi', 'NN'), ('fan', 'NN'), ('servic', 'JJ'), ('experi', 'NN'), ('futur', 'NN'), ('film', 'NN')]",1
+"[('think', 'NN'), ('s', 'NN')]",1
+"[('disastr', 'NN'), ('reviv', 'NN'), ('fame', 'NN'), ('disney', 'NN'), ('chipmunk', 'NN'), ('duo', 'NN')]",0
+"[('voic', 'RB'), ('right', 'JJ'), ('role', 'NN')]",-1
+"[('roger', 'NN'), ('rabbit', 'NN')]",-1
+"[('s', 'JJ'), ('nut', 'RB'), ('bad', 'JJ'), ('movi', 'NN')]",0
+"[('disney', 'NN'), ('desper', 'NN'), ('pander', 'NN'), ('toward', 'IN'), ('metacommentari', 'JJ'), ('pop', 'NN'), ('refer', 'NN'), ('crowd', 'NN'), ('still', 'RB'), ('ca', 'MD'), ('nt', 'VB'), ('stop', 'VB'), ('full', 'JJ')]",-1
+"[('surprisingli', 'NN'), ('entertain', 'NN')]",-1
+"[('uncanni', 'JJ'), ('valley', 'NN')]",1
+"[('solid', 'JJ'), ('cast', 'NN'), ('strong', 'JJ'), ('visual', 'JJ'), ('creativ', 'NN'), ('adventur', 'NN'), ('movi', 'NN'), ('deliv', 'NN'), ('front', 'NN')]",0
+"[('nostalg', 'JJ'), ('meta', 'NN'), ('dumpster', 'NN'), ('fire', 'NN'), ('cash', 'NN'), ('grab', 'NN'), ('disney', 'NN')]",1
+"[('mediocr', 'NN'), ('plot', 'NN'), ('overcompens', 'VBZ'), ('nostalgia', 'JJ')]",0
+"[('hyperventil', 'NN'), ('watch', 'NN')]",-1
+"[('catastroph', 'NN')]",0
+"[('aw', 'NN')]",-1
+"[('absolut', 'NN'), ('bizarr', 'NN'), ('age', 'NN'), ('movi', 'NN')]",-1
+"[('wonder', 'NN'), ('detect', 'JJ'), ('action', 'NN'), ('comedi', 'NN'), ('adult', 'NN'), ('love', 'NN'), ('cartoon', 'NN')]",-1
+"[('take', 'VB'), ('mickey', 'NN'), ('disney', 'NN')]",1
+"[('good', 'JJ'), ('concept', 'NN'), ('poor', 'JJ'), ('film', 'NN')]",-1
+"[('start', 'NN'), ('okay', 'VBZ'), ('quickli', 'JJ'), ('turn', 'NN'), ('huge', 'JJ'), ('mess', 'NN')]",0
+"[('fun', 'JJ'), ('end', 'NN')]",0
+"[('surprisingli', 'NN'), ('solid', 'JJ'), ('movi', 'NN'), ('good', 'JJ'), ('messag', 'NN')]",-1
+"[('learn', 'NN'), ('hold', 'NN'), ('nerv', 'NN')]",1
+"[('good', 'JJ'), ('enough', 'RB'), ('high', 'JJ'), ('school', 'NN'), ('movi', 'NN')]",0
+"[('last', 'JJ'), ('summer', 'NN'), ('film', 'NN'), ('origin', 'NN')]",0
+"[('feel', 'NN'), ('like', 'IN'), ('kid', 'NN'), ('film', 'NN')]",1
+"[('wow', 'NN'), ('movi', 'NN'), ('bad', 'JJ')]",0
+"[('entertain', 'NN')]",-1
+"[('good', 'JJ'), ('mindless', 'NN'), ('entertain', 'VBP'), ('re', 'JJ'), ('tri', 'NN'), ('kill', 'VB'), ('hour', 'NN')]",0
+"[('noth', 'DT'), ('ripoff', 'NN')]",0
+"[('complet', 'NN'), ('blew', 'VB'), ('away', 'RB'), ('fun', 'JJ'), ('ve', 'NNS'), ('theatr', 'VBP'), ('far', 'RB'), ('year', 'NN')]",-1
+"[('readi', 'NN'), ('first', 'RB'), ('dare', 'NN')]",1
+"[('vine', 'NN'), ('pokemon', 'NN'), ('go', 'VBP'), ('babi', 'JJ'), ('kardashian', 'JJ'), ('godpar', 'NN')]",0
+"[('saw', 'NN'), ('trailer', 'NN'), ('s', 'VBD'), ('need', 'JJ'), ('watch', 'NN'), ('movi', 'NN')]",-1
+"[('water', 'NN'), ('version', 'NN'), ('13', 'CD'), ('sin', 'NN')]",-1
+"[('senseless', 'NN')]",-1
+"[('good', 'JJ'), ('one', 'CD'), ('time', 'NN'), ('film', 'NN')]",-1
+"[('nerv', 'RB'), ('good', 'JJ'), ('concept', 'NN'), ('poor', 'JJ'), ('execut', 'NN')]",0
+"[('teen', 'JJ'), ('flick', 'NN')]",0
+"[('s', 'NN'), ('neon', 'NN')]",0
+"[('lotta', 'NN'), ('nerv', 'NN')]",0
+"[('good', 'JJ'), ('idea', 'NN'), ('aw', 'NN'), ('execut', 'VBD')]",0
+"[('movi', 'NN'), ('singl', 'NN'), ('bore', 'IN'), ('second', 'JJ')]",0
+"[('get', 'VB'), ('spend', 'JJ'), ('120000000', 'CD'), ('make', 'NN'), ('film', 'NN')]",1
+"[('speed', 'NN'), ('2', 'CD'), ('snooz', 'NN'), ('control', 'NN')]",-1
+"[('ll', 'NN'), ('know', 'VBP'), ('keanu', 'VBZ'), ('turn', 'VBP'), ('crummi', 'JJ'), ('sequel', 'NN'), ('see', 'NN')]",0
+"[('made', 'VBN'), ('wors', 'NNS'), ('knowledg', 'VB'), ('brilliant', 'JJ'), ('film', 'NN'), ('succe', 'NN')]",-1
+"[('slower', 'JJR'), ('poorer', 'NN')]",-1
+"[('everyon', 'NN'), ('lifeboat', 'NN'), ('women', 'NNS'), ('children', 'NNS'), ('pay', 'VBP'), ('moviego', 'NN'), ('first', 'RB')]",-1
+"[('mutil', 'NN'), ('franchis', 'NN')]",-1
+"[('speed', 'NN'), ('2', 'CD'), ('lost', 'VBD'), ('control', 'NN')]",-1
+"[('miser', 'NN'), ('experi', 'NN')]",-1
+"[('bad', 'JJ'), ('movi', 'NN')]",-1
+"[('speed', 'NN'), ('2', 'CD'), ('snooz', 'NN'), ('control', 'NN')]",0
+"[('episod', 'NN'), ('sequel', 'NN'), ('lack', 'NN'), ('origin', 'NN'), ('s', 'NN'), ('themat', 'NN'), ('strength', 'NN')]",-1
+"[('speed', 'NN'), ('2', 'CD'), ('cruis', 'NN'), ('control', 'NN')]",-1
+"[('rather', 'RB'), ('sandra', 'NN'), ('bullock', 'NN')]",0
+"[('big', 'JJ'), ('boat', 'NN'), ('full', 'JJ'), ('crap', 'NN')]",-1
+"[('disast', 'NN')]",-1
+"[('piti', 'NN')]",-1
+"[('bad', 'JJ'), ('review', 'NN')]",-1
+"[('one', 'CD'), ('worst', 'JJS'), ('sequel', 'NN')]",0
+"[('need', 'NN'), ('sequel', 'NNS'), ('control', 'NN')]",-1
+"[('bad', 'JJ'), ('pretti', 'NNS'), ('much', 'JJ'), ('way', 'NN'), ('look', 'NN')]",-1
+"[('seasick', 'NN'), ('re', 'NN'), ('one', 'CD')]",-1
+"[('anoth', 'DT'), ('one', 'CD'), ('sequel', 'NN')]",-1
+"[('film', 'NN'), ('good', 'JJ'), ('trap', 'NN'), ('sink', 'NN'), ('ship', 'NN')]",-1
+"[('bought', 'VBD'), ('condo', 'NN')]",-1
+"[('bird', 'NN'), ('nt', 'NN'), ('meant', 'VBD'), ('cage', 'NN')]",0
+"[('incred', 'VBN'), ('movi', 'JJ'), ('one', 'CD'), ('live', 'NN')]",0
+"[('nt', 'JJ'), ('rent', 'NN'), ('shawshank', 'NN')]",1
+"[('movi', 'NN'), ('made', 'VBD')]",-1
+"[('classic', 'JJ'), ('piec', 'NN'), ('unforgett', 'NN'), ('filmmak', 'NN')]",1
+"[('shawshank', 'NN'), ('redempt', 'NN')]",1
+"[('shawshank', 'NN'), ('redempt', 'NN')]",0
+"[('stephen', 'NN'), ('king', 'VBG'), ('s', 'JJ'), ('best', 'JJS'), ('adapt', 'NN'), ('movi', 'NN')]",0
+"[('etern', 'JJ'), ('hope', 'NN')]",1
+"[('enthral', 'JJ'), ('fantast', 'NN'), ('intrigu', 'NN'), ('truli', 'NN'), ('remark', 'NN')]",1
+"[('imdb', 'NN'), ('greatest', 'JJS'), ('film', 'NN'), ('time', 'NN')]",1
+"[('alltim', 'NN'), ('prison', 'NN'), ('film', 'NN'), ('classic', 'JJ')]",1
+"[('favorit', 'NN'), ('movi', 'NN'), ('time', 'NN')]",1
+"[('m', 'NN'), ('convict', 'NN'), ('murder', 'NN'), ('provid', 'NN'), ('sound', 'NN'), ('financi', 'VBD'), ('plan', 'NN')]",1
+"[('simpli', 'NN'), ('best', 'JJS')]",1
+"[('simpli', 'NN'), ('known', 'VBN'), ('movi', 'NN')]",1
+"[('go', 'VB'), ('prison', 'NN'), ('learn', 'NN'), ('crook', 'NN')]",1
+"[('simpli', 'NN'), ('amaz', 'NN'), ('best', 'RBS'), ('film', 'NN'), ('90', 'CD'), ('s', 'NN')]",0
+"[('prepar', 'NN'), ('move', 'NN')]",1
+"[('shawshank', 'NN'), ('redeem', 'NN'), ('hollywood', 'NN')]",1
+"[('masterpiec', 'NN')]",1
+"[('never', 'RB'), ('give', 'VBP'), ('hope', 'NN')]",1
+"[('power', 'NN'), ('masterpiec', 'NN')]",1
+"[('hope', 'NN'), ('set', 'VBN'), ('free', 'JJ'), ('remark', 'NN'), ('film', 'NN')]",1
+"[('two', 'CD'), ('movi', 'VBP'), ('one', 'CD')]",1
+"[('pinnacl', 'NN'), ('flawless', 'NN'), ('film', 'NN')]",0
+"[('offer', 'NN'), ('good', 'NN'), ('could', 'MD'), ('nt', 'VB'), ('refus', 'VB')]",1
+"[('one', 'CD'), ('best', 'JJS'), ('time', 'NN')]",0
+"[('definit', 'NN'), ('film', 'NN')]",1
+"[('greatest', 'JJS'), ('movi', 'NN'), ('time', 'NN')]",1
+"[('icon', 'NN'), ('film', 'NN')]",1
+"[('anoth', 'DT'), ('kind', 'NN'), ('famili', 'NN'), ('movi', 'NN')]",1
+"[('2', 'CD'), ('imdb', 'JJ'), ('s', 'NN'), ('top', 'JJ'), ('100', 'CD'), ('multioscarwinn', 'NN'), ('1500', 'CD'), ('review', 'NN'), ('say', 'VBP'), ('movi', 'NN')]",0
+"[('m', 'NN'), ('find', 'VB'), ('hard', 'JJ'), ('describ', 'NN'), ('amaz', 'NN'), ('movi', 'NN')]",1
+"[('initi', 'JJ'), ('nt', 'JJ'), ('fan', 'NN'), ('realis', 'NN')]",1
+"[('godfath', 'NN'), ('pretti', 'NNS'), ('much', 'RB'), ('flawless', 'IN'), ('one', 'CD'), ('greatest', 'JJS'), ('film', 'NN'), ('ever', 'RB'), ('made', 'VBD')]",1
+"[('everyth', 'NN'), ('ve', 'NN'), ('ever', 'RB'), ('heard', 'VBD'), ('true', 'JJ')]",1
+"[('epic', 'NN'), ('master', 'NN'), ('look', 'NN'), ('underground', 'JJ'), ('world', 'NN')]",1
+"[('perfect', 'NN')]",1
+"[('geatest', 'JJS'), ('movi', 'NN'), ('ever', 'RB'), ('made', 'VBD')]",1
+"[('magnific', 'JJ'), ('portrait', 'NN'), ('organ', 'NN'), ('crime', 'NN')]",1
+"[('godfath', 'NN'), ('make', 'NN'), ('offer', 'NN'), ('refus', 'NN'), ('movi', 'NN'), ('masterpiec', 'NN')]",1
+"[('film', 'NN'), ('great', 'JJ'), ('power', 'NN'), ('mileston', 'NN'), ('histori', 'NN'), ('cinema', 'NN')]",1
+"[('nt', 'RB'), ('enjoy', 'RB'), ('much', 'JJ'), ('ve', 'NN')]",1
+"[('amaz', 'NN'), ('movi', 'NN')]",1
+"[('masterpiec', 'NN')]",1
+"[('son', 'NN')]",1
+"[('simpli', 'NN'), ('best', 'JJS')]",0
+"[('godfath', 'NN')]",1
+"[('world', 'NN'), ('insid', 'NN'), ('underworld', 'NN')]",0
+"[('dark', 'NN'), ('knight', 'NN')]",0
+"[('batman', 'NN'), ('dream', 'NN'), ('much', 'RB'), ('comic', 'JJ'), ('book', 'NN'), ('movi', 'NN')]",0
+"[('batman', 'JJ'), ('shakesperean', 'JJ'), ('proport', 'NN')]",1
+"[('town', 'NN'), ('deserv', 'NN'), ('better', 'RBR'), ('class', 'NN'), ('crimin', 'NN')]",1
+"[('heath', 'NN'), ('ledger', 'NN'), ('s', 'VBD'), ('dark', 'JJ'), ('brilliant', 'JJ'), ('swan', 'NN'), ('song', 'NN')]",1
+"[('watch', 'NN'), ('imax', 'NN'), ('version', 'NN')]",0
+"[('masterpiec', 'NN')]",0
+"[('best', 'JJS'), ('superhero', 'NN'), ('movi', 'NN'), ('time', 'NN')]",1
+"[('surpass', 'NN'), ('begin', 'NN'), ('everi', 'VBP'), ('aspect', 'NN')]",1
+"[('perfect', 'JJ'), ('balanc', 'NN'), ('action', 'NN'), ('drama', 'NN'), ('unforgett', 'NN'), ('villain', 'NN')]",1
+"[('heath', 'NN'), ('ledger', 'NN')]",1
+"[('dark', 'JJ'), ('knight', 'VBD'), ('good', 'JJ'), ('everyon', 'NNS'), ('say', 'VBP'), ('easili', 'JJ'), ('best', 'RBS'), ('superhero', 'NN'), ('film', 'NN'), ('made', 'VBD')]",0
+"[('christoph', 'NN'), ('nolan', 'NN'), ('back', 'RB')]",1
+"[('heath', 'NN'), ('ledger', 'NN'), ('make', 'VBP'), ('great', 'JJ')]",1
+"[('think', 'VB'), ('destin', 'NN'), ('forev', 'NN')]",0
+"[('dark', 'JJ'), ('sinist', 'NN'), ('mood', 'NN'), ('film', 'NN'), ('realli', 'NN'), ('set', 'VBN'), ('theme', 'NN'), ('movi', 'NN')]",1
+"[('batman', 'NN'), ('best', 'JJS'), ('beyond', 'IN')]",1
+"[('sequel', 'NN'), ('deserv', 'NN'), ('batman', 'NN'), ('want', 'VBP')]",1
+"[('best', 'JJS'), ('comic', 'JJ'), ('movi', 'NN'), ('ever', 'RB')]",1
+"[('mindblow', 'NN')]",1
+"[('best', 'JJS'), ('s', 'NN'), ('class', 'NN'), ('much', 'JJ')]",1
+"[('love', 'NN'), ('movi', 'NN')]",1
+"[('knock', 'NN'), ('knock', 'NN')]",1
+"[('heath', 'NN'), ('ledger', 'NN'), ('ledgend', 'VBP')]",0
+"[('quit', 'NN'), ('possibl', 'NN'), ('best', 'RBS'), ('round', 'NN'), ('film', 'NN'), ('ever', 'RB')]",1
+"[('breathtak', 'NN'), ('scope', 'NN'), ('tragic', 'JJ'), ('grandeur', 'NN')]",1
+"[('greatest', 'JJS'), ('sequel', 'NN'), ('cinema', 'NN'), ('s', 'NN'), ('histori', 'NN')]",1
+"[('terrif', 'NN'), ('continu', 'NN'), ('godfath', 'NN'), ('seri', 'NN'), ('call', 'NN'), ('sequel', 'NN'), ('almost', 'RB'), ('seem', 'VBP'), ('insult', 'NN')]",1
+"[('greatest', 'JJS'), ('film', 'NN'), ('ever', 'RB'), ('made', 'VBD')]",1
+"[('best', 'RB'), ('gangster', 'NN'), ('drama', 'NN'), ('time', 'NN'), ('arguabl', 'NN')]",1
+"[('masterpiec', 'NN'), ('never', 'RB'), ('beaten', 'VBD')]",1
+"[('michael', 'NNS'), ('never', 'RB'), ('want', 'VBP')]",1
+"[('one', 'CD'), ('greatest', 'JJS'), ('film', 'NN'), ('ever', 'RB'), ('made', 'VBD')]",1
+"[('one', 'CD'), ('greatest', 'JJS'), ('sequel', 'NN'), ('ever', 'RB'), ('made', 'VBD')]",1
+"[('call', 'NN'), ('sequel', 'NN'), ('travesti', 'NN')]",1
+"[('godfath', 'NN'), ('part', 'NN'), ('ii', 'NN'), ('greatest', 'JJS'), ('sequel', 'NN'), ('ever', 'RB'), ('made', 'VBD'), ('one', 'CD'), ('greatest', 'JJS'), ('film', 'NN'), ('time', 'NN'), ('possibl', 'NN'), ('finer', 'NN'), ('superb', 'NN'), ('predecessor', 'NN')]",1
+"[('one', 'CD'), ('greatest', 'JJS'), ('movi', 'NN'), ('ever', 'RB'), ('made', 'VBD')]",1
+"[('poor', 'JJ'), ('fredo', 'NNS'), ('still', 'RB'), ('miss', 'VBP'), ('john', 'NNS'), ('cazal', 'NNS')]",1
+"[('prefer', 'NN'), ('first', 'RB'), ('film', 'NN'), ('compar', 'NN'), ('well', 'RB')]",1
+"[('insult', 'NN'), ('call', 'NN'), ('sequel', 'NN')]",1
+"[('better', 'RBR'), ('origin', 'NN'), ('mayb', 'FW'), ('unbeliev', 'JJ'), ('ride', 'NN'), ('hell', 'NN'), ('yeah', 'NN')]",1
+"[('masterpiec', 'NN')]",1
+"[('excel', 'NN'), ('could', 'MD'), ('dictionari', 'VB'), ('sprawl', 'NN')]",1
+"[('review', 'NN'), ('film', 'NN'), ('pretti', 'NNS'), ('unimport', 'NN')]",1
+"[('hollywood', 'NN'), ('masterpiec', 'NNS')]",1
+"[('good', 'JJ'), ('good', 'NN'), ('first', 'RB')]",1
+"[('godfath', 'NN'), ('part', 'NN'), ('2', 'CD')]",0
+"[('nt', 'RB'), ('hold', 'VB'), ('candl', 'NN'), ('origin', 'NN'), ('yet', 'RB'), ('one', 'CD'), ('finest', 'JJS'), ('sequel', 'NN'), ('time', 'NN')]",1
+"[('one', 'CD'), ('best', 'JJS'), ('sequel', 'NN'), ('ever', 'RB'), ('made', 'VBD')]",0
+"[('one', 'CD'), ('best', 'JJS'), ('sequel', 'NN'), ('ever', 'RB'), ('made', 'VBD')]",1
+"[('overus', 'JJ'), ('term', 'NN'), ('classic', 'JJ'), ('movi', 'NN'), ('realli', 'NN'), ('come', 'VB')]",1
+"[('one', 'CD'), ('great', 'JJ'), ('theatric', 'JJ'), ('exampl', 'NNS'), ('make', 'VBP'), ('superb', 'JJ'), ('drama', 'NN')]",1
+"[('juror', 'NN'), ('4', 'CD'), ('great', 'JJ'), ('film', 'NN')]",1
+"[('disson', 'NN')]",1
+"[('characterstudi', 'NN'), ('meant', 'NN')]",1
+"[('dont', 'NN'), ('judg', 'NN'), ('age', 'NN')]",1
+"[('brilliant', 'JJ'), ('brilliant', 'NN'), ('brilliant', 'NN')]",1
+"[('terrif', 'JJ'), ('drama', 'NN'), ('greatest', 'JJS'), ('actor', 'NN'), ('cinemat', 'NN'), ('histori', 'NN')]",1
+"[('excel', 'NN')]",1
+"[('simpl', 'NN'), ('great', 'JJ')]",1
+"[('everyon', 'JJ'), ('s', 'NN'), ('top', 'JJ'), ('ten', 'NN'), ('list', 'NN'), ('greatest', 'JJS'), ('film', 'NN'), ('time', 'NN')]",1
+"[('absolut', 'NN'), ('must', 'MD'), ('anyon', 'VB'), ('consid', 'NN'), ('film', 'NN'), ('buff', 'NN')]",1
+"[('bomb', 'NN'), ('car', 'NN'), ('chase', 'NN'), ('edg', 'VBZ'), ('seat', 'JJ'), ('stuff', 'NN'), ('none', 'NN'), ('less', 'JJR')]",1
+"[('2', 'CD'), ('thumb', 'NN')]",1
+"[('ever', 'RB'), ('see', 'VB'), ('one', 'CD'), ('black', 'JJ'), ('white', 'JJ'), ('movi', 'NNS'), ('make', 'VBP')]",1
+"[('grip', 'NN'), ('irresist', 'NN')]",1
+"[('flawless', 'NN')]",1
+"[('classic', 'JJ'), ('everi', 'NN'), ('sens', 'VBZ'), ('moment', 'NN'), ('frame', 'NN')]",1
+"[('pardon', 'NN'), ('nt', 'JJ'), ('ever', 'RB'), ('sweat', 'NN')]",1
+"[('find', 'VB'), ('movi', 'JJ'), ('guilti', 'NN'), ('masterpiec', 'NN')]",0
+"[('ca', 'MD'), ('nt', 'VB'), ('send', 'VB'), ('someon', 'NN'), ('die', 'NN'), ('evid', 'VBP'), ('like', 'IN')]",1
+"[('version', 'NN'), ('see', 'NN')]",0
+"[('materi', 'NN'), ('slightli', 'NN'), ('forc', 'NN'), ('dramat', 'NN'), ('purpos', 'NN'), ('deliveri', 'NN'), ('perfect', 'VBP'), ('across', 'IN'), ('board', 'NN')]",1
+"[('masterpiec', 'NN')]",1
+"[('good', 'JJ'), ('script', 'NN'), ('great', 'JJ'), ('dialog', 'NN'), ('set', 'VBN'), ('actor', 'NN'), ('would', 'MD'), ('envi', 'VB'), ('world', 'NN')]",1
+"[('three', 'CD'), ('hour', 'NN'), ('film', 'NN'), ('feel', 'NN'), ('short', 'JJ')]",1
+"[('awesom', 'NN')]",1
+"[('one', 'CD'), ('best', 'JJS'), ('movi', 'NN'), ('ever', 'RB'), ('made', 'VBD')]",1
+"[('bring', 'VBG'), ('head', 'NN'), ('hitler', 'NN'), ('himmler', 'NN'), ('eichmann', 'NN'), ('n', 'NN'), ('mengel', 'NN')]",1
+"[('whoever', 'WDT'), ('save', 'VBP'), ('one', 'CD'), ('life', 'NN'), ('save', 'VB'), ('world', 'NN'), ('entir', 'NN')]",1
+"[('nt', 'JJ'), ('jewish', 'JJ'), ('touch', 'NN'), ('respons', 'NNS'), ('inhuman', 'VBP')]",1
+"[('spielberg', 'NN'), ('s', 'NN'), ('import', 'NN'), ('work', 'NN')]",1
+"[('singular', 'JJ'), ('achiev', 'NN')]",1
+"[('shatter', 'NN'), ('film', 'NN'), ('time', 'NN')]",1
+"[('hell', 'NN'), ('wrong', 'JJ'), ('peopl', 'JJ'), ('comment', 'NN'), ('1st', 'CD'), ('4', 'CD'), ('page', 'NN'), ('review', 'NN')]",1
+"[('stun', 'NN'), ('spielberg', 'NN'), ('s', 'JJ'), ('greatest', 'JJS'), ('top', 'JJ'), ('time', 'NN'), ('best', 'JJS'), ('film', 'NN')]",1
+"[('s', 'NN'), ('human', 'NN')]",1
+"[('incred', 'VBN'), ('move', 'NN'), ('visual', 'JJ'), ('disturb', 'NN'), ('spielburg', 'NN'), ('s', 'NN'), ('best', 'RBS'), ('far', 'RB')]",1
+"[('list', 'NN'), ('absolut', 'RB'), ('good', 'JJ'), ('list', 'NN'), ('life', 'NN')]",1
+"[('profound', 'NN'), ('beauti', 'NN'), ('appreci', 'IN'), ('art', 'NN'), ('masterpiec', 'NN')]",1
+"[('devast', 'NN')]",1
+"[('color', 'NN'), ('choic', 'NN'), ('geniu', 'NN')]",0
+"[('spielberg', 'NN'), ('best', 'JJS')]",1
+"[('base', 'NN'), ('true', 'JJ'), ('stori', 'NN')]",1
+"[('best', 'JJS'), ('movi', 'NN'), ('time', 'NN')]",0
+"[('eye', 'NN'), ('open', 'JJ')]",1
+"[('best', 'JJS'), ('spielberg', 'NN'), ('watch', 'NN')]",1
+"[('amaz', 'NN')]",1
+"[('emot', 'NN'), ('releas', 'NNS')]",1
+"[('worri', 'NN'), ('amount', 'NN'), ('110', 'CD'), ('still', 'RB'), ('need', 'VB'), ('film', 'NN'), ('holocaust', 'JJ'), ('movi', 'NN'), ('gener', 'NN')]",1
+"[('best', 'JJS'), ('trilog', 'NN'), ('histori', 'NN'), ('cinema', 'NN')]",1
+"[('good', 'JJ'), ('thing', 'NN'), ('come', 'JJ'), ('end', 'NN')]",1
+"[('still', 'RB'), ('greatest', 'JJS'), ('movi', 'NN'), ('ever', 'RB'), ('made', 'VBD')]",0
+"[('noth', 'DT'), ('better', 'JJR')]",1
+"[('pretti', 'RB'), ('much', 'JJ'), ('outstand', 'NN')]",1
+"[('great', 'JJ')]",1
+"[('unpreced', 'JJ')]",1
+"[('save', 'NN'), ('best', 'JJS'), ('last', 'JJ')]",1
+"[('live', 'JJ'), ('see', 'NN')]",1
+"[('suprem', 'JJ'), ('motion', 'NN'), ('pictur', 'NN'), ('time', 'NN')]",1
+"[('first', 'RB'), ('great', 'JJ'), ('cinemat', 'NN'), ('masterpiec', 'NN'), ('twentyfirst', 'NN'), ('centuri', 'NN')]",1
+"[('perfect', 'JJ'), ('way', 'NN'), ('finish', 'JJ'), ('trilog', 'NN')]",1
+"[('doubt', 'NN'), ('ever', 'RB'), ('film', 'NN'), ('made', 'VBD'), ('qualiti', 'NN')]",1
+"[('part', 'NN'), ('3', 'CD'), ('s', 'NN'), ('realli', 'NN'), ('thought', 'VBD'), ('count', 'NN')]",1
+"[('monument', 'NN'), ('film', 'NN')]",0
+"[('object', 'JJ'), ('unhyp', 'JJ'), ('view', 'NN'), ('stun', 'NN'), ('simpli', 'NN'), ('stun', 'NN')]",1
+"[('brilliant', 'JJ'), ('simpli', 'NN'), ('brilliant', 'NN')]",1
+"[('summari', 'NN'), ('film', 'NN'), ('extend', 'VBP'), ('dvd', 'NN'), ('version', 'NN')]",1
+"[('fantast', 'JJ'), ('conclus', 'NN'), ('great', 'JJ'), ('trilog', 'NN')]",0
+"[('put', 'NN'), ('asid', 'NN'), ('ranger', 'NN'), ('becom', 'NN'), ('born', 'NN')]",1
+"[('greatest', 'JJS'), ('epic', 'NN'), ('ever', 'RB'), ('made', 'VBD')]",0
+"[('journey', 'JJ'), ('end', 'NN'), ('uniqu', 'NN'), ('movi', 'NN')]",1
+"[('mani', 'JJ'), ('way', 'NN'), ('grander', 'NN'), ('scale', 'NN'), ('first', 'RB'), ('two', 'CD'), ('instal', 'JJ'), ('trilog', 'NN')]",1
+"[('aweevok', 'NN')]",1
+"[('best', 'JJS'), ('trilog', 'NN'), ('ever', 'RB')]",1
+"[('shotgun', 'NN')]",1
+"[('masterpiec', 'NN'), ('without', 'IN'), ('messag', 'NN')]",0
+"[('masterpiec', 'NN'), ('screenwrit', 'NN')]",1
+"[('rebirth', 'NN'), ('genr', 'NN'), ('film', 'NN'), ('histori', 'NN')]",1
+"[('rewatch', 'VB'), ('movi', 'NN'), ('time', 'NN')]",1
+"[('alway', 'RB'), ('alway', 'RB'), ('person', 'NN'), ('favourit', 'NN')]",1
+"[('one', 'CD'), ('funniest', 'JJS'), ('movi', 'NN'), ('ever', 'RB')]",1
+"[('s', 'JJ'), ('wild', 'JJ'), ('s', 'NNS'), ('chaotic', 'JJ'), ('s', 'NN'), ('pulp', 'NN'), ('fiction', 'NN')]",1
+"[('favourit', 'NN'), ('movi', 'NN')]",1
+"[('overr', 'NN')]",1
+"[('pulp', 'NN'), ('fiction', 'NN')]",1
+"[('one', 'CD'), ('best', 'JJS'), ('film', 'NN'), ('s', 'NN'), ('ve', 'NN'), ('seen', 'VBN'), ('long', 'JJ'), ('time', 'NN'), ('still', 'RB')]",1
+"[('bit', 'NN'), ('rate', 'NN'), ('good', 'JJ')]",1
+"[('nt', 'NNS'), ('get', 'VBP')]",0
+"[('fun', 'NN'), ('cult', 'NN'), ('film', 'NN'), ('tad', 'NN'), ('overr', 'NN')]",0
+"[('ah', 'JJ'), ('rational', 'JJ'), ('pig', 'NN'), ('better', 'RBR'), ('person', 'NN'), ('would', 'MD'), ('ceas', 'VB'), ('filthi', 'JJ'), ('anim', 'NN'), ('true', 'JJ')]",0
+"[('brilliantli', 'NN'), ('construct', 'NN')]",0
+"[('unbeliev', 'NN')]",1
+"[('tarantino', 'NN'), ('s', 'NN'), ('mad', 'JJ'), ('mad', 'JJ'), ('mad', 'NN'), ('mad', 'JJ'), ('world', 'NN')]",0
+"[('perfect', 'JJ'), ('movi', 'NN')]",1
+"[('one', 'CD'), ('best', 'JJS'), ('movi', 'NN'), ('centuri', 'NN')]",1
+"[('icon', 'NN')]",1
+"[('deserv', 'NN'), ('prais', 'NN'), ('gotten', 'CD'), ('year', 'NN')]",1
+"[('awesom', 'NN')]",1
+"[('lightn', 'NN'), ('bottl', 'NN')]",1
+"[('first', 'RB'), ('still', 'RB'), ('best', 'JJS'), ('lotr', 'NN')]",1
+"[('fellowship', 'NN'), ('ring', 'VBG'), ('movi', 'JJ'), ('door', 'NN'), ('anoth', 'DT'), ('dimens', 'NNS')]",1
+"[('thank', 'NN'), ('mr', 'NN'), ('jackson', 'NN')]",1
+"[('great', 'JJ')]",1
+"[('hell', 'NN'), ('film', 'NN'), ('thing', 'NN')]",1
+"[('near', 'IN'), ('perfect', 'JJ'), ('adapt', 'JJ'), ('fantasi', 'NN'), ('benchmark', 'NN')]",0
+"[('absolut', 'RB'), ('incred', 'VBN'), ('film', 'NN')]",1
+"[('masterpiec', 'NN')]",1
+"[('rememb', 'NN'), ('bilbo', 'NN'), ('use', 'NN'), ('say', 'VBP'), ('s', 'NN'), ('danger', 'NN'), ('busi', 'NN'), ('frodo', 'NN'), ('go', 'VBP'), ('door', 'NN')]",1
+"[('amaz', 'RB'), ('begin', 'VB'), ('trilog', 'NN'), ('amaz', 'JJ'), ('end', 'NN'), ('movi', 'NN')]",0
+"[('fantasi', 'JJ'), ('motion', 'NN'), ('pictur', 'NN'), ('rule', 'NN')]",1
+"[('part', 'NN'), ('one', 'CD'), ('help', 'NN'), ('even', 'RB'), ('imposs', 'VB'), ('achiev', 'NN')]",1
+"[('absolut', 'JJ'), ('game', 'NN'), ('changer', 'NN')]",1
+"[('wow', 'NN')]",1
+"[('one', 'CD'), ('best', 'JJS'), ('film', 'NN'), ('ever', 'RB'), ('made', 'VBD')]",1
+"[('begin', 'NN')]",1
+"[('embrac', 'NN'), ('magic', 'NN')]",1
+"[('one', 'CD'), ('ring', 'NN'), ('three', 'CD'), ('movi', 'NN'), ('rule', 'NN')]",1
+"[('may', 'MD'), ('forgotten', 'VB'), ('good', 'JJ')]",1
+"[('rpg', 'JJ'), ('game', 'NN'), ('movi', 'NN')]",1
+"[('masterpiec', 'NN')]",0
+"[('nt', 'NNS'), ('know', 'VB'), ('could', 'MD'), ('much', 'RB'), ('better', 'VB')]",1
+"[('unbeliev', 'RB'), ('good', 'JJ'), ('stand', 'VB'), ('test', 'NN'), ('time', 'NN')]",1
+"[('excel', 'NN')]",1
+"[('truli', 'NN'), ('except', 'IN'), ('film', 'NN')]",1
+"[('girl', 'NN'), ('nt', 'CC'), ('enjoy', 'VB'), ('western', 'JJ'), ('much', 'RB'), ('one', 'CD'), ('greatest', 'JJS'), ('film', 'NN'), ('ever', 'RB')]",1
+"[('brutal', 'JJ'), ('brilliant', 'JJ'), ('one', 'CD'), ('best', 'JJS'), ('western', 'JJ'), ('ever', 'RB'), ('made', 'VBD')]",1
+"[('sergio', 'NN'), ('leon', 'NN'), ('s', 'NN'), ('penultim', 'NN'), ('italianwestern', 'NN'), ('film', 'NN'), ('get', 'VBP'), ('better', 'JJR'), ('pass', 'NN'), ('year', 'NN')]",1
+"[('two', 'CD'), ('kind', 'NN'), ('peopl', 'JJ'), ('world', 'NN'), ('friend', 'NN')]",1
+"[('good', 'JJ'), ('better', 'JJR'), ('best', 'JJS')]",0
+"[('greatest', 'JJS'), ('great', 'JJ')]",1
+"[('cinemat', 'NN'), ('masterpiec', 'NN'), ('also', 'RB'), ('entertain', 'VB'), ('western', 'JJ'), ('time', 'NN')]",1
+"[('best', 'JJS'), ('western', 'JJ'), ('ever', 'RB'), ('made', 'VBD')]",1
+"[('king', 'VBG'), ('cool', 'NN')]",1
+"[('made', 'VBN'), ('love', 'NN'), ('western', 'JJ'), ('brilliant', 'NN')]",1
+"[('primal', 'JJ'), ('honesti', 'NN'), ('moral', 'JJ')]",1
+"[('got', 'VBD'), ('quentin', 'JJ'), ('tarantino', 'NN'), ('damn', 'NN'), ('excit', 'NN')]",1
+"[('film', 'NN'), ('make', 'VBP'), ('highest', 'JJS'), ('order', 'NN')]",1
+"[('sergio', 'NN'), ('leon', 'NN'), ('s', 'NN'), ('visionari', 'NN'), ('film', 'NN')]",1
+"[('good', 'JJ'), ('better', 'JJR'), ('best', 'JJS')]",1
+"[('western', 'JJ'), ('nt', 'NNS'), ('get', 'VBP'), ('better', 'JJR')]",1
+"[('shoot', 'NN'), ('shoot', 'NN'), ('nt', 'NN'), ('talk', 'NN')]",1
+"[('sergio', 'NN'), ('leon', 'NN'), ('highli', 'NN'), ('person', 'NN'), ('filmmak', 'NN')]",1
+"[('sever', 'RB'), ('fist', 'JJ'), ('cadav', 'NN')]",1
+"[('best', 'JJS'), ('cinemat', 'NN'), ('medit', 'NN'), ('greed', 'NN'), ('sinc', 'NN'), ('treasur', 'JJ'), ('sierra', 'NN'), ('madr', 'NN')]",1
+"[('roy', 'NN'), ('roger', 'NN'), ('meet', 'VB'), ('vatican', 'JJ'), ('meet', 'NN'), ('kurosawa', 'NN')]",1
+"[('classic', 'JJ')]",1
+"[('world', 'NN'), ('black', 'JJ'), ('white', 'JJ')]",1
+"[('among', 'IN'), ('finest', 'JJS'), ('western', 'JJ'), ('though', 'IN'), ('tast', 'NN')]",0
+"[('let', 'VB'), ('s', 'PRP'), ('see', 'VB'), ('world', 'NN'), ('eye', 'NN'), ('forrest', 'JJS'), ('gump', 'NN')]",1
+"[('pure', 'NN'), ('charm', 'NN')]",1
+"[('opinion', 'NN'), ('film', 'NN'), ('touch', 'JJ'), ('one', 'CD')]",1
+"[('drop', 'NN'), ('key', 'NN')]",1
+"[('role', 'NN'), ('innoc', 'JJ'), ('posit', 'NN'), ('think', 'VBP'), ('thu', 'NN'), ('success', 'NN')]",0
+"[('beauti', 'NN'), ('fabl', 'NN'), ('futur', 'NN')]",1
+"[('box', 'NN'), ('chocol', 'NN')]",1
+"[('thirti', 'JJ'), ('year', 'NN'), ('s', 'NN'), ('still', 'RB'), ('wonder', 'VB')]",1
+"[('forrest', 'JJS'), ('gump', 'NN'), ('movi', 'NN'), ('masterpiec', 'NN'), ('wo', 'MD'), ('nt', 'VB'), ('forgotten', 'JJ'), ('continu', 'NN'), ('inspir', 'NN')]",1
+"[('puriti', 'NN'), ('innoc', 'NN'), ('retain', 'NN')]",1
+"[('contemporari', 'NN'), ('classic', 'JJ'), ('one', 'CD'), ('alltim', 'NN'), ('fave', 'NN')]",1
+"[('encapsul', 'NN')]",1
+"[('tom', 'NN'), ('hank', 'NN'), ('deliv', 'NN'), ('astound', 'IN'), ('perform', 'NN'), ('forrest', 'JJS'), ('gump', 'NN')]",1
+"[('beauti', 'NN'), ('film', 'NN')]",1
+"[('mama', 'NN'), ('said', 'VBD')]",1
+"[('quit', 'NN'), ('possibl', 'NN'), ('best', 'JJS'), ('movi', 'NN'), ('ever', 'RB'), ('made', 'VBD')]",0
+"[('hand', 'NN'), ('unseen', 'JJ'), ('provid', 'NN')]",1
+"[('one', 'CD'), ('best', 'JJS'), ('film', 'NN'), ('90', 'CD'), ('s', 'NN')]",1
+"[('life', 'NN'), ('like', 'IN'), ('box', 'NN'), ('chocol', 'NN'), ('never', 'RB'), ('truli', 'RB'), ('know', 'VBP'), ('re', 'JJ'), ('gon', 'NN'), ('na', 'TO'), ('get', 'VB'), ('forrest', 'JJS'), ('gump', 'NN'), ('amaz', 'NN')]",1
+"[('low', 'JJ'), ('rate', 'NN')]",1
+"[('zen', 'NN'), ('forrest', 'JJS'), ('gump', 'NN')]",1
+"[('life', 'NN'), ('s', 'VBD'), ('lesson', 'JJ'), ('one', 'CD'), ('movi', 'NN')]",1
+"[('20', 'CD'), ('year', 'NN'), ('still', 'RB'), ('love', 'VB'), ('forrest', 'JJS'), ('gump', 'NN')]",1
+"[('felt', 'NNS'), ('like', 'IN'), ('run', 'NN')]",1
+"[('need', 'NN'), ('watch', 'NN')]",0
+"[('great', 'JJ'), ('movi', 'NN'), ('watch', 'NN')]",1
+"[('superb', 'NN')]",1
+"[('crazi', 'NN'), ('cult', 'NN'), ('plot', 'NN'), ('twist', 'NN'), ('awesom', 'NN'), ('fight', 'NN'), ('club', 'NN')]",1
+"[('fincher', 'RB'), ('s', 'JJ'), ('tour', 'NN'), ('de', 'IN'), ('forc', 'FW'), ('bruis', 'NNS'), ('assault', 'NN'), ('sens', 'NNS')]",1
+"[('delight', 'NN'), ('romant', 'NN'), ('comedi', 'NN')]",1
+"[('welcom', 'NN'), ('movi', 'NN'), ('heaven', 'NN')]",1
+"[('s', 'VB'), ('one', 'CD'), ('best', 'JJS')]",1
+"[('actual', 'JJ'), ('talk', 'NN'), ('fight', 'NN'), ('club', 'NN')]",1
+"[('crazi', 'NN'), ('good', 'JJ')]",1
+"[('unpredict', 'JJ'), ('movi', 'NN')]",1
+"[('watch', 'NN'), ('movi', 'NN')]",1
+"[('love', 'VB'), ('hate', 'NN'), ('person', 'NN'), ('love', 'VB')]",1
+"[('thing', 'NN'), ('end', 'NN'), ('own', 'JJ')]",1
+"[('go', 'VB'), ('complet', 'NN'), ('blind', 'NN')]",1
+"[('everyon', 'NN'), ('s', 'NN'), ('favorit', 'NN'), ('movi', 'NN'), ('besid', 'NN')]",1
+"[('s', 'JJ'), ('hard', 'JJ'), ('take', 'NN'), ('eye', 'NN'), ('away', 'RB')]",1
+"[('watch', 'NN'), ('atleast', 'NN'), ('twice', 'NN')]",1
+"[('studi', 'NN'), ('philosophi', 'NN'), ('film', 'NN'), ('took', 'VBD'), ('ride', 'NN')]",1
+"[('fight', 'NN')]",1
+"[('danger', 'NN'), ('brilliant', 'NN'), ('film', 'NN'), ('entertain', 'VBP'), ('well', 'RB'), ('enlighten', 'RB')]",0
+"[('first', 'RB'), ('review', 'VB'), ('favorit', 'NN'), ('movi', 'NN')]",1
+"[('import', 'NN'), ('movi', 'NN')]",1
+"[('lifechang', 'NN'), ('fight', 'NN'), ('club', 'NN')]",1
+"[('uniqu', 'JJ'), ('film', 'NN')]",1
+"[('first', 'RB'), ('rule', 'NN'), ('fight', 'NN'), ('club', 'NN'), ('never', 'RB'), ('talk', 'NN'), ('overhyp', 'JJ'), ('fight', 'NN'), ('club', 'NN')]",1
+"[('epic', 'NN'), ('everi', 'NN'), ('sens', 'VBZ'), ('word', 'NN')]",1
+"[('s', 'RB'), ('good', 'JJ'), ('world', 'NN'), ('mr', 'NN'), ('frodo', 'NN'), ('s', 'VBD'), ('worth', 'JJ'), ('fight', 'NN')]",1
+"[('great', 'JJ'), ('movi', 'NN')]",0
+"[('absolut', 'JJ'), ('total', 'NN'), ('fantast', 'NN')]",1
+"[('accomplish', 'JJ'), ('nearimposs', 'NN')]",1
+"[('sophomor', 'NN'), ('effort', 'NN'), ('shine', 'NN'), ('brightli', 'NN'), ('first', 'RB')]",1
+"[('magic', 'NN'), ('film', 'NN')]",1
+"[('person', 'NN'), ('favourit', 'NN'), ('trilog', 'NN')]",1
+"[('stand', 'NN'), ('ovat', 'NN'), ('concern', 'NN')]",1
+"[('one', 'CD'), ('best', 'JJS'), ('battl', 'NN'), ('sequenc', 'NN')]",1
+"[('helm', 'NN'), ('s', 'NN'), ('deep', 'NN'), ('could', 'MD'), ('greatest', 'VB'), ('battl', 'IN'), ('sequenc', 'JJ'), ('time', 'NN')]",1
+"[('preciou', 'NN')]",1
+"[('visit', 'NN'), ('cinema', 'NN')]",1
+"[('true', 'JJ'), ('fantasi', 'NN'), ('movi', 'NN')]",1
+"[('magnific', 'NN'), ('epic', 'NN')]",1
+"[('jackson', 'NN'), ('remain', 'VBP'), ('geniu', 'JJ'), ('seri', 'NN'), ('remain', 'VBP'), ('masterpiec', 'JJ'), ('faith', 'JJ'), ('enough', 'JJ'), ('tolkein', 'NN'), ('fantast', 'VBD'), ('movi', 'NN')]",1
+"[('hail', 'NN'), ('hero', 'NN')]",1
+"[('fantasi', 'RB'), ('great', 'JJ'), ('one', 'CD'), ('best', 'JJS'), ('sieg', 'NN'), ('put', 'VBD'), ('film', 'NN')]",1
+"[('two', 'CD'), ('tower', 'JJR'), ('answer', 'NN'), ('preciou', 'NN')]",1
+"[('tough', 'JJ'), ('put', 'NN'), ('film', 'NN'), ('came', 'VBD'), ('well', 'RB')]",1
+"[('sequel', 'NN'), ('dwarf', 'NN'), ('predecessor', 'NN')]",1
+"[('battl', 'NN'), ('middl', 'NN'), ('earth', 'NN'), ('begin', 'VB')]",1
+"[('greatest', 'JJS'), ('three', 'CD'), ('ring', 'VBG')]",0
+"[('filmcreatur', 'NN'), ('review', 'VB'), ('the', 'DT'), ('lord', 'NN'), ('ring', 'VBG'), ('two', 'CD'), ('tower', 'NN')]",1
+"[('spotlight', 'JJ'), ('time', 'NN'), ('movi', 'NN'), ('review', 'NN'), ('would', 'MD'), ('trilogytobeon', 'VB'), ('film', 'NN')]",1
+"[('oneofakind', 'RB'), ('mindblow', 'JJ'), ('masterpiec', 'NN')]",1
+"[('possibl', 'NN'), ('maker', 'NN'), ('understand', 'NN'), ('incred', 'VBD'), ('film', 'NN')]",1
+"[('incept', 'NN'), ('less', 'CC'), ('shock', 'NN'), ('matrix', 'NN')]",1
+"[('answer', 'JJR'), ('question', 'NN'), ('one', 'CD'), ('answer', 'NN'), ('feel', 'NN'), ('guilt', 'NN')]",1
+"[('insan', 'JJ'), ('brilliant', 'JJ'), ('nolan', 'NN'), ('outdon', 'NN')]",0
+"[('gener', 'NN'), ('defin', 'NN')]",1
+"[('decad', 'NN'), ('incept', 'NN'), ('may', 'MD'), ('religion', 'VB')]",1
+"[('mindcraft', 'NN')]",1
+"[('number', 'NN'), ('one', 'CD'), ('favorit', 'NN'), ('movi', 'NN')]",1
+"[('wait', 'NN')]",1
+"[('amazingli', 'NN'), ('origin', 'NN'), ('also', 'RB'), ('bit', 'RB'), ('overwhelm', 'JJ')]",1
+"[('scifi', 'NN'), ('perfect', 'JJ'), ('truli', 'JJ'), ('mesmer', 'NN'), ('film', 'NN')]",0
+"[('nt', 'RB'), ('win', 'JJ'), ('best', 'JJS'), ('pictur', 'NN')]",1
+"[('first', 'RB'), ('lesson', 'JJ'), ('share', 'NN'), ('dream', 'NN'), ('stay', 'NN'), ('calm', 'NN')]",1
+"[('matrix', 'NN'), ('dreamworld', 'NN'), ('nah', 'NN')]",1
+"[('incrediblenolan', 'JJ'), ('keep', 'VB'), ('improv', 'NN'), ('incept', 'IN'), ('far', 'RB'), ('best', 'JJS'), ('improv', 'NN')]",-1
+"[('nolan', 'JJ'), ('intellig', 'NN'), ('best', 'JJS')]",1
+"[('perfect', 'JJ'), ('summer', 'NN'), ('blockbust', 'NN')]",1
+"[('come', 'VB'), ('back', 'RB')]",1
+"[('right', 'NN')]",1
+"[('potpourri', 'NN'), ('vestig', 'NN'), ('review', 'NN'), ('buuel', 'NN'), ('meet', 'NN'), ('kubrick', 'JJ'), ('nolan', 'NN'), ('s', 'VBP'), ('ambiti', 'JJ'), ('ventur', 'NN'), ('till', 'NN'), ('date', 'NN')]",0
+"[('incept', 'JJ'), ('christoph', 'NN'), ('nolan', 'NN'), ('s', 'VBZ'), ('masterpiec', 'NN')]",1
+"[('much', 'RB'), ('less', 'JJR'), ('intellig', 'JJ'), ('seem', 'NN')]",1
+"[('good', 'JJ'), ('idea', 'NN'), ('lost', 'VBD'), ('nois', 'JJ')]",-1
+"[('incept', 'IN'), ('like', 'IN'), ('insipid', 'NN')]",-1
+"[('fun', 'NN'), ('origin', 'RB'), ('much', 'RB'), ('better', 'JJR'), ('darker', 'NN'), ('plot', 'NN')]",-1
+"[('excel', 'JJ'), ('timeless', 'NN'), ('classic', 'JJ'), ('best', 'RBS'), ('sequel', 'NN'), ('time', 'NN')]",1
+"[('enjoy', 'VB'), ('one', 'CD'), ('new', 'JJ'), ('hope', 'NN')]",1
+"[('one', 'CD'), ('one', 'CD')]",1
+"[('worthi', 'JJ'), ('second', 'JJ'), ('5th', 'JJ'), ('star', 'NN'), ('war', 'NN'), ('instal', 'JJ'), ('might', 'MD'), ('best', 'JJS'), ('bunch', 'NN')]",0
+"[('one', 'CD'), ('best', 'JJS'), ('film', 'NN'), ('ever', 'RB'), ('made', 'VBD')]",1
+"[('best', 'JJS'), ('star', 'NN'), ('war', 'NN'), ('film', 'NN')]",1
+"[('s', 'JJ'), ('darkest', 'JJS'), ('trilog', 'NN'), ('s', 'NN'), ('matur', 'NN')]",1
+"[('even', 'RB'), ('though', 'IN'), ('nt', 'JJ'), ('director', 'NN'), ('s', 'VBD'), ('helm', 'JJ'), ('time', 'NN'), ('georg', 'NN'), ('luca', 'NN'), ('done', 'VBN')]",1
+"[('finest', 'JJS'), ('trilog', 'NN'), ('luca', 'NN'), ('nt', 'IN'), ('write', 'JJ'), ('script', 'NN')]",1
+"[('manag', 'NN'), ('even', 'RB'), ('better', 'RBR'), ('new', 'JJ'), ('hope', 'NN'), ('brilliant', 'NN')]",1
+"[('best', 'JJS'), ('star', 'NN'), ('war', 'NN'), ('film', 'NN'), ('ever', 'RB'), ('made', 'VBD')]",1
+"[('among', 'IN'), ('time', 'NN'), ('great', 'JJ'), ('scienc', 'JJ'), ('fiction', 'NN'), ('movi', 'NN'), ('absolut', 'NN'), ('must', 'MD'), ('see', 'VB')]",1
+"[('fantast', 'NN'), ('sequel', 'NN')]",1
+"[('best', 'JJS'), ('movi', 'NN'), ('star', 'NN'), ('war', 'NN')]",1
+"[('darker', 'NN'), ('better', 'RBR'), ('new', 'JJ'), ('hope', 'NN')]",1
+"[('best', 'JJS'), ('film', 'NN'), ('origin', 'NN'), ('trilog', 'NN')]",1
+"[('outstand', 'NN'), ('follow', 'VB')]",1
+"[('destini', 'NN')]",1
+"[('star', 'JJ'), ('war', 'NN'), ('episod', 'NN'), ('v', 'NN'), ('empir', 'NN'), ('strike', 'NN'), ('back', 'RB')]",0
+"[('ca', 'MD'), ('nt', 'RB'), ('make', 'VB'), ('like', 'IN')]",1
+"[('greatest', 'JJS'), ('movi', 'NN'), ('ever', 'RB')]",1
+"[('one', 'CD'), ('best', 'JJS'), ('movi', 'NN')]",1
+"[('masterpiec', 'NN')]",1
+"[('star', 'JJ'), ('war', 'NN'), ('episod', 'VBD'), ('5', 'CD'), ('empir', 'NN'), ('strike', 'NN'), ('back', 'RB')]",1
+"[('wow', 'NN')]",1
+"[('ah', 'NN'), ('ye', 'NN'), ('first', 'RB'), ('existenti', 'VBZ'), ('crisi', 'NN')]",1
+"[('benchmark', 'NN'), ('forev', 'NN')]",1
+"[('timeless', 'NN'), ('classic', 'JJ')]",1
+"[('agent', 'NN'), ('smith', 'NN'), ('human', 'JJ'), ('be', 'VB'), ('diseas', 'JJ'), ('cancer', 'NN'), ('planet', 'NN'), ('re', 'NN'), ('plagu', 'NN'), ('cure', 'NN')]",1
+"[('watersh', 'JJ'), ('moment', 'NN'), ('filmmak', 'NN'), ('kickass', 'NN'), ('masterpiec', 'NN')]",0
+"[('one', 'CD'), ('best', 'JJS'), ('action', 'NN'), ('sci', 'NN'), ('fi', 'JJ'), ('action', 'NN'), ('movi', 'NN'), ('time', 'NN')]",1
+"[('masterpiec', 'NN')]",1
+"[('immens', 'NNS'), ('entertain', 'VBP'), ('intriguingli', 'JJ'), ('philosoph', 'NN'), ('one', 'CD'), ('best', 'JJS'), ('film', 'NN'), ('ever', 'RB'), ('made', 'VBD')]",1
+"[('matrix', 'VB'), ('one', 'CD'), ('best', 'JJS'), ('classic', 'JJ'), ('scifi', 'NN'), ('action', 'NN'), ('film', 'NN'), ('ever', 'RB')]",1
+"[('scifi', 'JJ'), ('action', 'NN'), ('thriller', 'NN'), ('mileston', 'NN')]",1
+"[('one', 'CD'), ('favorit', 'NN')]",1
+"[('well', 'RB'), ('written', 'VBN'), ('make', 'VBP'), ('question', 'NN'), ('realiti', 'NN')]",1
+"[('20', 'CD'), ('year', 'NN'), ('releas', 'NNS'), ('random', 'VBP'), ('thought', 'VBN'), ('revisit', 'NN'), ('matrix', 'NN'), ('spoiler', 'NN'), ('s', 'NN'), ('still', 'RB'), ('brilliant', 'JJ')]",1
+"[('still', 'RB'), ('hip', 'VBZ'), ('heck', 'VB'), ('even', 'RB'), ('20', 'CD'), ('year', 'NN')]",1
+"[('exhilar', 'JJ'), ('4dx', 'CD'), ('profound', 'NN'), ('experi', 'NN')]",1
+"[('spoon', 'NN'), ('bend', 'NN')]",1
+"[('last', 'JJ'), ('someth', 'JJ'), ('recommend', 'NN')]",1
+"[('world', 'NN'), ('comput', 'NN')]",1
+"[('welcom', 'NN'), ('real', 'JJ'), ('world', 'NN')]",1
+"[('matrix', 'NN'), ('one', 'CD'), ('greatest', 'JJS'), ('ever', 'RB'), ('leagu', 'JJ'), ('shawshank', 'NN'), ('redempt', 'NN'), ('interstellar', 'NN')]",1
+"[('matrix', 'RB'), ('well', 'RB'), ('one', 'CD'), ('best', 'JJS'), ('film', 'NN'), ('ever', 'RB'), ('one', 'CD'), ('thing', 'NN')]",1
+"[('benchmark', 'NN'), ('scifi', 'NN'), ('film', 'NN'), ('come', 'VB')]",1
+"[('wow', 'JJ'), ('final', 'JJ'), ('saw', 'NN')]",1
+"[('almost', 'RB'), ('favorit', 'NN'), ('movi', 'NN'), ('ever', 'RB'), ('metaphorsquot', 'VBD'), ('known', 'VBN')]",1
+"[('one', 'CD'), ('word', 'NN'), ('perfect', 'NN')]",1
+"[('offer', 'NN'), ('ca', 'MD'), ('nt', 'VB'), ('refus', 'NN')]",1
+"[('best', 'RB'), ('mobster', 'NN'), ('film', 'NN'), ('ever', 'RB'), ('made', 'VBD')]",1
+"[('great', 'JJ'), ('director', 'NN'), ('peak', 'NN'), ('talent', 'NN')]",1
+"[('one', 'CD'), ('word', 'NN'), ('priceless', 'NN')]",1
+"[('greatest', 'JJS'), ('mob', 'NN'), ('film', 'NN'), ('still', 'RB'), ('today', 'NN')]",1
+"[('definit', 'NN'), ('film', 'NN'), ('1990', 'CD')]",1
+"[('crimin', 'NN'), ('mindset', 'NN')]",1
+"[('simpli', 'NN'), ('masterpiec', 'NN'), ('scorses', 'VBZ'), ('s', 'JJ'), ('last', 'JJ'), ('truli', 'NN'), ('great', 'JJ'), ('movi', 'NN'), ('date', 'NN')]",1
+"[('mob', 'NN'), ('reveal', 'NN')]",1
+"[('martin', 'NN'), ('scorses', 'VBZ'), ('s', 'JJ'), ('masterpiec', 'NN')]",1
+"[('classic', 'JJ'), ('durp', 'NN')]",1
+"[('age', 'NN'), ('like', 'IN'), ('fine', 'JJ'), ('wine', 'NN')]",1
+"[('slightli', 'NN'), ('disappoint', 'NN'), ('still', 'RB'), ('good', 'JJ')]",1
+"[('icon', 'NN')]",0
+"[('scorses', 'NNS'), ('s', 'VBP'), ('best', 'JJS')]",1
+"[('good', 'JJ'), ('fella', 'NN'), ('nt', 'NNS'), ('get', 'VBP')]",1
+"[('instant', 'JJ'), ('classic', 'NN')]",1
+"[('classic', 'JJ'), ('mobster', 'NN'), ('film', 'NN')]",1
+"[('classic', 'JJ'), ('modern', 'JJ'), ('day', 'NN'), ('gangster', 'NN'), ('film', 'NN')]",1
+"[('scorses', 'NNS'), ('s', 'VBP'), ('masterpiec', 'JJ'), ('stand', 'VBP'), ('test', 'NN'), ('time', 'NN')]",1
+"[('italian', 'JJ'), ('storytel', 'NN')]",1
+"[('right', 'RB'), ('hail', 'NN'), ('one', 'CD'), ('greatest', 'JJS'), ('gangster', 'NN'), ('epic', 'NN'), ('time', 'NN')]",1
+"[('masterpiec', 'NN'), ('get', 'VB'), ('better', 'JJR'), ('new', 'JJ'), ('view', 'NN')]",1
+"[('slick', 'NN'), ('flashi', 'NN'), ('often', 'RB'), ('brilliant', 'JJ'), ('yet', 'RB'), ('make', 'VBP'), ('give', 'JJ'), ('hoot', 'NN'), ('charact', 'NN')]",1
+"[('spirit', 'NN'), ('freedom', 'NN'), ('vs', 'NN'), ('spirit', 'JJ'), ('legal', 'JJ')]",0
+"[('uplift', 'JJ'), ('dishearten', 'NNS'), ('sometim', 'VBP')]",0
+"[('touch', 'JJ'), ('move', 'NN'), ('great', 'JJ'), ('cinemat', 'NN'), ('experi', 'NN')]",1
+"[('excel', 'NN'), ('movi', 'NN'), ('went', 'VBD'), ('mind', 'IN'), ('see', 'NN'), ('masterpiec', 'NN')]",1
+"[('masterpiec', 'NN')]",1
+"[('poetic', 'JJ'), ('power', 'NN'), ('simpl', 'NN'), ('great', 'JJ'), ('cuckoo', 'NN'), ('s', 'NN'), ('nest', 'NN')]",1
+"[('jack', 'NN'), ('nicholson', 'NN'), ('finest', 'JJS')]",1
+"[('jack', 'NN'), ('nicholson', 'JJ'), ('final', 'JJ'), ('win', 'NN'), ('oscar', 'NN')]",1
+"[('best', 'JJS'), ('film', 'NN'), ('era', 'NN')]",1
+"[('one', 'CD'), ('greatest', 'JJS'), ('time', 'NN')]",1
+"[('great', 'JJ'), ('order', 'NN'), ('vs', 'NN'), ('chao', 'NN'), ('tale', 'NN'), ('everyon', 'NN'), ('relat', 'NN')]",1
+"[('perfect', 'JJ'), ('mixtur', 'NN'), ('entertain', 'NN'), ('drama', 'NN')]",1
+"[('crazi', 'JJ'), ('hate', 'NN'), ('movi', 'NNS'), ('movi', 'VBP'), ('masterpiec', 'NN')]",1
+"[('extraordinari', 'NN')]",1
+"[('s', 'NN'), ('easi', 'NN')]",1
+"[('ultim', 'JJ'), ('backfir', 'NN')]",0
+"[('one', 'CD'), ('flew', 'VBD'), ('one', 'CD'), ('best', 'JJS'), ('movi', 'NN'), ('ever', 'RB'), ('made', 'VBD'), ('person', 'NN')]",0
+"[('cool', 'JJ'), ('hand', 'NN'), ('jack', 'NN')]",1
+"[('one', 'CD'), ('greatest', 'JJS'), ('ever', 'RB'), ('made', 'VBD')]",0
+"[('get', 'VB'), ('mad', 'JJ'), ('want', 'VBP'), ('realist', 'NN')]",1
+"[('one', 'CD'), ('last', 'JJ'), ('antiestablish', 'JJ'), ('film', 'NN'), ('1970', 'CD')]",1
+"[('storytel', 'NN'), ('imprison', 'NN')]",1
+"[('know', 'NNS'), ('close', 'RB')]",1
+"[('wonder', 'NN'), ('film', 'NN')]",0
+"[('m', 'JJ'), ('stuck', 'VBD'), ('re', 'JJ'), ('stuck', 'NN')]",1
+"[('grim', 'NN'), ('disturb', 'NN'), ('ca', 'MD'), ('nt', 'VB'), ('stop', 'VB'), ('watch', 'NN')]",0
+"[('brilliant', 'JJ'), ('postmodern', 'JJ'), ('film', 'NN'), ('noir', 'NNS'), ('grim', 'VBP'), ('intellig', 'NN'), ('disturb', 'NN')]",1
+"[('still', 'RB'), ('manag', 'VBN'), ('astound', 'RB'), ('20', 'CD'), ('year', 'NN'), ('repeat', 'NN'), ('view', 'NN')]",1
+"[('dark', 'NN'), ('disturb', 'NN'), ('thriller', 'NN'), ('stay', 'NN'), ('ever', 'RB')]",1
+"[('s', 'VB'), ('experienc', 'RB'), ('much', 'JJ'), ('pain', 'NN'), ('suffer', 'VBP'), ('anyon', 'NN'), ('ve', 'NN'), ('encount', 'NN'), ('give', 'VBP'), ('take', 'NN'), ('still', 'RB'), ('hell', 'VB'), ('look', 'VB'), ('forward', 'RB')]",1
+"[('classic', 'JJ')]",0
+"[('probabl', 'NN'), ('greatest', 'JJS'), ('murder', 'NN'), ('stori', 'NN'), ('ever', 'RB')]",1
+"[('dark', 'NN'), ('disturb', 'NN'), ('masterpiec', 'NN')]",1
+"[('one', 'CD'), ('bestmad', 'NN'), ('film', 'NN'), ('era', 'NN'), ('genr', 'NN')]",1
+"[('top', 'JJ'), ('serial', 'JJ'), ('killer', 'NN'), ('movi', 'NN')]",1
+"[('modern', 'JJ'), ('masterpiec', 'NN')]",1
+"[('stand', 'VB'), ('thriller', 'NN'), ('thank', 'NN'), ('fine', 'JJ'), ('cast', 'NN')]",1
+"[('superbl', 'NN'), ('craft', 'NN'), ('drama', 'NN'), ('delv', 'NN'), ('darkest', 'JJS'), ('corner', 'NN'), ('psych', 'NN')]",1
+"[('simpli', 'VB'), ('one', 'CD'), ('darkest', 'JJS'), ('best', 'JJS'), ('thriller', 'NN'), ('1990', 'CD'), ('s', 'NN'), ('nt', 'CC'), ('let', 'VB'), ('anyon', 'JJ'), ('spoil', 'NN')]",1
+"[('david', 'NN'), ('fincher', 'NN'), ('strike', 'NN'), ('unwav', 'JJ'), ('thriller', 'NN'), ('strike', 'NN'), ('straight', 'VBD'), ('heart', 'NN')]",1
+"[('se7en', 'NN'), ('gruesom', 'NN'), ('chapter', 'NN'), ('killer', 'NN'), ('s', 'NN'), ('manifesto', 'NN')]",1
+"[('20', 'CD'), ('year', 'NN'), ('later', 'RB'), ('watch', 'NN')]",1
+"[('fincher', 'RB'), ('finest', 'JJS')]",1
+"[('one', 'CD'), ('greatest', 'JJS'), ('thriller', 'NN'), ('alltim', 'NN')]",1
+"[('nt', 'RB'), ('go', 'VB'), ('happi', 'JJ'), ('end', 'NN')]",1
+"[('beauti', 'NN'), ('dark', 'NN')]",1
+"[('se7en', 'NN'), ('sin', 'NN'), ('enthral', 'JJ'), ('thriller', 'NN')]",1
+"[('900', 'CD'), ('review', 'NN'), ('mine', 'NN'), ('hardli', 'NN'), ('necessari', 'JJ'), ('bluray', 'NN'), ('excel', 'NN'), ('a10', 'NN'), ('v10', 'NN')]",1
+"[('fincher', 'RB'), ('s', 'JJ'), ('se7en', 'NN'), ('classic', 'JJ'), ('crime', 'NN'), ('stori', 'NN'), ('rival', 'NN'), ('like', 'IN'), ('silenc', 'NN'), ('lamb', 'NN')]",1
+"[('dark', 'JJ'), ('grisli', 'NN'), ('highli', 'NN'), ('intellig', 'NN'), ('edgeofyourseat', 'NN'), ('thriller', 'NN')]",1
+"[('big', 'JJ'), ('brother', 'NN'), ('georg', 'NN'), ('richest', 'VBP'), ('man', 'NN'), ('town', 'NN')]",1
+"[('great', 'JJ'), ('influenc', 'NN')]",0
+"[('one', 'CD'), ('quintessenti', 'NN'), ('christma', 'NN'), ('movi', 'NN')]",1
+"[('wonder', 'NN'), ('film', 'NN'), ('timeless', 'NN'), ('classic', 'NN')]",1
+"[('wonder', 'NN'), ('film', 'NN'), ('watch', 'NN')]",1
+"[('best', 'JJS'), ('feel', 'NN'), ('good', 'JJ'), ('movi', 'NN'), ('ever', 'RB'), ('quit', 'VBD'), ('possibl', 'NN')]",1
+"[('s', 'NN'), ('wonder', 'NN'), ('life', 'NN')]",1
+"[('atop', 'JJ'), ('top', 'NN'), ('ten', 'NN')]",1
+"[('realli', 'NN')]",1
+"[('s', 'NN'), ('offici', 'NN'), ('christma', 'NN'), ('season', 'NN'), ('watch', 'NN'), ('movi', 'NN')]",0
+"[('one', 'CD'), ('greatest', 'JJS'), ('movi', 'NN'), ('ever', 'RB'), ('made', 'VBD'), ('cinema', 'NN'), ('histori', 'NN')]",1
+"[('movi', 'NN')]",1
+"[('man', 'NN'), ('s', 'VBZ'), ('life', 'NN'), ('touch', 'JJ'), ('mani', 'NNS'), ('live', 'VBP')]",1
+"[('nt', 'JJ'), ('age', 'NN')]",1
+"[('great', 'JJ'), ('christma', 'JJ'), ('year', 'NN'), ('round', 'NN'), ('movi', 'NN')]",1
+"[('one', 'CD'), ('beauti', 'NN'), ('movi', 'NN'), ('cinema', 'NN'), ('histori', 'NN'), ('ever', 'RB')]",1
+"[('enjoy', 'NN'), ('hearti', 'NN'), ('well', 'RB'), ('craft', 'NN')]",1
+"[('magic', 'NN')]",1
+"[('man', 'NN'), ('s', 'VBZ'), ('life', 'NN'), ('touch', 'JJ'), ('mani', 'NN'), ('other', 'JJ')]",1
+"[('movi', 'NN'), ('ca', 'MD'), ('nt', 'VB'), ('help', 'NN'), ('feel', 'VB'), ('good', 'JJ')]",1
+"[('sheer', 'NN'), ('brillianc', 'NN')]",1
+"[('frank', 'JJ'), ('capra', 'NN'), ('s', 'NN'), ('opu', 'NN')]",1
+"[('man', 'NN'), ('failur', 'VBZ'), ('friend', 'NN')]",1
+"[('wonder', 'NN'), ('experi', 'NN')]",1
+"[('christma', 'NN'), ('film', 'NN')]",1
+"[('world', 'NN')]",1
+"[('visual', 'JJ'), ('auditori', 'NN'), ('marvel', 'NN')]",1
+"[('masterpiec', 'NN')]",1
+"[('possibl', 'NN'), ('best', 'JJS'), ('movi', 'NN'), ('time', 'NN')]",1
+"[('wait', 'NN'), ('5', 'CD'), ('year', 'NN'), ('watch', 'NN')]",1
+"[('masterpiec', 'NN')]",0
+"[('7', 'CD'), ('year', 'NN'), ('later', 'RB')]",1
+"[('journey', 'NN'), ('across', 'IN'), ('galaxi', 'NN'), ('save', 'VBP'), ('human', 'NN')]",1
+"[('excel', 'NN'), ('movi', 'NN')]",1
+"[('would', 'MD'), ('rate', 'NN'), ('1110', 'CD')]",1
+"[('absolut', 'NN'), ('brilliant', 'NN')]",1
+"[('scifi', 'NN'), ('masterpiec', 'NN')]",1
+"[('visual', 'JJ'), ('monument', 'NN'), ('thought', 'VBD'), ('scifi', 'NNS'), ('epic', 'VB')]",1
+"[('greatest', 'JJS'), ('movi', 'NN'), ('time', 'NN')]",1
+"[('emot', 'NN'), ('beauti', 'NN'), ('journey', 'NN'), ('unknown', 'JJ')]",1
+"[('fascin', 'NN'), ('film', 'NN')]",1
+"[('visual', 'JJ'), ('masterpiec', 'NN')]",1
+"[('interstellar', 'JJ'), ('openheart', 'NN'), ('master', 'NN'), ('human', 'NN'), ('odyssey', 'NN')]",1
+"[('mayb', 'NN'), ('spectacular', 'NN'), ('movi', 'NN'), ('2014', 'CD'), ('one', 'CD'), ('best', 'JJS')]",1
+"[('time', 'NN'), ('travel', 'NN'), ('rel', 'NN'), ('space', 'NN'), ('equilibrium', 'NN'), ('nolan', 'NN'), ('s', 'JJ'), ('grand', 'JJ'), ('space', 'NN'), ('masterpiec', 'NN')]",1
+"[('amaz', 'JJ'), ('drama', 'NN'), ('scifi', 'NN'), ('element', 'NN')]",1
+"[('best', 'JJS'), ('movi', 'NN'), ('seen', 'VBN'), ('life', 'NN')]",1
+"[('go', 'VB'), ('brilliantli', 'JJ'), ('loudli', 'NN'), ('dark', 'NN')]",1
+"[('glad', 'JJ'), ('nt', 'JJ'), ('watch', 'NN'), ('trailer', 'NN')]",1
+"[('ve', 'NN'), ('never', 'RB'), ('seen', 'VBN'), ('movi', 'RB'), ('good', 'JJ'), ('long', 'JJ'), ('time', 'NN')]",1
+"[('solid', 'JJ'), ('gold', 'NN')]",1
+"[('storytel', 'NN'), ('finest', 'JJS')]",1
+"[('kurosawa', 'NN'), ('s', 'NN'), ('triumphant', 'NN'), ('epic', 'NN'), ('total', 'JJ'), ('success', 'NN'), ('driven', 'VBN'), ('charact', 'JJ'), ('stori', 'NN')]",1
+"[('memor', 'NN'), ('charact', 'VB'), ('one', 'CD'), ('best', 'JJS'), ('action', 'NN'), ('movi', 'NN'), ('time', 'NN')]",0
+"[('arguabl', 'NN'), ('best', 'JJS'), ('samurai', 'NN'), ('film', 'NN'), ('ever', 'RB'), ('made', 'VBD')]",1
+"[('kurosawa', 'NN'), ('greatest', 'JJS'), ('director', 'NN'), ('ever', 'RB'), ('live', 'VBP')]",1
+"[('requir', 'NN'), ('view', 'NN')]",0
+"[('shichinin', 'NN'), ('samurai', 'NN'), ('simpli', 'NN'), ('outstand', 'NN')]",1
+"[('nt', 'RB'), ('seen', 'VBN'), ('yet', 'RB')]",1
+"[('cinemat', 'NN'), ('masterpiec', 'NN')]",1
+"[('akira', 'NN'), ('kurosawa', 'NN'), ('s', 'VBD'), ('seven', 'CD'), ('samurai', 'NNS'), ('timeless', 'JJ'), ('masterpiec', 'NN'), ('cinema', 'NN')]",1
+"[('ahead', 'RB'), ('time', 'NN')]",1
+"[('long', 'RB'), ('sometim', 'JJ'), ('hard', 'RB'), ('follow', 'VBP')]",1
+"[('awesom', 'NN')]",1
+"[('complex', 'JJ'), ('beauti', 'NN')]",1
+"[('ronin', 'NN'), ('countrysid', 'NN')]",1
+"[('one', 'CD'), ('best', 'JJS'), ('movi', 'NN'), ('cinema', 'NN'), ('histori', 'NN')]",1
+"[('realli', 'NN'), ('great', 'JJ'), ('epic', 'NN'), ('film', 'NN'), ('beauti', 'NN'), ('told', 'VBD'), ('stun', 'NN'), ('act', 'NN')]",1
+"[('film', 'NN'), ('describ', 'NN'), ('one', 'CD'), ('word', 'NN'), ('awesom', 'NN')]",1
+"[('solid', 'JJ'), ('defens', 'NNS'), ('art', 'NN')]",1
+"[('kurasawa', 'NN'), ('s', 'NN'), ('best', 'RBS'), ('film', 'NN')]",1
+"[('brilliant', 'JJ'), ('composit', 'NN'), ('plu', 'NN'), ('brilliant', 'JJ'), ('act', 'NN'), ('brilliant', 'JJ'), ('flawless', 'NN'), ('movi', 'NN')]",1
+"[('one', 'CD'), ('influenti', 'NN'), ('movi', 'NN'), ('histori', 'NN')]",0
+"[('best', 'JJS'), ('nonenglish', 'JJ'), ('film', 'NN'), ('ever', 'RB')]",1
+"[('icon', 'NN'), ('influenti', 'NN'), ('movi', 'NN')]",1
+"[('good', 'JJ'), ('notori', 'NN'), ('reput', 'NN'), ('suggest', 'VBP')]",1
+"[('drlecter', 'NN'), ('d', 'NN'), ('like', 'IN'), ('see', 'NN')]",1
+"[('rare', 'JJ'), ('experi', 'NN'), ('dark', 'NN'), ('n', 'JJ'), ('twist', 'NN'), ('thriller', 'NN'), ('aid', 'NN'), ('top', 'JJ'), ('notch', 'NN'), ('perform', 'NN'), ('tight', 'JJ'), ('script', 'NN'), ('n', 'NNS'), ('direct', 'VBP')]",1
+"[('class', 'NN')]",1
+"[('stori', 'NN'), ('charact', 'NN'), ('ca', 'MD'), ('nt', 'VB'), ('forget', 'VB')]",1
+"[('godfath', 'NN'), ('thriller', 'NN')]",1
+"[('grand', 'JJ'), ('thriller', 'NN')]",1
+"[('rare', 'JJ'), ('contend', 'NN'), ('best', 'JJS'), ('film', 'NN'), ('time', 'NN')]",1
+"[('thrill', 'NN'), ('must', 'MD'), ('see', 'VB')]",1
+"[('truli', 'NNS'), ('remark', 'NN'), ('film', 'NN')]",1
+"[('perfectli', 'NN'), ('execut', 'VBD'), ('dramat', 'JJ'), ('thriller', 'NN')]",1
+"[('class', 'NN'), ('act', 'NN')]",1
+"[('absolut', 'NN'), ('brilliant', 'NN')]",1
+"[('truli', 'JJ'), ('enthral', 'JJ'), ('film', 'NN'), ('one', 'CD'), ('forget', 'NN')]",1
+"[('effect', 'NN'), ('thriller', 'NN'), ('ultim', 'NN'), ('overr', 'NN')]",1
+"[('careless', 'NN'), ('stitch', 'NN')]",-1
+"[('classic', 'JJ'), ('psycholog', 'NN'), ('suspens', 'NNS'), ('brilliant', 'JJ'), ('masterpiec', 'NN'), ('best', 'JJS'), ('horror', 'NN'), ('thriller', 'NN'), ('ever', 'RB'), ('made', 'VBD')]",-1
+"[('one', 'CD'), ('best', 'JJS'), ('film', 'NN'), ('ever', 'RB'), ('made', 'VBD'), ('masterpiec', 'NN')]",1
+"[('granddaddi', 'JJ'), ('serial', 'JJ'), ('killer', 'NN'), ('flick', 'NN')]",1
+"[('ll', 'NN'), ('help', 'NN'), ('catch', 'VB'), ('claric', 'NN')]",1
+"[('grip', 'NN'), ('film', 'NN'), ('well', 'RB'), ('deserv', 'VBZ'), ('oscar', 'NN')]",1
+"[('somewhat', 'RB'), ('silenc', 'JJ'), ('time', 'NN')]",1
+"[('suspens', 'NNS'), ('nt', 'MD'), ('come', 'VB'), ('close', 'RB')]",0
+"[('best', 'JJS'), ('serv', 'NN'), ('chill', 'NN'), ('nice', 'JJ'), ('chianti', 'NN')]",1
+"[('one', 'CD'), ('greatest', 'JJS'), ('thriller', 'NN'), ('time', 'NN')]",1
+"[('hard', 'JJ'), ('rate', 'NN')]",1
+"[('sergeant', 'JJ'), ('cross', 'NN'), ('strang', 'NN'), ('boundari', 'NN'), ('world', 'NN'), ('taken', 'VBN'), ('turn', 'VBP'), ('surreal', 'JJ')]",0
+"[('movi', 'NNS'), ('grandfath', 'NN'), ('could', 'MD'), ('nt', 'VB'), ('finish', 'VB')]",0
+"[('war', 'NN'), ('film', 'NN'), ('simpli', 'NN'), ('ca', 'MD'), ('nt', 'VB'), ('miss', 'NN')]",1
+"[('war', 'NN'), ('hell', 'NN'), ('save', 'VBP'), ('privat', 'VBN'), ('ryan', 'JJ'), ('peek', 'JJ'), ('gate', 'NN'), ('hade', 'NN')]",1
+"[('everyth', 'NN'), ('ve', 'FW'), ('heard', 'NN'), ('true', 'JJ')]",1
+"[('actual', 'JJ'), ('s', 'NN'), ('pretti', 'NN'), ('good', 'JJ'), ('histori', 'NN')]",1
+"[('strongli', 'NN'), ('act', 'NN'), ('power', 'NN'), ('film', 'NN'), ('unashamedli', 'JJ'), ('brutal', 'NN')]",1
+"[('agre', 'JJ'), ('best', 'JJS'), ('war', 'NN'), ('movi', 'NN'), ('ever', 'RB'), ('made', 'VBD')]",1
+"[('realist', 'NN'), ('harrow', 'NN'), ('battl', 'NN'), ('scene', 'NN'), ('ever', 'RB'), ('film', 'NN')]",1
+"[('cool', 'JJ'), ('rambo', 'NN'), ('wannab', 'NN')]",1
+"[('one', 'CD'), ('greatest', 'JJS'), ('movi', 'NN'), ('ever', 'RB'), ('made', 'VBD')]",1
+"[('excel', 'NN'), ('despit', 'NN'), ('spielberg', 'NN'), ('slip', 'NN'), ('sentiment', 'NN')]",0
+"[('one', 'CD'), ('best', 'JJS'), ('war', 'NN'), ('movi', 'NN'), ('ever', 'RB'), ('made', 'VBD')]",0
+"[('horror', 'NN'), ('war', 'NN')]",-1
+"[('numb', 'JJ'), ('experi', 'NN'), ('spr', 'NN'), ('redeem', 'VBP'), ('babi', 'NN'), ('boomer', 'NN')]",1
+"[('one', 'CD'), ('outstand', 'NN'), ('movi', 'NN'), ('ever', 'RB')]",1
+"[('breathtak', 'NN')]",1
+"[('one', 'CD'), ('spielberg', 'NN'), ('s', 'NN'), ('haunt', 'NN'), ('visual', 'JJ'), ('stun', 'NN'), ('film', 'NN')]",1
+"[('greatest', 'JJS'), ('war', 'NN'), ('movi', 'NN'), ('ever', 'RB'), ('made', 'VBD')]",1
+"[('best', 'JJS'), ('movi', 'JJ'), ('world', 'NN'), ('war', 'NN'), ('two', 'CD')]",1
+"[('one', 'CD'), ('best', 'JJS'), ('war', 'NN'), ('film', 'NN'), ('ever', 'RB'), ('made', 'VBD')]",-1
+"[('wwii', 'NN'), ('film', 'NN'), ('nt', 'JJ'), ('get', 'NN'), ('much', 'RB'), ('better', 'RBR')]",1
+"[('fiction', 'NN'), ('ye', 'NN'), ('combat', 'NN'), ('authent', 'NN'), ('genuin', 'NN'), ('real', 'JJ')]",1
+"[('amaz', 'NN'), ('battl', 'NN'), ('scene', 'NN'), ('subpar', 'NN'), ('stori', 'NN')]",1
+"[('brazilian', 'JJ'), ('masterwork', 'NN')]",1
+"[('gang', 'NN'), ('rio', 'NN')]",1
+"[('stun', 'NN'), ('everi', 'NN'), ('sens', 'VBZ'), ('word', 'NN')]",1
+"[('magnific', 'NN'), ('gutwrench', 'NN'), ('utterli', 'JJ'), ('compel', 'NN')]",1
+"[('shock', 'NN'), ('stylish', 'JJ'), ('brutal', 'NN'), ('stori', 'NN')]",1
+"[('godfath', 'NN'), ('rio', 'NN')]",1
+"[('s', 'NN'), ('masterpiec', 'NN')]",0
+"[('one', 'CD'), ('best', 'JJS'), ('unseen', 'JJ'), ('foreign', 'JJ'), ('film', 'NN')]",1
+"[('dirti', 'NN')]",1
+"[('cidad', 'NN'), ('de', 'IN'), ('deu', 'NN')]",1
+"[('raw', 'JJ'), ('cult', 'NN'), ('film', 'NN')]",-1
+"[('one', 'CD'), ('top', 'NN'), ('10', 'CD')]",1
+"[('sad', 'JJ'), ('side', 'NN'), ('wonder', 'NN'), ('citi', 'NN'), ('rio', 'NN'), ('de', 'IN'), ('janeiro', 'NN')]",1
+"[('sprawl', 'NN'), ('crime', 'NN'), ('masterwork', 'NN'), ('brazil', 'NN')]",-1
+"[('best', 'JJS'), ('film', 'NN'), ('ever', 'RB'), ('made', 'VBD')]",1
+"[('one', 'CD'), ('best', 'JJS'), ('film', 'NN'), ('ll', 'NN'), ('ever', 'RB'), ('see', 'VB'), ('roger', 'JJR'), ('ebert', 'VB'), ('live', 'JJ'), ('hype', 'NN')]",1
+"[('unspar', 'JJ'), ('portrait', 'NN'), ('sociopath', 'NN'), ('gener', 'NN')]",-1
+"[('phenomen', 'NNS')]",1
+"[('almost', 'RB'), ('much', 'JJ'), ('watch', 'NN')]",1
+"[('citi', 'NN'), ('god', 'NN'), ('incred', 'VBD')]",1
+"[('excel', 'JJ'), ('violent', 'NN'), ('film', 'NN'), ('base', 'NN'), ('real', 'JJ'), ('event', 'NN')]",1
+"[('term', 'NN'), ('moviemak', 'NN'), ('s', 'VBP'), ('noth', 'DT'), ('like', 'IN')]",-1
+"[('horribl', 'NN'), ('movi', 'NN'), ('strongli', 'NN'), ('recommend', 'NN')]",1
+"[('easili', 'NN'), ('favourit', 'NN'), ('movi', 'NN'), ('time', 'NN')]",1
+"[('gang', 'NN'), ('rio', 'NN')]",1
+"[('love', 'NN'), ('beauti', 'NN')]",0
+"[('funni', 'NN'), ('entertain', 'NN'), ('amazingli', 'NN'), ('intens', 'VBZ'), ('dramat', 'NN')]",1
+"[('outstand', 'NN')]",1
+"[('funni', 'NN'), ('disturb', 'NN')]",-1
+"[('excel', 'JJ'), ('war', 'NN'), ('movi', 'NN')]",1
+"[('satir', 'NN'), ('set', 'VBN'), ('concentr', 'NN'), ('camp', 'NN'), ('tough', 'JJ'), ('hit', 'NN'), ('intern', 'JJ'), ('thought', 'VBN'), ('critic', 'JJ'), ('bad', 'JJ'), ('tast', 'NN')]",1
+"[('one', 'CD'), ('best', 'JJS'), ('movi', 'NN'), ('ever', 'RB')]",-1
+"[('superb', 'NN'), ('tragicomedi', 'NN')]",1
+"[('aptli', 'NN'), ('name', 'NN'), ('movi', 'NN'), ('classic', 'JJ')]",1
+"[('movi', 'NNS'), ('hope', 'VBP')]",1
+"[('move', 'NN'), ('power', 'NN'), ('war', 'NN'), ('film', 'NN')]",1
+"[('best', 'JJS'), ('movi', 'NN'), ('ve', 'NN'), ('seen', 'VBN'), ('long', 'RB'), ('long', 'JJ'), ('time', 'NN')]",1
+"[('best', 'JJS'), ('foreign', 'JJ'), ('languag', 'NN'), ('film', 'NN'), ('ever', 'RB'), ('seen', 'VBN')]",1
+"[('visual', 'JJ'), ('stun', 'NN'), ('uneven', 'JJ'), ('second', 'JJ'), ('half', 'NN'), ('better', 'RBR'), ('first', 'JJ')]",1
+"[('roberto', 'NN'), ('benigni', 'NN'), ('geniu', 'NN')]",0
+"[('one', 'CD'), ('best', 'JJS'), ('movi', 'NN'), ('ve', 'NN'), ('ever', 'RB'), ('seen', 'VBN')]",1
+"[('beauti', 'NN'), ('film', 'NN'), ('entir', 'NN'), ('perfect', 'VBP'), ('one', 'CD')]",1
+"[('slapstick', 'JJ'), ('humor', 'NN'), ('holocaust', 'NN'), ('film', 'NN')]",0
+"[('marvel', 'JJ'), ('tale', 'NN'), ('likabl', 'NN'), ('jewish', 'JJ'), ('protect', 'NN'), ('son', 'NN'), ('wife', 'NN'), ('horrifi', 'NN'), ('concentr', 'NN'), ('camp', 'NN')]",-1
+"[('noth', 'DT'), ('necessari', 'JJ'), ('unnecessari', 'NN')]",1
+"[('courag', 'NN'), ('personifi', 'NN'), ('1010', 'CD')]",1
+"[('bon', 'NN'), ('giorno', 'NN'), ('principezza', 'NN')]",1
+"[('unlik', 'JJ'), ('anyth', 'NN')]",1
+"[('begnigni', 'NN'), ('genio', 'NN'), ('begnigni', 'NN'), ('s', 'NN'), ('geniu', 'NN')]",1
+"[('find', 'VB'), ('ugli', 'JJ'), ('mean', 'JJ'), ('beauti', 'JJ'), ('thing', 'NN'), ('corrupt', 'NN'), ('without', 'IN'), ('charm', 'NN'), ('fault', 'NN'), ('oscar', 'NN'), ('wild', 'JJ'), ('prefac', 'NN'), ('pictur', 'NN'), ('dorian', 'JJ'), ('gray', 'NN')]",1
+"[('know', 'JJ'), ('think', 'VBP'), ('s', 'JJ'), ('power', 'NN'), ('man', 'NN'), ('dark', 'NN'), ('scare', 'NN'), ('boss', 'NN')]",1
+"[('one', 'CD'), ('penetr', 'NN'), ('film', 'NN'), ('past', 'IN'), ('sever', 'NN'), ('year', 'NN')]",0
+"[('m', 'NN'), ('sorri', 'NN')]",1
+"[('least', 'JJS'), ('us', 'PRP')]",0
+"[('incred', 'VBN'), ('movi', 'NN')]",-1
+"[('live', 'JJ'), ('entir', 'NN'), ('life', 'NN'), ('without', 'IN'), ('see', 'NN'), ('film', 'NN')]",1
+"[('one', 'CD'), ('kind', 'NN'), ('classic', 'JJ')]",1
+"[('like', 'IN'), ('drink', 'NN'), ('spell', 'NN')]",1
+"[('movi', 'NN'), ('tear', 'JJ'), ('emot', 'NN'), ('anyon', 'NN')]",0
+"[('great', 'JJ')]",1
+"[('mix', 'NN'), ('emot', 'JJ'), ('drama', 'NN'), ('miracl', 'NN')]",1
+"[('rare', 'JJ'), ('gem', 'NN'), ('cast', 'NN'), ('direct', 'JJ')]",1
+"[('wonder', 'NN'), ('book', 'NN')]",1
+"[('rest', 'NN'), ('peac', 'NN'), ('michael', 'NN'), ('clark', 'NN'), ('duncan', 'JJ')]",1
+"[('true', 'JJ'), ('book', 'NN'), ('odd', 'NN'), ('movi', 'NN')]",1
+"[('rest', 'NN'), ('peac', 'NN'), ('michael', 'NN'), ('clark', 'NN'), ('duncan', 'JJ'), ('legend', 'NN')]",0
+"[('warn', 'NN'), ('teamster', 'NN'), ('bring', 'VBG'), ('5', 'CD'), ('hanki', 'NN')]",1
+"[('stay', 'VB'), ('long', 'JJ'), ('time', 'NN')]",0
+"[('movi', 'NN'), ('blew', 'VBD'), ('away', 'RB'), ('made', 'VBN'), ('laugh', 'NN'), ('made', 'VBN'), ('cri', 'NN'), ('truli', 'JJ'), ('understand', 'JJ'), ('term', 'NN'), ('sad', 'NN'), ('meant', 'NN')]",1
+"[('film', 'NN'), ('invent', 'JJ'), ('creation', 'NN'), ('like', 'IN')]",1
+"[('overlong', 'RB'), ('haunt', 'NN'), ('thoughtprovok', 'JJ'), ('move', 'NN'), ('engross', 'NN')]",1
+"[('supernatur', 'NN'), ('prison', 'NN'), ('drama', 'NN'), ('feather', 'NN'), ('cap', 'NN'), ('involv', 'NN')]",1
+"[('anoth', 'DT'), ('period', 'NN'), ('prison', 'NN'), ('base', 'NN'), ('darabont', 'NN'), ('masterpiec', 'NN')]",1
+"[('amaz', 'NN'), ('captiv', 'NN'), ('rendit', 'NN'), ('novel', 'NN')]",1
+"[('higher', 'JJR'), ('top', 'JJ'), ('250', 'CD'), ('one', 'CD'), ('movi', 'NN'), ('make', 'VBP'), ('cri', 'NN'), ('admir', 'NN'), ('creator', 'NN'), ('s', 'JJ'), ('mind', 'NN'), ('true', 'JJ'), ('masterpiec', 'NN')]",1
+"[('note', 'NN'), ('hollywood', 'NN'), ('make', 'VB'), ('action', 'NN'), ('film', 'NN')]",1
+"[('movi', 'NN'), ('everyon', 'NN'), ('see', 'VBP')]",1
+"[('sequel', 'NN'), ('dream', 'NN'), ('made', 'VBD')]",1
+"[('hasta', 'NN'), ('la', 'NN'), ('vista', 'NN'), ('babi', 'NN')]",1
+"[('termin', 'NNS'), ('sequel', 'NN'), ('may', 'MD'), ('prove', 'VB'), ('best', 'JJS'), ('sequel', 'NN'), ('ever', 'RB'), ('made', 'VBD')]",1
+"[('said', 'VBD'), ('d', 'NN'), ('back', 'RB'), ('certainli', 'NN')]",1
+"[('best', 'JJS'), ('action', 'NN'), ('sequel', 'NN'), ('time', 'NN'), ('one', 'CD'), ('best', 'JJS'), ('schwarzenegg', 'NN'), ('s', 'NN'), ('movi', 'FW'), ('person', 'NN'), ('favorit', 'NN')]",1
+"[('great', 'JJ')]",1
+"[('bigger', 'JJR'), ('richer', 'JJR'), ('sequel', 'NN'), ('everi', 'NN'), ('bit', 'NN'), ('fantast', 'JJ'), ('predecessor', 'NN'), ('even', 'RB'), ('surpass', 'VBD'), ('area', 'NN')]",1
+"[('purest', 'JJS'), ('form', 'NN'), ('action', 'NN'), ('cinema', 'NN')]",1
+"[('awesom', 'JJ'), ('action', 'NN'), ('sequenc', 'NN'), ('terrif', 'NN'), ('sound', 'JJ'), ('effect', 'NN'), ('n', 'NN'), ('superb', 'NN'), ('cgi', 'NN'), ('chase', 'NN'), ('sequenc', 'NN'), ('awesom', 'NN')]",1
+"[('surpass', 'NN'), ('origin', 'NN')]",1
+"[('great', 'JJ'), ('action', 'NN'), ('much', 'RB')]",1
+"[('word', 'NN'), ('describ', 'VBZ'), ('great', 'JJ'), ('movi', 'NN')]",1
+"[('one', 'CD'), ('sequel', 'NN'), ('origin', 'NN')]",1
+"[('best', 'JJS'), ('action', 'NN'), ('film', 'NN'), ('ever', 'RB')]",1
+"[('schwarzenegg', 'NN'), ('s', 'NN'), ('best', 'JJS'), ('film', 'NN'), ('hand', 'NN')]",1
+"[('push', 'NN'), ('limit', 'NN'), ('great', 'JJ')]",1
+"[('s', 'JJ'), ('reason', 'NN'), ('appreci', 'NN')]",1
+"[('persist', 'NN'), ('personifi', 'NN'), ('2', 'CD')]",1
+"[('icon', 'JJ'), ('time', 'NN'), ('travel', 'NN'), ('ai', 'VBP'), ('rebellion', 'NN'), ('stori', 'NN'), ('greatest', 'JJS'), ('action', 'NN'), ('time', 'NN')]",1
+"[('best', 'JJS'), ('action', 'NN'), ('film', 'NN'), ('time', 'NN'), ('due', 'JJ'), ('cgi', 'NN')]",1
+"[('one', 'CD'), ('best', 'JJS'), ('action', 'NN'), ('sci', 'NN'), ('fi', 'NN'), ('movi', 'NN'), ('ever', 'RB'), ('made', 'VBD')]",1
+"[('blaze', 'NN'), ('bigbudget', 'NN'), ('scifi', 'JJ'), ('thriller', 'NN'), ('creativ', 'NN'), ('entir', 'NN'), ('experienc', 'NN')]",1
+"[('best', 'JJS'), ('movi', 'NN'), ('time', 'NN')]",1
+"[('one', 'CD'), ('success', 'NN'), ('movi', 'NN'), ('time', 'NN'), ('m', 'JJ'), ('talk', 'NN'), ('box', 'NN'), ('offic', 'NN'), ('take', 'VB')]",1
+"[('classic', 'JJ'), ('phenomen', 'NNS'), ('arguabl', 'VBP'), ('best', 'JJS'), ('scifi', 'NN'), ('flick', 'NN'), ('masterpiec', 'NN')]",1
+"[('one', 'CD'), ('one', 'CD')]",1
+"[('origin', 'JJ'), ('version', 'NN'), ('brilliant', 'NN')]",1
+"[('film', 'NN'), ('chang', 'NN'), ('industri', 'NN'), ('forev', 'NN')]",1
+"[('legendari', 'JJ'), ('piec', 'NN'), ('cinema', 'NN')]",1
+"[('best', 'JJS'), ('scifi', 'NN'), ('time', 'NN'), ('worst', 'WRB'), ('sf', 'NN'), ('time', 'NN')]",1
+"[('classic', 'JJ')]",1
+"[('forc', 'NN'), ('alway', 'NN')]",1
+"[('mileston', 'NN'), ('filmmaking', 'VBG'), ('superl', 'JJ'), ('scifi', 'NN'), ('movi', 'NN')]",1
+"[('greatest', 'JJS'), ('cinemat', 'NN'), ('epic', 'NN'), ('time', 'NN'), ('begin', 'VB')]",1
+"[('began', 'VBD'), ('1010', 'CD')]",1
+"[('galaxi', 'NN'), ('far', 'RB'), ('away', 'RB'), ('franchis', 'JJ'), ('born', 'NN')]",1
+"[('long', 'JJ'), ('time', 'NN'), ('ago', 'IN'), ('decad', 'NN'), ('without', 'IN'), ('cgi', 'NN')]",1
+"[('1977', 'CD'), ('galaxi', 'NN'), ('far', 'RB'), ('far', 'RB'), ('away', 'RB')]",1
+"[('great', 'JJ'), ('movi', 'NN'), ('s', 'NN'), ('import', 'NN')]",1
+"[('never', 'RB'), ('get', 'VB'), ('old', 'JJ')]",1
+"[('cinema', 'NN'), ('classic', 'JJ')]",1
+"[('movi', 'NN'), ('chang', 'NN'), ('life', 'NN'), ('forev', 'NN')]",1
+"[('long', 'RB'), ('long', 'RB'), ('wait', 'NN'), ('movi', 'NN'), ('far', 'RB'), ('far', 'RB'), ('away', 'RB')]",1
+"[('lucasian', 'JJ'), ('chair', 'NN'), ('entertain', 'NN'), ('masterpiec', 'NN')]",1
+"[('plain', 'NN'), ('fun', 'NN')]",1
+"[('long', 'JJ'), ('time', 'NN'), ('ago', 'RB'), ('childhood', 'VBD'), ('far', 'RB'), ('away', 'RB')]",1
+"[('great', 'JJ'), ('movi', 'NN'), ('time', 'NN')]",1
+"[('landmark', 'NN'), ('space', 'NN'), ('fantasi', 'NN')]",1
+"[('good', 'JJ'), ('mani', 'NN'), ('way', 'NN')]",1
+"[('time', 'NN'), ('travel', 'NN'), ('classic', 'JJ')]",1
+"[('could', 'MD'), ('anyth', 'VB'), ('fun', 'NN')]",1
+"[('great', 'JJ'), ('movi', 'NN')]",1
+"[('classic', 'JJ'), ('masterpiec', 'NN'), ('origin', 'NN'), ('best', 'JJS'), ('favorit', 'NN'), ('time', 'NN'), ('travel', 'NN'), ('film', 'NN'), ('time', 'NN')]",1
+"[('film', 'NN'), ('watch', 'NN'), ('time', 'NN'), ('time', 'NN')]",1
+"[('80', 'CD'), ('classic', 'JJ'), ('never', 'RB'), ('disappoint', 'NN')]",1
+"[('get', 'VB'), ('better', 'JJR'), ('age', 'NN')]",1
+"[('got', 'VBD'), ('ta', 'JJ'), ('get', 'VB'), ('back', 'RB'), ('time', 'NN'), ('get', 'NN'), ('back', 'RB'), ('marti', 'NN')]",1
+"[('huge', 'JJ'), ('fun', 'NN')]",1
+"[('time', 'NN'), ('travel', 'NN'), ('movi', 'FW'), ('alway', 'NN'), ('brilliant', 'NN')]",1
+"[('absolut', 'NN'), ('classic', 'JJ')]",1
+"[('part', 'NN'), ('1good', 'CD'), ('graciou', 'NN'), ('great', 'JJ'), ('ball', 'NN'), ('fire', 'NN')]",1
+"[('ador', 'NN')]",1
+"[('let', 'VB'), ('imagin', 'NN'), ('fli', 'VB')]",1
+"[('great', 'JJ'), ('scott', 'NN'), ('back', 'RB'), ('futur', 'JJ'), ('great', 'JJ'), ('timetravel', 'NN'), ('movi', 'NN')]",1
+"[('lost', 'VBN'), ('blockbust', 'NN')]",1
+"[('121', 'CD'), ('giga', 'JJ'), ('watt', 'NN'), ('awesom', 'NN')]",1
+"[('close', 'RB'), ('get', 'VB'), ('perfect', 'JJ'), ('movi', 'NN')]",1
+"[('typic', 'NN'), ('1980', 'CD'), ('film', 'NN'), ('still', 'RB'), ('deliv', 'VB')]",1
+"[('got', 'VBD'), ('ta', 'JJ'), ('come', 'VBN'), ('back', 'RP')]",1
+"[('proof', 'NN'), ('hollywood', 'NN'), ('capabl', 'NN'), ('put', 'VBD'), ('magic', 'JJ'), ('film', 'NN')]",1
+"[('best', 'JJS'), ('part', 'NN'), ('best', 'RBS'), ('movi', 'NN'), ('ever', 'RB')]",1
+"[('much', 'JJ'), ('fun', 'NN')]",1
+"[('pure', 'NN'), ('geniu', 'NN')]",1
+"[('one', 'CD'), ('step', 'NN'), ('masterpiec', 'NN')]",1
+"[('master', 'NN'), ('imax', 'NN'), ('spiderman', 'NN')]",1
+"[('one', 'CD'), ('best', 'JJS'), ('sequel', 'NN'), ('anyth', 'NN'), ('ever', 'RB'), ('made', 'VBD')]",1
+"[('new', 'JJ'), ('empir', 'NN'), ('strike', 'NN'), ('back', 'RB')]",1
+"[('okay', 'NN'), ('peak', 'NN')]",1
+"[('feel', 'VB'), ('sequel', 'JJ'), ('current', 'JJ'), ('glitch', 'NN')]",1
+"[('movi', 'NN'), ('2023', 'CD'), ('far', 'RB')]",1
+"[('s', 'RB'), ('good', 'JJ'), ('still', 'RB'), ('like', 'IN'), ('first', 'JJ'), ('one', 'CD'), ('better', 'JJR'), ('75', 'CD')]",1
+"[('one', 'CD'), ('overhyp', 'NN'), ('movi', 'NN'), ('ever', 'RB'), ('watch', 'VB')]",0
+"[('perhap', 'NN'), ('everyon', 'NN')]",-1
+"[('across', 'IN'), ('univers', 'NNS'), ('fun', 'VBP'), ('excel', 'JJ'), ('adventur', 'JJ'), ('spiderman', 'NN'), ('make', 'VBP'), ('connect', 'JJ'), ('web', 'NN'), ('wow', 'NN')]",0
+"[('want', 'JJ'), ('love', 'NN'), ('like', 'IN')]",1
+"[('greatest', 'JJS'), ('spiderman', 'NN'), ('film', 'NN'), ('ever', 'RB')]",0
+"[('overhyp', 'NN'), ('felt', 'VBD'), ('disappoint', 'NN')]",1
+"[('decent', 'NN'), ('nowher', 'RB'), ('good', 'JJ'), ('first', 'JJ')]",-1
+"[('multivers', 'NNS'), ('open', 'JJ'), ('door', 'NN'), ('spidervers', 'NNS')]",0
+"[('perfect', 'NN')]",1
+"[('half', 'NN'), ('movi', 'NN')]",1
+"[('slow', 'VB'), ('overlong', 'NN'), ('clich', 'NN')]",0
+"[('mani', 'NN'), ('theater', 'NN'), ('goer', 'NN'), ('walk', 'VBP'), ('end', 'NN')]",-1
+"[('disappoint', 'NN')]",-1
+"[('wow', 'NN'), ('wow', 'NN')]",-1
+"[('audibl', 'NN'), ('groan', 'NN'), ('cinema', 'NN'), ('finish', 'NN')]",1
+"[('bore', 'RB'), ('death', 'NN')]",-1
+"[('spiderman', 'NN'), ('middl', 'NN'), ('spidervers', 'NNS')]",-1
+"[('strang', 'NN'), ('touch', 'NN'), ('beauti', 'NN')]",0
+"[('minor', 'JJ'), ('dissent', 'NN'), ('view', 'NN')]",1
+"[('nt', 'JJ'), ('realli', 'NN'), ('know', 'NNS'), ('say', 'VBP')]",-1
+"[('best', 'JJS'), ('anim', 'NN'), ('film', 'NN'), ('seen', 'VBN')]",0
+"[('amaz', 'NN'), ('achiev', 'NN'), ('anim', 'NN')]",1
+"[('except', 'IN'), ('perhap', 'RB'), ('much', 'JJ'), ('casual', 'JJ'), ('viewer', 'NN')]",1
+"[('stun', 'JJ'), ('intox', 'NN'), ('magic', 'NN'), ('masterpiec', 'NN')]",0
+"[('great', 'JJ')]",1
+"[('dub', 'NN'), ('sub', 'NN')]",1
+"[('m', 'NN'), ('confus', 'NN')]",0
+"[('overappreci', 'NN')]",0
+"[('nt', 'RB'), ('fulli', 'JJ'), ('get', 'NN')]",-1
+"[('one', 'CD'), ('greatest', 'JJS'), ('movi', 'NN'), ('time', 'NN')]",0
+"[('audienc', 'RB'), ('even', 'RB'), ('interest', 'NN'), ('film', 'NN')]",1
+"[('fantast', 'NN'), ('film', 'NN'), ('liter', 'NN')]",0
+"[('better', 'JJR'), ('disney', 'NN'), ('long', 'RB'), ('shot', 'NN')]",1
+"[('prepar', 'NN'), ('enchant', 'NN')]",1
+"[('strong', 'JJ'), ('opinion', 'NN'), ('movi', 'NN'), ('either', 'DT'), ('way', 'NN')]",1
+"[('even', 'RB'), ('anim', 'VBZ'), ('nt', 'JJ'), ('thing', 'NN'), ('reward', 'NN'), ('movi', 'NN')]",0
+"[('childhood', 'NN'), ('classic', 'NNS')]",1
+"[('disagre', 'NN'), ('gazzer2', 'NN')]",1
+"[('guess', 'NN')]",0
+"[('finish', 'JJ'), ('start', 'NN'), ('human', 'NN')]",-1
+"[('weird', 'JJ'), ('massiv', 'NN'), ('rate', 'NN')]",0
+"[('ca', 'MD'), ('nt', 'RB'), ('speak', 'VB'), ('origin', 'JJ'), ('sub', 'NN'), ('dub', 'NN'), ('version', 'NN'), ('bad', 'JJ'), ('movi', 'NN')]",-1
+"[('excel', 'NN'), ('depress', 'NN'), ('excel', 'NN')]",-1
+"[('masterpiec', 'NN'), ('awesom', 'NN'), ('act', 'NN'), ('brodi', 'NN')]",1
+"[('haunt', 'NN'), ('film', 'NN'), ('one', 'CD'), ('wo', 'MD'), ('nt', 'VB'), ('forget', 'VB')]",1
+"[('astonish', 'JJ'), ('film', 'NN')]",1
+"[('hell', 'NN'), ('back', 'RB')]",1
+"[('musician', 'JJ'), ('nt', 'NNS'), ('make', 'VBP'), ('good', 'JJ'), ('conspir', 'NN')]",1
+"[('stoic', 'NN'), ('haunt', 'NN'), ('tale', 'NN'), ('surviv', 'NN')]",0
+"[('adrien', 'NN'), ('brodi', 'NN'), ('s', 'JJ'), ('minimalist', 'NN'), ('act', 'NN'), ('pack', 'NN'), ('maximum', 'JJ'), ('emot', 'JJ'), ('punch', 'NN')]",-1
+"[('definit', 'NN'), ('inspir', 'NN'), ('epic', 'NN')]",0
+"[('terrif', 'NN'), ('movi', 'NN'), ('relentlessli', 'NN'), ('gritti', 'NNS'), ('realist', 'VBP')]",1
+"[('10', 'CD'), ('10', 'CD')]",1
+"[('tour', 'NN'), ('de', 'IN'), ('forc', 'NN')]",1
+"[('heartfelt', 'NN'), ('enthral', 'JJ')]",1
+"[('haunt', 'NN'), ('masterpiec', 'NN'), ('may', 'MD'), ('abl', 'VB'), ('watch', 'NN')]",1
+"[('brilliantli', 'NN'), ('narrat', 'CC'), ('visual', 'JJ'), ('stun', 'NN')]",1
+"[('survivor', 'NN')]",1
+"[('lack', 'NN'), ('bit', 'NN'), ('charact', 'JJ'), ('develop', 'VB'), ('power', 'NN'), ('expect', 'VBP')]",1
+"[('warsaw', 'NN'), ('fact', 'NN')]",0
+"[('unforgett', 'NN')]",0
+"[('adrien', 'JJ'), ('brodi', 'NN'), ('best', 'JJS'), ('true', 'JJ'), ('heartbreak', 'NN'), ('stori', 'NN')]",1
+"[('s', 'NN'), ('captiv', 'NN'), ('film', 'NN')]",1
+"[('good', 'JJ'), ('imdb', 'NN'), ('voter', 'NN'), ('overr', 'NN')]",1
+"[('spilzman', 'NN'), ('beauti', 'NN'), ('name', 'NN'), ('pianist', 'NN')]",0
+"[('6310', 'CD'), ('want', 'VBP'), ('like', 'IN')]",1
+"[('intens', 'NNS'), ('biographi', 'VBP'), ('polish', 'JJ'), ('pianist', 'NN'), ('name', 'NN'), ('szpilman', 'JJ'), ('warsaw', 'VBD'), ('ghetto', 'NN')]",0
+"[('one', 'CD'), ('best', 'JJS'), ('film', 'NN'), ('decad', 'NN')]",1
+"[('name', 'NN'), ('genr', 'NN'), ('movi', 'NN'), ('cover', 'NN')]",1
+"[('engag', 'JJ'), ('drama', 'NN'), ('intellig', 'VBZ'), ('social', 'JJ'), ('aspect', 'NN')]",1
+"[('meritocraci', 'NN'), ('s', 'NN'), ('metaphor', 'NN')]",1
+"[('nt', 'NNS'), ('like', 'IN'), ('movi', 'JJ'), ('second', 'JJ'), ('half', 'NN')]",1
+"[('thoroughli', 'NN'), ('entertain', 'NN')]",0
+"[('true', 'JJ'), ('masterpiec', 'NN')]",1
+"[('thought', 'NN'), ('might', 'MD'), ('win', 'VB'), ('best', 'JJS'), ('foreign', 'JJ'), ('movi', 'NN')]",1
+"[('great', 'JJ')]",1
+"[('origin', 'NN'), ('dark', 'NN'), ('comedi', 'NN'), ('class', 'NN'), ('struggl', 'NN')]",1
+"[('total', 'JJ'), ('uniqu', 'NN')]",1
+"[('achiev', 'JJ'), ('jordan', 'NN'), ('peel', 'NN'), ('set', 'VBD'), ('us', 'PRP')]",1
+"[('black', 'JJ'), ('comedi', 'NN'), ('social', 'JJ'), ('inequ', 'NN')]",1
+"[('multilay', 'NN'), ('portray', 'NN'), ('real', 'JJ'), ('korea', 'NN')]",1
+"[('incred', 'VBN')]",1
+"[('brilliant', 'JJ'), ('piec', 'JJ'), ('art', 'NN'), ('slowli', 'NN'), ('grow', 'NN')]",1
+"[('thi', 'NN'), ('shall', 'MD'), ('ridicul', 'VB'), ('fella', 'NN'), ('bodi', 'NN'), ('odor', 'NN'), ('definit', 'NN'), ('deserv', 'NN'), ('best', 'JJS'), ('pictur', 'NN'), ('award', 'NN')]",1
+"[('parasit', 'NN'), ('review', 'NN'), ('comedi', 'VBP'), ('drama', 'NN'), ('suspens', 'VBZ'), ('ye', 'RB'), ('even', 'RB'), ('horror', 'NN')]",1
+"[('parasit', 'NN')]",1
+"[('funni', 'JJ'), ('turn', 'NN'), ('suddenli', 'JJ'), ('twist', 'NN'), ('sad', 'NN')]",1
+"[('lack', 'NN'), ('realist', 'NN'), ('human', 'NN'), ('dimens', 'NNS')]",1
+"[('class', 'NN'), ('struggl', 'NN'), ('karl', 'NNP'), ('marx', 'NNP'), ('victor', 'NN'), ('hugo', 'NN'), ('joonho', 'NN'), ('bong', 'NN')]",1
+"[('make', 'NN'), ('plan', 'NN'), ('life', 'NN'), ('never', 'RB'), ('work', 'VBP'), ('way', 'NN')]",-1
+"[('bong', 'RB'), ('s', 'JJ'), ('brillianc', 'NN')]",1
+"[('s', 'JJ'), ('littl', 'JJ'), ('thing', 'NN')]",1
+"[('alway', 'RB'), ('hold', 'VB'), ('begin', 'JJ'), ('end', 'NN')]",1
+"[('see', 'VB'), ('better', 'JJR'), ('get', 'VB')]",1
+"[('movi', 'NN'), ('crossroad', 'NN'), ('time', 'NN')]",1
+"[('hitchcock', 'NN'), ('masterpiec', 'NN')]",1
+"[('hitchcock', 'NN'), ('herrmann', 'NN')]",0
+"[('anthoni', 'NN'), ('s', 'NN'), ('norman', 'NN')]",1
+"[('film', 'NN'), ('see', 'VBP'), ('never', 'RB'), ('forget', 'VB')]",1
+"[('one', 'CD'), ('greatest', 'JJS'), ('horrorsuspens', 'NN'), ('film', 'NN'), ('ever', 'RB')]",0
+"[('hithcock', 'NN'), ('masterpiec', 'NN'), ('accomplish', 'JJ'), ('perfect', 'NN'), ('movi', 'NN')]",1
+"[('tight', 'JJ'), ('terrifi', 'NN')]",1
+"[('perkin', 'NN'), ('remark', 'NN')]",1
+"[('hitchcock', 'NN'), ('one', 'CD')]",1
+"[('good', 'JJ'), ('movi', 'NN')]",1
+"[('perkin', 'NN'), ('irreplac', 'NN')]",1
+"[('hitch', 'NN'), ('s', 'NN'), ('masterwork', 'NN')]",1
+"[('chill', 'NN'), ('thrill', 'VB'), ('end', 'NN')]",0
+"[('perkin', 'JJ'), ('factor', 'NN')]",1
+"[('dark', 'JJ'), ('stormi', 'NN'), ('night', 'NN')]",1
+"[('hitchcock', 'NN'), ('scariest', 'NN')]",0
+"[('clean', 'JJ'), ('mom', 'NN')]",0
+"[('two', 'CD'), ('word', 'NN'), ('hitchcock', 'NN'), ('s', 'NN'), ('best', 'JJS'), ('know', 'VBP'), ('s', 'RB'), ('small', 'JJ'), ('feat', 'NN')]",1
+"[('unforgett', 'JJ'), ('masterpiec', 'NN')]",0
+"[('hitchcock', 'NN'), ('s', 'NN'), ('crazi', 'NN'), ('film', 'NN')]",1
+"[('one', 'CD'), ('best', 'JJS'), ('movi', 'NN'), ('ever', 'RB'), ('made', 'VBD')]",1
+"[('weirdest', 'JJS'), ('masterpiec', 'NN'), ('ve', 'NN'), ('seen', 'VBN'), ('mani', 'CD'), ('year', 'NN')]",1
+[],1
+"[('bizarr', 'NN'), ('masterpiec', 'NN')]",1
+"[('turn', 'NN'), ('real', 'JJ'), ('poor', 'JJ'), ('thing', 'NN'), ('audienc', 'NN'), ('along', 'IN')]",-1
+"[('one', 'CD'), ('strang', 'NN'), ('film', 'NN'), ('ever', 'RB'), ('seen', 'VBN'), ('love', 'NN')]",1
+"[('unconvent', 'JJ'), ('mind', 'NN')]",-1
+"[('impecc', 'JJ'), ('awkward', 'RB'), ('satir', 'VBP'), ('adventur', 'NNS'), ('absurd', 'VBP')]",1
+"[('well', 'RB'), ('act', 'JJ'), ('beauti', 'NN'), ('photograph', 'NN'), ('eccentr', 'NN'), ('stori', 'NN'), ('direct', 'JJ'), ('ultim', 'NN'), ('captiv', 'NN')]",1
+"[('unforgivingli', 'JJ'), ('bizarr', 'NN'), ('chaotic', 'JJ'), ('endear', 'NN')]",0
+"[('fierc', 'RB'), ('origin', 'JJ'), ('bit', 'NN'), ('cold', 'JJ')]",1
+"[('liff37', 'NN'), ('2023', 'CD'), ('1', 'CD')]",0
+"[('wtf', 'NN'), ('watch', 'NN'), ('young', 'JJ'), ('girl', 'NN'), ('get', 'VB'), ('groom', 'NN'), ('hooker', 'NN')]",1
+"[('nourish', 'JJ'), ('great', 'JJ')]",0
+"[('pygmalionstein', 'NN')]",0
+"[('poor', 'JJ'), ('thing', 'NN'), ('defiantli', 'NN'), ('origin', 'VBP'), ('visual', 'JJ'), ('strike', 'NN'), ('though', 'IN'), ('provok', 'JJ'), ('equal', 'JJ'), ('measur', 'NN'), ('true', 'JJ'), ('cinemat', 'NN'), ('masterpiec', 'NN')]",-1
+[],1
+"[('lanthimo', 'NN'), ('charm', 'NN')]",0
+"[('exactli', 'JJ'), ('peopl', 'NN'), ('think', 'VBP'), ('hollywood', 'NN'), ('full', 'JJ'), ('creep', 'NN')]",1
+"[('regret', 'NN'), ('watch', 'NN')]",-1
+"[('women', 'NNS'), ('s', 'VBP'), ('debas', 'NN'), ('rather', 'RB'), ('discoveri', 'JJ'), ('vile', 'NN'), ('deprav', 'NN'), ('gratuit', 'NN'), ('garbag', 'NN'), ('dress', 'NN'), ('feminist', 'NN'), ('frankenstein', 'NN'), ('journey', 'NN'), ('femal', 'JJ'), ('empower', 'NN')]",1
+"[('poor', 'JJ'), ('audienc', 'NN')]",-1
+"[('fauxfeminist', 'NN'), ('tasteless', 'NN'), ('garbag', 'NN')]",-1
+"[('love', 'VB'), ('hate', 'NN'), ('stuff', 'NN'), ('love', 'VB'), ('uncomfort', 'NN'), ('love', 'NN')]",-1
+"[('bad', 'JJ')]",-1
+"[('poor', 'JJ'), ('thing', 'NN'), ('cinemat', 'NN'), ('triumph', 'NN'), ('dark', 'NN'), ('comedi', 'NN'), ('bold', 'JJ'), ('storytel', 'NN')]",-1
+"[('gigant', 'NN'), ('mess', 'NN')]",1
+"[('yike', 'NN')]",-1
+"[('bad', 'JJ'), ('writer', 'NN'), ('abl', 'NN'), ('continu', 'NN'), ('get', 'VBP'), ('hire', 'VB'), ('big', 'JJ'), ('budget', 'NN'), ('film', 'NN')]",1
+"[('soni', 'NNS'), ('need', 'VBP'), ('stop', 'JJ'), ('make', 'NN'), ('superhero', 'NN'), ('content', 'NN')]",-1
+"[('bad', 'JJ'), ('superhero', 'NN'), ('movi', 'NN'), ('one', 'CD'), ('worst', 'NN'), ('pictur', 'NN'), ('ever', 'RB')]",-1
+"[('regret', 'JJ'), ('watch', 'NN'), ('film', 'NN')]",-1
+"[('fifti', 'NN'), ('shade', 'VBD'), ('mess', 'NN')]",-1
+"[('absolut', 'JJ'), ('hate', 'NN'), ('soni', 'NN')]",-1
+"[('yike', 'NN')]",-1
+"[('garbag', 'NN')]",-1
+"[('badli', 'NN'), ('made', 'VBD'), ('weird', 'JJ'), ('film', 'NN')]",-1
+"[('messi', 'NN'), ('web', 'NN'), ('mediocr', 'NN')]",-1
+"[('madam', 'NN'), ('pleb', 'NN')]",-1
+"[('doom', 'NN')]",-1
+"[('s', 'RB'), ('even', 'RB'), ('wors', 'NNS'), ('morbiu', 'VBP')]",-1
+"[('soni', 'RB'), ('reach', 'VB'), ('new', 'JJ'), ('low', 'JJ'), ('even', 'RB'), ('possibl', 'VBP')]",-1
+"[('worst', 'JJS'), ('movi', 'NN'), ('ever', 'RB'), ('soni', 'JJ'), ('pleas', 'NNS'), ('stop', 'VBP'), ('stick', 'NN'), ('playstat', 'NN')]",-1
+"[('big', 'JJ')]",-1
+"[('yike', 'NN')]",-1
+"[('webhead', 'NN')]",-1
+"[('would', 'MD'), ('know', 'VB'), ('climb', 'NN'), ('wall', 'NN'), ('ve', 'NN'), ('never', 'RB'), ('tri', 'VBD')]",-1
+"[('wors', 'NNS'), ('morbiu', 'VBP')]",0
+"[('cw', 'JJ'), ('tv', 'NN'), ('pilot', 'NN'), ('nt', 'IN'), ('get', 'NN'), ('pick', 'NN')]",-1
+"[('amazingli', 'NN'), ('incoher', 'NN')]",-1
+"[('soni', 'JJ'), ('pleas', 'NNS'), ('stick', 'VBP'), ('anim', 'RP'), ('spiderman', 'NN')]",-1
+"[('mix', 'NN'), ('awesom', 'NN'), ('bad', 'JJ')]",-1
+"[('felt', 'NNS'), ('like', 'IN'), ('aquaman', 'JJ'), ('day', 'NN'), ('disneyland', 'VB'), ('go', 'VB'), ('differ', 'NN'), ('kind', 'NN'), ('movi', 'JJ'), ('theme', 'NN'), ('ride', 'NN')]",0
+"[('end', 'NN'), ('dceu', 'NN'), ('bummest', 'JJS'), ('possibl', 'NN'), ('note', 'NN')]",1
+"[('wow', 'JJ'), ('complet', 'NN'), ('aw', 'NN')]",-1
+"[('anyon', 'JJ'), ('function', 'NN'), ('brain', 'NN'), ('better', 'JJR'), ('pass', 'NN'), ('one', 'CD')]",-1
+"[('aquaman', 'NN'), ('lost', 'VBD'), ('script', 'NN')]",-1
+"[('soul', 'NN'), ('purpos', 'NN'), ('fun', 'NN')]",-1
+"[('entertain', 'VB'), ('noth', 'DT'), ('nt', 'NNS'), ('seen', 'VBN')]",-1
+"[('garbag', 'NN'), ('movi', 'NN'), ('throw', 'NN'), ('ocean', 'NN')]",0
+"[('good', 'JJ'), ('enough', 'RB'), ('man', 'NN')]",-1
+"[('end', 'NN'), ('stori', 'VBZ'), ('start', 'NN')]",1
+"[('bore', 'NN')]",-1
+"[('good', 'JJ'), ('first', 'RB'), ('one', 'CD'), ('better', 'JJR'), ('expect', 'NN')]",-1
+"[('noth', 'DT'), ('stand', 'VBP')]",0
+"[('fail', 'JJ'), ('keep', 'VB'), ('head', 'NN'), ('water', 'NN')]",-1
+"[('landman', 'NN'), ('lost', 'VBD'), ('kingdom', 'NN')]",-1
+"[('yeah', 'NN'), ('s', 'NN'), ('pretti', 'NNS'), ('averag', 'VBP')]",0
+"[('dampen', 'JJ'), ('sequel', 'NN'), ('struggl', 'NN'), ('stay', 'NN'), ('afloat', 'RB'), ('familiar', 'JJ'), ('water', 'NN')]",0
+"[('bad', 'JJ'), ('seem', 'VBP')]",-1
+"[('worst', 'JJS'), ('mainstream', 'NN'), ('movi', 'NN'), ('loooong', 'JJ'), ('time', 'NN')]",0
+"[('fan', 'NN'), ('first', 'RB'), ('film', 'NN'), ('let', 'NN')]",-1
+"[('battl', 'NN'), ('trident', 'NN')]",-1
+"[('old', 'JJ'), ('dc', 'NN'), ('univers', 'NNS'), ('fail', 'VBP'), ('end', 'NN'), ('badli', 'NN')]",0
+"[('terribl', 'NN')]",-1
+"[('realli', 'NN')]",-1
+"[('dune', 'RB'), ('great', 'JJ'), ('modern', 'JJ'), ('scifi', 'NN')]",0
+"[('movi', 'NN'), ('2021', 'CD'), ('far', 'RB')]",1
+"[('shall', 'MD'), ('know', 'VB'), ('way', 'NN'), ('though', 'IN'), ('born', 'JJ')]",1
+"[('amaz', 'JJ'), ('cinemat', 'NN'), ('experi', 'NN')]",1
+"[('begin', 'NN')]",1
+"[('villeneuv', 'NN'), ('epic', 'NN')]",0
+"[('start', 'NN'), ('sensat', 'VBD'), ('eventu', 'RB'), ('overlong', 'RB'), ('much', 'JJ'), ('go', 'VB'), ('littl', 'JJ'), ('happen', 'NN')]",1
+"[('darker', 'NN'), ('dune', 'NN')]",-1
+"[('read', 'JJ'), ('book', 'NN'), ('know', 'VBP'), ('expect', 'VBP'), ('exactli', 'JJ'), ('love', 'NN')]",0
+"[('dune', 'JJ'), ('start', 'NN')]",1
+"[('lack', 'NN'), ('spice', 'NN')]",0
+"[('alltim', 'RB'), ('great', 'JJ'), ('scienc', 'JJ'), ('fiction', 'NN'), ('movi', 'NN')]",-1
+"[('long', 'RB'), ('wind', 'JJ'), ('scene', 'NN'), ('slow', 'JJ'), ('bore', 'NN'), ('pace', 'NN')]",1
+"[('might', 'MD'), ('becom', 'VB'), ('masterpiec', 'JJ'), ('get', 'NN'), ('solid', 'JJ'), ('part', 'NN'), ('2', 'CD')]",-1
+"[('villeneuv', 'NN'), ('s', 'NN'), ('greatest', 'JJS'), ('scifi', 'NN'), ('film', 'NN')]",0
+"[('grandios', 'NNS'), ('visual', 'JJ'), ('great', 'JJ'), ('act', 'NN'), ('littl', 'NN'), ('stori', 'NN'), ('background', 'NN')]",1
+"[('dream', 'NN')]",1
+"[('bland', 'NN'), ('experi', 'NN'), ('littl', 'NN'), ('go', 'VBP')]",1
+"[('dune', 'NN'), ('endless', 'NN'), ('desert', 'NN')]",-1
+"[('demystifi', 'NN'), ('dune', 'NN')]",0
+"[('beauti', 'NN'), ('craft', 'NN'), ('movi', 'NN')]",1
+"[('dune', 'NNS'), ('make', 'VBP'), ('spectacular', 'JJ'), ('view', 'NN'), ('experi', 'NN')]",1
+"[('pick', 'NN'), ('poison', 'NN')]",1
+"[('watch', 'NN'), ('differ', 'NN'), ('film', 'NN'), ('everyon', 'NN'), ('els', 'NNS')]",0
+"[('anoth', 'DT'), ('origin', 'JJ'), ('scifi', 'NN'), ('movi', 'NN'), ('fail', 'NN')]",-1
+"[('wast', 'NN'), ('premis', 'NN')]",-1
+"[('watch', 'NN'), ('trailer', 'NN'), ('coupl', 'NN'), ('time', 'NN'), ('s', 'JJ'), ('entir', 'NN'), ('movi', 'NN'), ('realli', 'NN')]",-1
+"[('lack', 'NN')]",-1
+"[('insan', 'JJ'), ('stupid', 'JJ'), ('script', 'NN')]",-1
+"[('s', 'NNS'), ('like', 'IN'), ('someon', 'NN'), ('ask', 'NN'), ('chatgpt', 'NN'), ('convert', 'NN'), ('amogu', 'NN'), ('real', 'JJ'), ('life', 'NN'), ('movi', 'NNS'), ('script', 'NN')]",-1
+"[('great', 'JJ'), ('idea', 'NN'), ('poor', 'JJ'), ('execut', 'NN')]",-1
+"[('earli', 'NN'), ('candid', 'NN'), ('worst', 'JJS'), ('film', 'NN'), ('year', 'NN')]",-1
+"[('wast', 'NN'), ('opportun', 'NN')]",-1
+"[('radiat', 'NN'), ('sick', 'NN')]",-1
+"[('legitim', 'NN'), ('top', 'JJ'), ('10', 'CD'), ('worst', 'JJS'), ('movi', 'NN'), ('ve', 'NN'), ('ever', 'RB'), ('seen', 'VBN')]",-1
+"[('iss', 'JJ'), ('dissapoint', 'NN'), ('everi', 'NNS'), ('level', 'NN')]",-1
+"[('alway', 'RB'), ('russian', 'JJ'), ('portray', 'NN'), ('evil', 'NN')]",-1
+"[('give', 'JJ'), ('space', 'NN'), ('moral', 'JJ'), ('explor', 'NN'), ('need', 'NN'), ('time', 'NN'), ('reach', 'VB'), ('star', 'NN')]",-1
+"[('2', 'CD'), ('min', 'JJ'), ('worth', 'NN'), ('watch', 'NN')]",-1
+"[('easili', 'NN'), ('worst', 'JJS'), ('movi', 'NN'), ('outer', 'NN'), ('space', 'NN'), ('ve', 'NN'), ('ever', 'RB'), ('seen', 'VBN')]",-1
+"[('movi', 'NN'), ('never', 'RB'), ('made', 'VBD')]",-1
+"[('wild', 'JJ'), ('frighten', 'NNS')]",-1
+"[('mediocr', 'RB'), ('good', 'JJ'), ('premis', 'NN'), ('felt', 'VBD'), ('lack', 'NN')]",-1
+"[('space', 'NN'), ('junk', 'NN')]",-1
+"[('cheap', 'JJ'), ('copycat', 'NN'), ('miser', 'NN'), ('fail', 'NN'), ('impress', 'NN')]",-1
+"[('great', 'JJ'), ('conceptextrem', 'NN'), ('poor', 'JJ'), ('execut', 'NN')]",-1
+"[('idk', 'JJ'), ('folk', 'NN'), ('gave', 'VBD'), ('bad', 'JJ'), ('review', 'NN'), ('saw', 'VBD')]",0
+"[('could', 'MD'), ('much', 'RB'), ('better', 'VB')]",0
+"[('writer', 'NN'), ('green', 'JJ'), ('concept', 'NN')]",0
+"[('wild', 'JJ'), ('ride', 'NN')]",0
+"[('s', 'NN'), ('cheesi', 'NN'), ('gori', 'JJ'), ('action', 'NN'), ('flick', 'NN'), ('deliv', 'NN'), ('promis', 'NN'), ('els', 'NNS'), ('expect', 'VBP'), ('life', 'NN'), ('chang', 'NN'), ('experi', 'NN'), ('epiphani', 'NN')]",0
+"[('chees', 'NNS'), ('blood', 'VBD'), ('slime', 'NN')]",-1
+"[('realli', 'NN'), ('sequel', 'NN')]",-1
+"[('fun', 'NN'), ('sf', 'NN'), ('b', 'NN'), ('movi', 'NN')]",-1
+"[('bad', 'JJ'), ('good', 'JJ'), ('filler', 'NN'), ('onetim', 'NN'), ('view', 'NN')]",1
+"[('realli', 'NN'), ('dongseok', 'NN'), ('movi', 'NN')]",0
+"[('let', 'VB')]",-1
+"[('water', 'NN'), ('life', 'NN')]",-1
+"[('still', 'RB'), ('nt', 'JJ'), ('understand', 'VBP'), ('lee', 'JJ'), ('john', 'NN'), ('wick', 'NN'), ('univers', 'NNS'), ('yet', 'RB')]",0
+"[('bad', 'JJ')]",1
+"[('lee', 'NN'), ('get', 'VB'), ('punch', 'JJ'), ('undead', 'NN')]",0
+"[('typic', 'NN'), ('dong', 'JJ'), ('seok', 'JJ'), ('action', 'NN'), ('flick', 'NN')]",0
+"[('realli', 'NN'), ('fun', 'NN')]",0
+"[('badland', 'NN'), ('hunter', 'NN'), ('aka', 'NN'), ('hwangya', 'NN'), ('review', 'NN')]",1
+"[('terribl', 'JJ'), ('water', 'NN'), ('action', 'NN'), ('film', 'NN')]",0
+"[('fun', 'NN'), ('watch', 'NN'), ('cross', 'NN'), ('genr', 'NN')]",-1
+"[('excel', 'NN')]",1
+"[('typic', 'NN'), ('popcorn', 'NN'), ('flick', 'NN')]",1
+"[('bad', 'JJ')]",0
+"[('absolut', 'IN'), ('wast', 'JJ'), ('time', 'NN')]",0
+"[('entertain', 'NN')]",-1
+"[('badland', 'NN'), ('hunter', 'NN'), ('hwangya', 'NN'), ('2024', 'CD')]",1
+"[('fed', 'VBN'), ('post', 'NN'), ('apocalypt', 'NN'), ('world', 'NN')]",0
+"[('badland', 'NN'), ('hunter', 'NN'), ('visual', 'JJ'), ('strike', 'NN'), ('action', 'NN'), ('spectacl', 'NN'), ('narr', 'NN'), ('shortcom', 'NN')]",-1
+"[('creator', 'NN'), ('use', 'NN'), ('budget', 'NN'), ('master', 'NN'), ('s', 'NN'), ('without', 'IN'), ('problem', 'NN')]",0
+"[('creator', 'NN'), ('look', 'NN'), ('great', 'JJ'), ('stori', 'JJ'), ('tire', 'NN'), ('full', 'JJ'), ('hole', 'NN')]",0
+"[('s', 'NN'), ('alphi', 'NN')]",0
+"[('visual', 'JJ'), ('impress', 'NN'), ('yet', 'RB'), ('narr', 'JJ'), ('flaw', 'NN'), ('film', 'NN')]",0
+"[('technic', 'JJ'), ('watchabl', 'NN'), ('emot', 'NN'), ('vacant', 'NN')]",0
+"[('typic', 'NN'), ('formula', 'NN')]",0
+"[('lot', 'NN'), ('stuff', 'NN'), ('happend', 'VBP'), ('end', 'NN')]",0
+"[('stun', 'NN'), ('visualsgarbag', 'NN'), ('script', 'NN')]",0
+"[('creator', 'NN'), ('modern', 'JJ'), ('take', 'NN'), ('blade', 'NN'), ('runner', 'NN'), ('formula', 'NN'), ('fall', 'NN'), ('short', 'JJ'), ('great', 'JJ'), ('due', 'JJ'), ('miss', 'CD'), ('element', 'NN')]",0
+"[('state', 'NN'), ('art', 'NN'), ('effect', 'NN'), ('hole', 'NN'), ('swiss', 'JJ'), ('chees', 'NNS')]",0
+"[('number', 'NN'), ('take', 'VB'), ('man', 'NN'), ('vs', 'FW'), ('robot', 'NN'), ('dystopia', 'NN')]",0
+"[('good', 'JJ'), ('touch', 'NN'), ('underwhelm', 'NN')]",0
+"[('cinematographi', 'NNS'), ('save', 'VBP'), ('film', 'NN'), ('horrif', 'NN'), ('storylin', 'NN'), ('cast', 'NN')]",-1
+"[('good', 'JJ'), ('scifi', 'NN'), ('movi', 'NN')]",0
+"[('ye', 'NNS'), ('thank', 'VBD')]",1
+"[('averag', 'NN'), ('best', 'JJS')]",1
+"[('disappoint', 'NN')]",0
+"[('replic', 'NN')]",-1
+"[('great', 'JJ'), ('visual', 'JJ'), ('act', 'NN'), ('sublimin', 'NN'), ('messag', 'NN')]",-1
+"[('visual', 'JJ'), ('masterpiec', 'NN'), ('2023', 'CD')]",0
+"[('rubbish', 'NN')]",1
+"[('confus', 'NN'), ('tone', 'NN'), ('aweinspir', 'VBD'), ('visual', 'JJ')]",-1
+"[('beauti', 'NN'), ('direct', 'JJ'), ('decent', 'NN'), ('written', 'VBN')]",0
+"[('technic', 'JJ'), ('marvel', 'NN')]",0
+"[('thank', 'NN'), ('creator', 'NN'), ('origin', 'NN'), ('could', 'MD'), ('grip', 'VB'), ('plot', 'NN')]",1
+"[('entertain', 'NN')]",0
+"[('avg', 'NN'), ('film', 'NN')]",1
+"[('review', 'NN')]",0
+"[('m', 'NNS'), ('blown', 'VBN'), ('away', 'RB'), ('great', 'JJ'), ('movi', 'NN')]",0
+"[('realli', 'NN'), ('expect', 'VBP'), ('shahid', 'NN'), ('kapoor', 'NN')]",1
+"[('one', 'CD'), ('best', 'JJS'), ('movi', 'NN')]",-1
+"[('shahidkr', 'NN'), ('s', 'NN'), ('robot', 'NN'), ('love', 'NN'), ('stori', 'CC'), ('full', 'JJ'), ('malfunct', 'NN')]",1
+"[('bug', 'NN'), ('romanc', 'NN')]",-1
+"[('amaz', 'NN'), ('movi', 'NN')]",-1
+"[('absolut', 'NN'), ('garbag', 'NN')]",1
+"[('bore', 'RB'), ('extrem', 'JJ'), ('illog', 'NN'), ('scrip', 'NN')]",-1
+"[('true', 'JJ'), ('potenti', 'NN'), ('unrealis', 'NN')]",-1
+"[('aryan', 'JJ'), ('born', 'VBN'), ('like', 'IN'), ('done', 'VBN'), ('special', 'JJ'), ('cours', 'NNS'), ('stupid', 'JJ')]",0
+"[('good', 'JJ'), ('effort', 'NN'), ('explor', 'VBZ'), ('new', 'JJ'), ('subgenr', 'NNS'), ('good', 'JJ'), ('perform', 'NN')]",-1
+"[('great', 'JJ'), ('movi', 'NN')]",1
+"[('prepar', 'NN'), ('swept', 'VBD'), ('feet', 'NNS')]",1
+"[('bore', 'RB'), ('anoth', 'DT'), ('copi', 'JJ'), ('time', 'NN'), ('copi', 'NN'), ('hindi', 'NN'), ('serial', 'NN')]",1
+"[('delight', 'NN'), ('movi', 'NN')]",-1
+"[('movi', 'NN'), ('simpli', 'NNS'), ('phenomen', 'NNS')]",1
+"[('soul', 'NN'), ('satisfiy', 'NN'), ('film', 'NN')]",1
+"[('robot', 'NN'), ('mein', 'NN'), ('aisa', 'VBZ'), ('ulza', 'JJ'), ('jiya', 'NN')]",1
+"[('fun', 'NN'), ('refresh', 'NN')]",0
+"[('film', 'NN'), ('absolut', 'NN'), ('fantast', 'NN')]",1
+"[('robot', 'NN'), ('futur', 'NN')]",1
+"[('must', 'MD'), ('watch', 'VB')]",0
+"[('instal', 'JJ'), ('weakest', 'JJS'), ('seri', 'NN'), ('signific', 'NN'), ('letdown', 'NN')]",1
+"[('par', 'NN')]",-1
+"[('long', 'RB'), ('bore', 'RB'), ('need', 'NN')]",-1
+"[('welcom', 'RB'), ('10th', 'CD'), ('annual', 'JJ'), ('bore', 'NN'), ('game', 'NN'), ('mean', 'JJ'), ('hunger', 'NN'), ('game', 'NN')]",-1
+"[('incred', 'VBN'), ('faith', 'NNS'), ('book', 'NN')]",-1
+"[('disappoint', 'NN')]",1
+"[('prequel', 'NN'), ('tri', 'NN'), ('show', 'NN'), ('histori', 'JJ'), ('fiction', 'NN'), ('world', 'NN'), ('remain', 'VBP'), ('somewhat', 'RB'), ('unnecessari', 'JJ')]",-1
+"[('sure', 'JJ'), ('misfir', 'NN')]",-1
+"[('certainli', 'NN'), ('catch', 'NN'), ('fire', 'NN')]",-1
+"[('pleasantli', 'NN'), ('surpris', 'NN')]",-1
+"[('ballad', 'JJ'), ('crass', 'NN'), ('karaok', 'NN')]",1
+"[('hear', 'JJ'), ('word', 'NN'), ('luci', 'NN'), ('gray', 'JJ'), ('one', 'CD'), ('time', 'NN')]",0
+"[('bad', 'JJ'), ('movi', 'NN')]",0
+"[('met', 'VBN'), ('midnight', 'NN'), ('hang', 'NN'), ('tree', 'NN')]",-1
+"[('read', 'JJ'), ('book', 'NN')]",0
+"[('intrigu', 'JJ'), ('enough', 'RB'), ('watch', 'JJ'), ('start', 'NN'), ('finish', 'VB'), ('good', 'JJ')]",0
+"[('mysteri', 'NN')]",0
+"[('ballad', 'JJ'), ('songbird', 'NN'), ('snake', 'NN'), ('2023', 'CD'), ('deliv', 'NN'), ('basic', 'JJ'), ('evolv', 'NN')]",0
+"[('simpli', 'NN'), ('terribl', 'NN')]",0
+"[('zegler', 'NN'), ('unbear', 'JJ')]",-1
+"[('ideal', 'JJ'), ('prologu', 'NN'), ('saga', 'NN')]",-1
+"[('absolut', 'NN'), ('horribl', 'NN'), ('adapt', 'IN'), ('fantast', 'JJ'), ('book', 'NN')]",0
+"[('disappoint', 'NN')]",-1
+"[('garbag', 'NN')]",-1
+"[('disappoint', 'NN'), ('lack', 'NN'), ('cohes', 'VBZ'), ('way', 'NN'), ('much', 'JJ'), ('sing', 'NN')]",-1
+"[('noth', 'DT'), ('origin', 'NN')]",-1
+"[('rate', 'NN'), ('object', 'NN')]",-1
+"[('everyth', 'NN'), ('ve', 'NN'), ('seen', 'VBN'), ('done', 'VBN'), ('blend', 'NN'), ('togeth', 'NN'), ('scoop', 'NN'), ('mud', 'NN')]",0
+"[('embarrassingli', 'RB'), ('bad', 'JJ')]",-1
+"[('want', 'VB'), ('good', 'JJ'), ('scifi', 'NN')]",-1
+"[('someth', 'NN'), ('wrong', 'JJ'), ('write', 'JJ'), ('dialogu', 'NNS'), ('actingdirect', 'VBP')]",-1
+"[('close', 'RB'), ('yet', 'RB'), ('far', 'RB')]",-1
+"[('get', 'NN'), ('made', 'VBD')]",0
+"[('eye', 'NN'), ('candyempti', 'NN'), ('shell', 'NN')]",-1
+"[('go', 'VB')]",-1
+"[('messi', 'NN'), ('engross', 'NN')]",-1
+"[('well', 'RB')]",-1
+"[('none', 'NN'), ('make', 'NN'), ('sens', 'NNS')]",0
+"[('realli', 'NN'), ('disappoint', 'NN')]",-1
+"[('soulless', 'NN'), ('bore', 'NN')]",-1
+"[('look', 'NN'), ('gorgeou', 'NN'), ('rest', 'NN'), ('lack', 'NN')]",-1
+"[('rebel', 'NN'), ('moon', 'NN'), ('part', 'NN'), ('1', 'CD'), ('child', 'NN'), ('fire', 'NN'), ('2023', 'CD'), ('zack', 'NN'), ('snyder', 'NN'), ('stylist', 'NN'), ('good', 'JJ'), ('predict', 'NN'), ('basic', 'JJ'), ('sci', 'NN'), ('fi', 'NN'), ('plot', 'NN'), ('need', 'VBP'), ('better', 'JJR'), ('stori', 'VB')]",0
+"[('worst', 'JJS'), ('film', 'NN'), ('zach', 'NN'), ('snyder', 'NN'), ('fail', 'NN'), ('often', 'RB')]",0
+"[('like', 'IN'), ('m', 'JJ'), ('sure', 'JJ'), ('ppl', 'NN'), ('hate', 'NN')]",-1
+"[('imagin', 'NN'), ('script', 'NN'), ('even', 'RB'), ('kathleen', 'VBD'), ('kennedi', 'NNS'), ('reject', 'VB')]",-1
+"[('seven', 'CD'), ('samurai', 'NNS'), ('space', 'NN')]",-1
+"[('meh', 'NN'), ('cuff', 'NN'), ('tri', 'NN')]",0
+"[('entertain', 'NN'), ('potenti', 'NN')]",1
+"[('entertain', 'RB'), ('enough', 'RB')]",1
+"[('world', 'NN'), ('collaps', 'NNS'), ('begun', 'VBN')]",1
+"[('one', 'CD'), ('year', 'NN'), ('s', 'NN'), ('best', 'JJS'), ('film', 'NN'), ('must', 'MD'), ('see', 'VB'), ('franchis', 'JJ'), ('fan', 'NN'), ('icon', 'NN'), ('scifi', 'NN'), ('monster', 'NN'), ('entertain', 'VBP'), ('everi', 'JJ'), ('level', 'NN'), ('utterli', 'JJ'), ('fantast', 'NN')]",1
+"[('best', 'JJS'), ('movi', 'NN'), ('ve', 'NN'), ('seen', 'VBN'), ('theater', 'CD'), ('year', 'NN')]",1
+"[('never', 'RB'), ('expect', 'VBP'), ('godzilla', 'NN'), ('movi', 'NN'), ('deep', 'NN')]",1
+"[('mayb', 'NN'), ('best', 'JJS'), ('godzilla', 'NN'), ('movi', 'NN'), ('sinc', 'NN'), ('origin', 'NN')]",1
+"[('outstand', 'NN')]",1
+"[('godzilla', 'NN'), ('suppos', 'NN')]",1
+"[('masterpiec', 'JJ'), ('retel', 'NN'), ('classic', 'JJ')]",1
+"[('one', 'CD'), ('best', 'JJS'), ('godzilla', 'NN'), ('movi', 'NN'), ('recent', 'JJ'), ('time', 'NN')]",1
+"[('one', 'CD'), ('best', 'JJS'), ('iter', 'NN'), ('godzilla', 'NN'), ('ever', 'RB'), ('seen', 'VBN'), ('seen', 'VBN')]",1
+"[('awesom', 'NN'), ('movi', 'NN')]",1
+"[('good', 'JJ'), ('surpris', 'NN')]",1
+"[('go', 'VB'), ('see', 'NN'), ('movi', 'NN')]",1
+"[('plu', 'NN'), ('one', 'CD'), ('thousand', 'NN')]",1
+"[('last', 'JJ'), ('time', 'NN'), ('ve', 'NN'), ('seen', 'VBN'), ('well', 'RB'), ('made', 'VBN'), ('monster', 'NN'), ('film', 'NN')]",1
+"[('minu', 'NN'), ('turn', 'NN'), ('plu', 'NN')]",1
+"[('felt', 'VBD'), ('godzilla', 'NN'), ('movi', 'NN'), ('come', 'VBN'), ('stage', 'NN'), ('evolut', 'NN')]",1
+"[('king', 'VBG'), ('come', 'VBN'), ('home', 'NN'), ('japan', 'NN')]",1
+"[('absolut', 'RB'), ('great', 'JJ'), ('film', 'NN')]",1
+"[('differ', 'NN'), ('kind', 'NN'), ('godzilla', 'NN'), ('movi', 'NN')]",1
+"[('never', 'RB'), ('thought', 'VBN'), ('godzilla', 'NN'), ('movi', 'NN'), ('would', 'MD'), ('make', 'VB'), ('cri', 'NN')]",1
+"[('masterpiec', 'NN'), ('kaiju', 'NN'), ('genr', 'VBP'), ('serious', 'JJ'), ('rival', 'JJ'), ('1954', 'CD'), ('origin', 'NN')]",1
+"[('true', 'JJ'), ('godzilla', 'NN'), ('masterpiec', 'NN')]",1
+"[('amaz', 'NN')]",1
+"[('one', 'CD'), ('best', 'JJS'), ('godzilla', 'NN'), ('movi', 'NN'), ('date', 'NN')]",1
+"[('godzilla', 'NN'), ('awesometacular', 'NN')]",1
+"[('rewatch', 'NN'), ('allegori', 'NN')]",1
+"[('make', 'NN'), ('think', 'NN')]",1
+"[('best', 'JJS'), ('movi', 'NN'), ('angel', 'NN'), ('studio', 'NN'), ('made', 'VBD'), ('yet', 'RB')]",1
+"[('m', 'JJ'), ('gener', 'NN'), ('rate', 'NN'), ('solid', 'VBD'), ('8', 'CD')]",1
+"[('power', 'NN'), ('film', 'NN'), ('everyon', 'NN')]",1
+"[('religi', 'NN'), ('messag', 'NN'), ('disguis', 'NN'), ('sci', 'NN'), ('fi', 'VBD'), ('movi', 'NN')]",1
+"[('start', 'RB'), ('good', 'JJ'), ('shift', 'NN'), ('bad', 'JJ')]",-1
+"[('felt', 'NNS'), ('like', 'IN'), ('job', 'NN'), ('watch', 'NN'), ('s', 'NN'), ('bad', 'JJ')]",-1
+"[('fascin', 'NN'), ('explor', 'NN')]",-1
+"[('movi', 'JJ'), ('job', 'NN'), ('style', 'NN'), ('dr', 'NN')]",1
+"[('bad', 'JJ'), ('mean', 'JJ'), ('realli', 'NN'), ('bad', 'JJ')]",0
+"[('let', 'NN'), ('convers', 'NNS'), ('begin', 'VB')]",-1
+"[('horribl', 'NN')]",0
+"[('dystopian', 'JJ'), ('movi', 'NN'), ('set', 'NN'), ('multivers', 'NNS')]",-1
+"[('entertain', 'NN'), ('differ', 'NN')]",0
+"[('intrigu', 'JJ'), ('blend', 'NN'), ('scifi', 'NN'), ('faith', 'NN')]",1
+"[('horribl', 'NN')]",1
+"[('deni', 'NN'), ('villanuev', 'NN'), ('convert', 'NN'), ('christian', 'JJ'), ('hallmark', 'NN')]",-1
+"[('religi', 'NN'), ('film', 'NN'), ('disguis', 'NN'), ('sci', 'NN'), ('fi', 'NN')]",1
+"[('expect', 'VB'), ('unexpect', 'JJ'), ('love', 'NN'), ('movi', 'NN')]",0
+"[('biggest', 'JJS'), ('decept', 'NN')]",1
+"[('edg', 'JJ'), ('seat', 'NN')]",1
+"[('excel', 'RB'), ('love', 'NN'), ('stori', 'NN')]",1
+"[('dystopian', 'JJ'), ('take', 'VB'), ('religi', 'NN'), ('sermon', 'NN')]",1
+"[('dark', 'JJ'), ('vs', 'NN'), ('light', 'NN')]",0
+"[('near', 'IN'), ('futur', 'JJ'), ('virtual', 'JJ'), ('realiti', 'NN'), ('rule', 'NN')]",0
+"[('readi', 'NN'), ('player', 'NN'), ('one', 'CD'), ('consider', 'NN'), ('better', 'RBR'), ('expect', 'VBP')]",0
+"[('vintag', 'NN'), ('spielberg', 'NN')]",1
+"[('readi', 'NN'), ('set', 'VBN'), ('go', 'VBP'), ('oasi', 'JJ')]",1
+"[('reli', 'JJ'), ('heavili', 'NN'), ('empti', 'NN'), ('nostalgia', 'JJ'), ('popcultur', 'NN'), ('refer', 'VBP'), ('lack', 'NN'), ('engag', 'NN'), ('solid', 'JJ'), ('stori', 'NN')]",0
+"[('bare', 'NN'), ('resembl', 'NN'), ('novel', 'NN')]",-1
+"[('fanservic', 'JJ'), ('movi', 'NN')]",-1
+"[('welcom', 'NN'), ('back', 'RB'), ('spielberg', 'NN')]",0
+"[('instant', 'JJ'), ('classic', 'NN')]",1
+"[('watchabl', 'NN'), ('noth', 'DT')]",1
+"[('entertain', 'NN'), ('vr', 'NN'), ('movi', 'NN'), ('ignor', 'JJ'), ('realworld', 'NN'), ('problem', 'NN')]",0
+"[('virtual', 'JJ'), ('brilliant', 'NN'), ('easter', 'NN'), ('egg', 'NN'), ('plenti', 'NN')]",1
+"[('captur', 'NN'), ('adventur', 'NN'), ('book', 'NN'), ('lack', 'VBP'), ('heart', 'NN'), ('charact', 'NN'), ('growth', 'NN')]",1
+"[('book', 'NN'), ('might', 'MD'), ('better', 'VB'), ('refer', 'NN'), ('work', 'NN'), ('better', 'RBR'), ('screen', 'NN')]",0
+"[('quit', 'NN'), ('worth', 'NN'), ('watch', 'NN')]",1
+"[('philip', 'NN'), ('k', 'NN'), ('dumb', 'NN')]",1
+"[('kid', 'NN'), ('enjoy', 'NN')]",0
+"[('virtual', 'JJ'), ('virtuos', 'NN')]",1
+"[('great', 'JJ'), ('movi', 'NN'), ('differ', 'NN'), ('book', 'NN')]",0
+"[('need', 'NNS'), ('say', 'VBP'), ('thrill', 'VB'), ('s', 'JJ'), ('m', 'NN'), ('vr', 'NN'), ('fan', 'NN')]",1
+"[('nerd', 'JJ'), ('s', 'NN'), ('nerd', 'NN'), ('film', 'NN')]",0
+"[('film', 'NN'), ('equival', 'NN'), ('watch', 'NN'), ('someon', 'NN'), ('els', 'NNS'), ('play', 'VBP'), ('video', 'JJ'), ('game', 'NN')]",0
+"[('spielberg', 'JJ'), ('s', 'NN'), ('best', 'JJS'), ('year', 'NN')]",0
+"[('book', 'NN'), ('charact', 'NN'), ('pop', 'NN'), ('cultur', 'NN'), ('refer', 'NN')]",1
+"[('exercis', 'NN'), ('excess', 'JJ'), ('held', 'VBD'), ('togeth', 'JJ'), ('soulless', 'NN')]",0
+[],-1
