@@ -1,19 +1,17 @@
-# An official Python runtime as a parent image
+# Use the official Python image
 FROM python:3.11-slim
 
-# Setting the working directory to sentiment-analysis for movie recommendations directory
+# Set the working directory to /app
 WORKDIR /app
 
-# Copying the application code into the container dir
-COPY . /app/
+# Copy the application code into the container directory
+COPY . .
 
-# Installing Python dependencies
-RUN pip3 install --no-cache-dir -r requirements.txt
+# Install Python dependencies
+RUN pip install --no-cache-dir -r requirements.txt
 
-# Expose port
+# Expose port 5001
 EXPOSE 5001
 
+# Command to run the application
 CMD ["python", "main.py"]
-
-#docker run -p 5001:5001 movieapp
-
