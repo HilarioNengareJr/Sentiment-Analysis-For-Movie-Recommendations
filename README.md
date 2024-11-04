@@ -6,9 +6,11 @@ The Sentiment Analysis for Movie Recommendations project aims to improve movie r
 
 ## Key Features
 
-- **Sentiment Analysis**: Utilize natural language processing techniques to determine the sentiment (positive, negative, neutral) of user reviews.
+- **Sentiment Analysis and Content Based Filtering**: Utilize natural language processing techniques to determine the sentiment (positive, negative, neutral) of user reviews.
 - **Enhanced Recommendations**: Integrate sentiment data into the recommendation algorithm to tailor movie suggestions to individual user preferences.
 - **Model Training and Customization**: Train and customize your own sentiment analysis model using the provided datasets and scripts.
 - **Data Visualization**: Graphically represent sentiment analysis results to gain insights into user opinions and trends.
 
 This project combines machine learning and natural language processing to create a more nuanced and effective movie recommendation system by understanding and incorporating the emotional tone of user reviews.
+
+IMPROVED REPO IS FOUND AT:
