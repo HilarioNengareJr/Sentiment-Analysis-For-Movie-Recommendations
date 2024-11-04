@@ -1,3 +1,4 @@
+import os
 import json
 import pickle
 import requests
@@ -21,7 +22,7 @@ app.config['SESSION_TYPE'] = 'filesystem'
 Session(app)
 
 # Load the SVM model
-with open('./models/pipelines/pipeline.pkl', 'rb') as model_svm:
+with open(os.path.join(os.getcwd(), 'models', 'pipelines', 'pipeline.pkl'), 'rb') as model_svm:
     pipeline = pickle.load(model_svm)
 
 # Load movie data from API
