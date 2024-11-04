@@ -14,3 +14,5 @@ The Sentiment Analysis for Movie Recommendations project aims to improve movie r
 This project combines machine learning and natural language processing to create a more nuanced and effective movie recommendation system by understanding and incorporating the emotional tone of user reviews.
 
 IMPROVED REPO IS FOUND AT:
+
+https://github.com/HilarioNengareJr/Movie-Recommender-App
