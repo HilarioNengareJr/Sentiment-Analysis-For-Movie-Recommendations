@@ -13,6 +13,3 @@ Welcome! 🖐️ This project is designed to make movie recommendations more per
 
 This project combines machine learning and natural language processing to create a more nuanced and effective movie recommendation system by understanding and incorporating the emotional tone of user reviews.
 
-IMPROVED REPO IS FOUND AT:
-
-https://github.com/HilarioNengareJr/Movie-Recommender-App
