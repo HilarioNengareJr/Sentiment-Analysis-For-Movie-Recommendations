@@ -21,7 +21,7 @@ app.config['SESSION_TYPE'] = 'filesystem'
 Session(app)
 
 # Load the SVM model
-with open('./models/pipeline.pkl', 'rb') as model_svm:
+with open('./models/pipelines/pipeline.pkl', 'rb') as model_svm:
     pipeline = pickle.load(model_svm)
 
 # Load movie data from API
