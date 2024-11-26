@@ -19,11 +19,15 @@ This project combines machine learning and natural language processing to create
 ### 1
 ![Screenshot from 2024-10-04 11-07-59](https://github.com/user-attachments/assets/bc5284a9-b81e-440a-bed4-7e66ba8a6d13)
 
+## NEGATIVE RESPONSE
+
 ### 2
 ![Screenshot from 2024-10-04 11-09-32](https://github.com/user-attachments/assets/c38266b3-a4ff-4ce2-8baf-fd35202977ef)
 
 ### 3
 ![Screenshot from 2024-10-04 11-09-41](https://github.com/user-attachments/assets/9bdfc0b6-e0d8-493a-986e-2051e1f5042c)
+
+## POSITIVE RESPONSE
 
 ### 4
 ![image](https://github.com/user-attachments/assets/d667384f-3288-4cb8-b554-8d1eda310f53)
