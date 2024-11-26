@@ -22,7 +22,7 @@ app.config['SESSION_TYPE'] = 'filesystem'
 Session(app)
 
 # Load the SVM model
-with open('/opt/render/project/src/enter-at-own-risk/models/pipelines/pipeline.pkl', 'rb') as model_svm:
+with open('./models/pipelines/pipeline.pkl', 'rb') as model_svm:
     pipeline = pickle.load(model_svm)
 
 # Load movie data from API
@@ -104,7 +104,7 @@ class ContentBasedFilter:
 def index():
     movies = []
     form = ReviewForm()
-    title = 'Review and Recommend'
+    title = 'Flix | Review and Recommend'
     
     if request.method == 'POST' and form.validate_on_submit():
         movie_id = request.form['movie_id']
