@@ -24,3 +24,22 @@ This project combines machine learning and natural language processing to create
 
 ### 3
 ![Screenshot from 2024-10-04 11-09-41](https://github.com/user-attachments/assets/9bdfc0b6-e0d8-493a-986e-2051e1f5042c)
+
+### 4
+![image](https://github.com/user-attachments/assets/d667384f-3288-4cb8-b554-8d1eda310f53)
+
+### 5
+![image](https://github.com/user-attachments/assets/27763f13-6f1d-47bb-9751-01200b0ae0af)
+
+## To Use | Modify
+
+1. Clone repo or fork or whatever.
+
+2. Move into enter-at-own-risk/ directory and create venv.
+
+4. Install requirements.txt and then run.
+
+5. Should be live on port 5000.
+   
+
+
