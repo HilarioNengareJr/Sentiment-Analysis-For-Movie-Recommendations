@@ -16,23 +16,23 @@ This project combines machine learning and natural language processing to create
 
 ## Example Use Case Screenshots
 
-### 1
+## ROOT PAGE
 ![Screenshot from 2024-10-04 11-07-59](https://github.com/user-attachments/assets/bc5284a9-b81e-440a-bed4-7e66ba8a6d13)
 
-## NEGATIVE RESPONSE
+## NEGATIVE REVIEW AND RESPONSE
 
-### 2
+### 1
 ![Screenshot from 2024-10-04 11-09-32](https://github.com/user-attachments/assets/c38266b3-a4ff-4ce2-8baf-fd35202977ef)
 
-### 3
+### 2
 ![Screenshot from 2024-10-04 11-09-41](https://github.com/user-attachments/assets/9bdfc0b6-e0d8-493a-986e-2051e1f5042c)
 
-## POSITIVE RESPONSE
+## POSITIVE REVIEW AND RESPONSE
 
-### 4
+### 1
 ![image](https://github.com/user-attachments/assets/d667384f-3288-4cb8-b554-8d1eda310f53)
 
-### 5
+### 2
 ![image](https://github.com/user-attachments/assets/27763f13-6f1d-47bb-9751-01200b0ae0af)
 
 ## To Use | Modify
