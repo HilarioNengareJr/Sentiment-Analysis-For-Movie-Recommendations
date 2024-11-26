@@ -35,6 +35,10 @@ This project combines machine learning and natural language processing to create
 ### 2
 ![image](https://github.com/user-attachments/assets/27763f13-6f1d-47bb-9751-01200b0ae0af)
 
+## SEARCH FUNCTIONALITY
+![image](https://github.com/user-attachments/assets/e16a478e-220d-4830-8055-968a855c0aad)
+
+
 ## To Use | Modify
 
 1. Clone repo or fork or whatever.
